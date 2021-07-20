@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lektion Passwörter on BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>/050-lektion-passwoerter/</link>
+    <description>Recent content in Lektion Passwörter on BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 09 Mar 2021 09:52:01 +0000</lastBuildDate><atom:link href="/050-lektion-passwoerter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erklärung</title>
+      <link>/050-lektion-passwoerter/01.erklaerung/</link>
+      <pubDate>Sun, 18 Apr 2021 14:08:04 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/01.erklaerung/</guid>
+      <description>Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.
+Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel &amp;ldquo;Passwort&amp;rdquo; den Zugang zu sensiblen Daten und Verfahren.
+Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
+    </item>
+    
+    <item>
+      <title>Der richtige Umgang</title>
+      <link>/050-lektion-passwoerter/02.der-richtige-umgang/</link>
+      <pubDate>Sun, 18 Apr 2021 14:11:28 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/02.der-richtige-umgang/</guid>
+      <description>Passwörter bilden und merken Sie können ein Sprichwort, eine Liedzeile oder einen Begriff in Kombination mit Ziffern und Sonderzeichen verwenden, um daraus ein Passwort zu erstellen. Aus &amp;ldquo;Siebenmeilenstiefel&amp;rdquo; wird zum Beispiel durch die Ersetzung des Wortes Sieben durch die Zahl &amp;ldquo;7&amp;rdquo;, Meilen durch die Abkürzung &amp;ldquo;km&amp;rdquo; und die Ersetzung des Buchstabens &amp;ldquo;i&amp;rdquo; durch ein Ausrufezeichen das sichere Passwort 7kmSt!efel.
+Ein Trick, um mehrere sichere Passwörter für verschiedene Anwendungen oder Internetseiten zu besitzen: Bilden Sie wie hier geschildert ein Passwort und stellen Sie diesem bei jeder Anwendung oder Internetseite ein individuelles Kürzel voran, zum Beispiel so:</description>
+    </item>
+    
+    <item>
+      <title>Gefahren</title>
+      <link>/050-lektion-passwoerter/03.gefahren/</link>
+      <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/03.gefahren/</guid>
+      <description>Ausspionieren von Passwörtern Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?
+ Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, möglichst lange Passwörter zu verwenden, die dafür in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/050-lektion-passwoerter/04.zusammenfassung/</link>
+      <pubDate>Sun, 18 Apr 2021 14:15:07 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/04.zusammenfassung/</guid>
+      <description>Wir fassen die wichtigsten Passwort-Regeln zusammen:  Sichere, möglichst einmalige Passwörter verwenden Mindestens acht Zeichen lang, Buchstaben und Zahlen sowie Groß- und Kleinschreibung verwenden Keine Passwörter aus Wörterbüchern, keine Namen, Geburtsdaten etc. Notieren Sie Ihr Passwort nirgendwo Geben Sie Ihr Passwort nicht an andere Personen weiter Wenn Sie keine besonders langen Passwörter verwenden, ändern Sie diese regelmäßig Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social Engineering-Angriff?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Passwörter</title>
+      <link>/050-lektion-passwoerter/90.quiz-passwoerter/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/90.quiz-passwoerter/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Womit ist ein Passwort zu vergleichen?</description>
+    </item>
+    
+  </channel>
+</rss>

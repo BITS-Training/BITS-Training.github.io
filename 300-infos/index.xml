@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lektion Mein Arbeitsplatz on BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>/300-infos/</link>
+    <description>Recent content in Lektion Mein Arbeitsplatz on BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="/300-infos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weitere Informationen</title>
+      <link>/300-infos/weitere-informationen/</link>
+      <pubDate>Tue, 21 Jul 2020 15:32:09 +0200</pubDate>
+      
+      <guid>/300-infos/weitere-informationen/</guid>
+      <description> Updates und Infos zu BITS: www.bits-training.de Bundesamt für Sicherheit in der Informationstechnik (Bürgerportal): www.bsi-fuer-buerger.de  </description>
+    </item>
+    
+    <item>
+      <title>Herausgeber &amp; Lizenz</title>
+      <link>/300-infos/herausgeber-und-lizenz/</link>
+      <pubDate>Tue, 21 Jul 2020 15:32:09 +0200</pubDate>
+      
+      <guid>/300-infos/herausgeber-und-lizenz/</guid>
+      <description>BITS wird herausgegeben von der Kommunal Agentur NRW GmbH und Herrn Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg, und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Die Urheber sind Herr Dr. Lutz Gollan und Herr Helmut Honermann, PureSec GmbH. Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
+BITS ist kostenlos und steht unter der Lizenz Creative Commons BY-SA 4.</description>
+    </item>
+    
+    <item>
+      <title>Barrierefreiheit</title>
+      <link>/300-infos/barrierefreiheit/</link>
+      <pubDate>Fri, 12 Mar 2021 11:14:35 +0000</pubDate>
+      
+      <guid>/300-infos/barrierefreiheit/</guid>
+      <description>Tastaturnavigation BITS unterstützt die Navigation auch über die Tastatur.
+Um zur nächsten Seite zu gelangen, ist die Taste Pfeiltaste nach rechts zu verwenden, um zur vorangehenden Seite zu kommen die Pfeiltaste nach links.
+Kontrast Die Kontrast-Darstellung wurde weitestgehend barrierefrei gestaltet.</description>
+    </item>
+    
+  </channel>
+</rss>

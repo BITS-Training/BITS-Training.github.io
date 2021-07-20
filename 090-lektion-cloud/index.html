@@ -1,0 +1,3548 @@
+<!DOCTYPE html>
+<html lang="de" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.85.0" />
+    <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
+<meta name="author" content="Dr. Lutz Gollan">
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>Lektion Cloud :: BITS | Behörden-IT-Sicherheitstraining</title>
+
+    
+    <link href="/css/nucleus.css" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css" rel="stylesheet">
+    <link href="/css/hybrid.css" rel="stylesheet">
+    <link href="/css/featherlight.min.css" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="/css/auto-complete.css" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
+    <link href="/css/tabs.css" rel="stylesheet">
+    <link href="/css/hugo-theme.css" rel="stylesheet">
+    
+    <link href="/css/theme-bits.css" rel="stylesheet">
+    
+    
+
+    <script src="/js/jquery-3.3.1.min.js"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/090-lektion-cloud/">
+    <nav id="sidebar" class="showVisitedLinks">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="/010-start/">
+  <img src="/images/logo.jpg" alt="BITS Logo">
+  </svg>
+</a>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Suchen...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js"></script>
+<script type="text/javascript" src="/js/auto-complete.js"></script>
+<script type="text/javascript">
+    
+        var baseurl = "\/";
+    
+</script>
+<script type="text/javascript" src="/js/search.js"></script>
+
+    
+  </div>
+  
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010-start/" title="Start" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010-start/">
+          Start
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020-einleitung/" title="Einleitung" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020-einleitung/">
+          Einleitung
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/030-lektion-e-mail/" title="Lektion Sicherer Umgang mit E-Mails" class="dd-item
+        
+        
+        
+        ">
+      <a href="/030-lektion-e-mail/">
+          <b>1. </b>Lektion E-Mails
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/01.was-sind-emails/" title="Was sind E-Mails?" class="dd-item ">
+        <a href="/030-lektion-e-mail/01.was-sind-emails/">
+        Was sind E-Mails?
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/02.uebermittlung-von-e-mails/" title="Übermittlung von E-Mails im Internet" class="dd-item ">
+        <a href="/030-lektion-e-mail/02.uebermittlung-von-e-mails/">
+        Übermittlung von E-Mails im Internet
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/03.spam-e-mails/" title="Spam-E-Mails" class="dd-item ">
+        <a href="/030-lektion-e-mail/03.spam-e-mails/">
+        Spam-E-Mails
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/04.computerviren/" title="Computerviren per E-Mail" class="dd-item ">
+        <a href="/030-lektion-e-mail/04.computerviren/">
+        Computerviren per E-Mail
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/05.phishing-und-pharming/" title="Phishing und Pharming" class="dd-item ">
+        <a href="/030-lektion-e-mail/05.phishing-und-pharming/">
+        Phishing und Pharming
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/06.fehlgeleitete-informationen/" title="Fehlgeleitete Informationen" class="dd-item ">
+        <a href="/030-lektion-e-mail/06.fehlgeleitete-informationen/">
+        Fehlgeleitete Informationen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/07.erste-hilfe/" title="Erste Hilfe" class="dd-item ">
+        <a href="/030-lektion-e-mail/07.erste-hilfe/">
+        Erste Hilfe
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/08.vertrauliche-informationen/" title="Vertrauliche Informationen" class="dd-item ">
+        <a href="/030-lektion-e-mail/08.vertrauliche-informationen/">
+        Vertrauliche Informationen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/09.dienstliche-und-private-nutzung/" title="Dienstliche und private Nutzung" class="dd-item ">
+        <a href="/030-lektion-e-mail/09.dienstliche-und-private-nutzung/">
+        Dienstliche und private Nutzung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/10.net-t-ikette/" title="Net(t)ikette" class="dd-item ">
+        <a href="/030-lektion-e-mail/10.net-t-ikette/">
+        Net(t)ikette
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/11.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/030-lektion-e-mail/11.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030-lektion-e-mail/90.quiz-e-mails/" title="Quiz - E-Mails" class="dd-item ">
+        <a href="/030-lektion-e-mail/90.quiz-e-mails/">
+        Quiz - E-Mails
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/040-lektion-viren/" title="Lektion Viren" class="dd-item
+        
+        
+        
+        ">
+      <a href="/040-lektion-viren/">
+          <b>2. </b>Lektion Viren
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/01.was-sind-computerviren/" title="Was sind Computerviren?" class="dd-item ">
+        <a href="/040-lektion-viren/01.was-sind-computerviren/">
+        Was sind Computerviren?
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/02.typen-von-viren/" title="Typen von Viren" class="dd-item ">
+        <a href="/040-lektion-viren/02.typen-von-viren/">
+        Typen von Viren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/" title="Mögliche Schäden durch Virenbefall" class="dd-item ">
+        <a href="/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/">
+        Mögliche Schäden durch Virenbefall
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/04.infektionswege/" title="Infektionswege" class="dd-item ">
+        <a href="/040-lektion-viren/04.infektionswege/">
+        Infektionswege
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/05.risiken-und-schaeden/" title="Risiken und Schäden" class="dd-item ">
+        <a href="/040-lektion-viren/05.risiken-und-schaeden/">
+        Risiken und Schäden
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/06.vorbeugemassnahmen/" title="Vorbeugemaßnahmen" class="dd-item ">
+        <a href="/040-lektion-viren/06.vorbeugemassnahmen/">
+        Vorbeugemaßnahmen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/07.virenbefall-was-tun/" title="Virenbefall - was tun?" class="dd-item ">
+        <a href="/040-lektion-viren/07.virenbefall-was-tun/">
+        Virenbefall - was tun?
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/08.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/040-lektion-viren/08.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/040-lektion-viren/90.quiz-viren/" title="Quiz - Viren" class="dd-item ">
+        <a href="/040-lektion-viren/90.quiz-viren/">
+        Quiz - Viren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/050-lektion-passwoerter/" title="Lektion Passwörter" class="dd-item
+        
+        
+        
+        ">
+      <a href="/050-lektion-passwoerter/">
+          <b>3. </b>Lektion Passwörter
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/050-lektion-passwoerter/01.erklaerung/" title="Erklärung" class="dd-item ">
+        <a href="/050-lektion-passwoerter/01.erklaerung/">
+        Erklärung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/050-lektion-passwoerter/02.der-richtige-umgang/" title="Der richtige Umgang" class="dd-item ">
+        <a href="/050-lektion-passwoerter/02.der-richtige-umgang/">
+        Der richtige Umgang
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/050-lektion-passwoerter/03.gefahren/" title="Gefahren" class="dd-item ">
+        <a href="/050-lektion-passwoerter/03.gefahren/">
+        Gefahren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/050-lektion-passwoerter/04.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/050-lektion-passwoerter/04.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/050-lektion-passwoerter/90.quiz-passwoerter/" title="Quiz - Passwörter" class="dd-item ">
+        <a href="/050-lektion-passwoerter/90.quiz-passwoerter/">
+        Quiz - Passwörter
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/060-lektion-internet/" title="Lektion Surfen im Internet" class="dd-item
+        
+        
+        
+        ">
+      <a href="/060-lektion-internet/">
+          <b>4. </b>Lektion Surfen im Internet
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/01.was-ist-das-internet/" title="Was ist das Internet?" class="dd-item ">
+        <a href="/060-lektion-internet/01.was-ist-das-internet/">
+        Was ist das Internet?
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/02.gefahren-im-internet/" title="Gefahren im Internet" class="dd-item ">
+        <a href="/060-lektion-internet/02.gefahren-im-internet/">
+        Gefahren im Internet
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/" title="Vertrauenswürdigkeit von Webseiten" class="dd-item ">
+        <a href="/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/">
+        Vertrauenswürdigkeit von Webseiten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/04.technische-webinhalte/" title="Technische Webinhalte" class="dd-item ">
+        <a href="/060-lektion-internet/04.technische-webinhalte/">
+        Technische Webinhalte
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/05.schutz-vor-technischen-webinhalten/" title="Schutz vor technischen Webinhalten" class="dd-item ">
+        <a href="/060-lektion-internet/05.schutz-vor-technischen-webinhalten/">
+        Schutz vor technischen Webinhalten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/" title="Verschlüsselter Zugriff auf Webseiten" class="dd-item ">
+        <a href="/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/">
+        Verschlüsselter Zugriff auf Webseiten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/07.blocken-unerwuenschter-seiten/" title="Blocken unerwünschter Seiten" class="dd-item ">
+        <a href="/060-lektion-internet/07.blocken-unerwuenschter-seiten/">
+        Blocken unerwünschter Seiten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/08.internet-richtlinien/" title="Richtlinien zur Internetnutzung" class="dd-item ">
+        <a href="/060-lektion-internet/08.internet-richtlinien/">
+        Richtlinien zur Internetnutzung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/09.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/060-lektion-internet/09.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/060-lektion-internet/90.quiz-internet/" title="Quiz - Internet" class="dd-item ">
+        <a href="/060-lektion-internet/90.quiz-internet/">
+        Quiz - Internet
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/070-lektion-vertrauliche-daten/" title="Lektion Vertrauliche Daten" class="dd-item
+        
+        
+        
+        ">
+      <a href="/070-lektion-vertrauliche-daten/">
+          <b>5. </b>Lektion Vertrauliche Daten
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/01.vertrauliche-daten/" title="Vertrauliche Daten" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/01.vertrauliche-daten/">
+        Vertrauliche Daten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/" title="Elektronische Datenverarbeitung" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/">
+        Elektronische Datenverarbeitung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/" title="Identifizierung vertraulicher Daten" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/">
+        Identifizierung vertraulicher Daten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/" title="Betriebsgeheimnisse" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/">
+        Betriebsgeheimnisse
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/05.interne-informationen/" title="Interne Informationen" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/05.interne-informationen/">
+        Interne Informationen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/" title="Entscheidungsrelevante Informationen" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/">
+        Entscheidungsrelevante Informationen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/" title="Persönlich-vertrauliche Informationen" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/">
+        Persönlich-vertrauliche Informationen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/" title="Datenschutzbeauftragte" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/">
+        Datenschutzbeauftragte
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/09.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/09.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/" title="Quiz - Vertrauliche Daten" class="dd-item ">
+        <a href="/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/">
+        Quiz - Vertrauliche Daten
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/080-lektion-social-media/" title="Lektion Social Media" class="dd-item
+        
+        
+        
+        ">
+      <a href="/080-lektion-social-media/">
+          <b>6. </b>Lektion Social Media
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/080-lektion-social-media/01.einleitung/" title="Social Media-Dienste" class="dd-item ">
+        <a href="/080-lektion-social-media/01.einleitung/">
+        Social Media-Dienste
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/080-lektion-social-media/02.gesch%C3%A4ftsmodell/" title="Geschäftsmodell" class="dd-item ">
+        <a href="/080-lektion-social-media/02.gesch%C3%A4ftsmodell/">
+        Geschäftsmodell
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/080-lektion-social-media/03.social-media-sicher-nutzen/" title="Social Media sicher nutzen" class="dd-item ">
+        <a href="/080-lektion-social-media/03.social-media-sicher-nutzen/">
+        Social Media sicher nutzen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/080-lektion-social-media/90.quiz-social-media/" title="Quiz - Social Media" class="dd-item ">
+        <a href="/080-lektion-social-media/90.quiz-social-media/">
+        Quiz - Social Media
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/090-lektion-cloud/" title="Lektion Cloud" class="dd-item
+        parent
+        active
+        
+        ">
+      <a href="/090-lektion-cloud/">
+          <b>7. </b>Lektion Cloud
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/01.einleitung/" title="Cloud-Dienste" class="dd-item ">
+        <a href="/090-lektion-cloud/01.einleitung/">
+        Cloud-Dienste
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/02.ueberblick-cloud-dienste/" title="Überblick Cloud-Dienste" class="dd-item ">
+        <a href="/090-lektion-cloud/02.ueberblick-cloud-dienste/">
+        Überblick Cloud-Dienste
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/03.vorteile-und-gefahren/" title="Vorteile und Gefahren" class="dd-item ">
+        <a href="/090-lektion-cloud/03.vorteile-und-gefahren/">
+        Vorteile und Gefahren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/04.cloud-dienste-sicher-nutzen/" title="Cloud-Dienste sicher nutzen" class="dd-item ">
+        <a href="/090-lektion-cloud/04.cloud-dienste-sicher-nutzen/">
+        Cloud-Dienste sicher nutzen
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/05.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/090-lektion-cloud/05.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/090-lektion-cloud/90.quiz-cloud/" title="Quiz - Cloud" class="dd-item ">
+        <a href="/090-lektion-cloud/90.quiz-cloud/">
+        Quiz - Cloud
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/100-lektion-mobile-geraete/" title="Lektion Mobile Geräte" class="dd-item
+        
+        
+        
+        ">
+      <a href="/100-lektion-mobile-geraete/">
+          <b>8. </b>Lektion Mobile Geräte
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/01.einleitung/" title="Einleitung" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/01.einleitung/">
+        Einleitung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/02.besondere-gefahren/" title="Besondere Gefahren" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/02.besondere-gefahren/">
+        Besondere Gefahren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/" title="Heutige Kommunikationstechnologien" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/">
+        Heutige Kommunikationstechnologien
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/" title="WLAN - Wireless Local Area Network" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/">
+        WLAN - Wireless Local Area Network
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/05.notebooks/" title="Notebooks" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/05.notebooks/">
+        Notebooks
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/06.mobiltelefone/" title="Mobiltelefone" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/06.mobiltelefone/">
+        Mobiltelefone
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/" title="Apps und &#34;Bring your own device&#34;" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/">
+        Apps und &#34;Bring your own device&#34;
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/08.mobile-datentraeger/" title="Mobile Datenträger" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/08.mobile-datentraeger/">
+        Mobile Datenträger
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/09.zusammenfassung/" title="Zusammenfassung" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/09.zusammenfassung/">
+        Zusammenfassung
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/100-lektion-mobile-geraete/90.quiz-mobile-geraete/" title="Quiz - Mobile Geräte" class="dd-item ">
+        <a href="/100-lektion-mobile-geraete/90.quiz-mobile-geraete/">
+        Quiz - Mobile Geräte
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/110-lektion-mein-arbeitsplatz/" title="Lektion Mein Arbeitsplatz" class="dd-item
+        
+        
+        
+        ">
+      <a href="/110-lektion-mein-arbeitsplatz/">
+          <b>9. </b>Lektion Mein Arbeitsplatz
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/" title="Sicherer Arbeitsplatz" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/">
+        Sicherer Arbeitsplatz
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/" title="Passwörter nicht weitergeben" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/">
+        Passwörter nicht weitergeben
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/03.zugang-sichern/" title="Zugang sichern" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/03.zugang-sichern/">
+        Zugang sichern
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/" title="Social Engineering-Angriffe abwehren" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/">
+        Social Engineering-Angriffe abwehren
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/" title="Vorsicht bei mobilen Datenträgern" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/">
+        Vorsicht bei mobilen Datenträgern
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/" title="Verhalten im Schadensfall" class="dd-item ">
+        <a href="/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/">
+        Verhalten im Schadensfall
+        <i class="fas fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/200-ansprechpersonen/" title="Infos / Ansprechpersonen" class="dd-item
+        
+        
+        
+        ">
+      <a href="/200-ansprechpersonen/">
+          Infos / Ansprechpersonen
+          
+            <i class="fas fa-check read-icon"></i>
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+  
+ 
+
+          
+        
+    </ul>
+
+    
+    
+      <section id="shortcuts">
+        <h3>Mehr</h3>
+        <ul>
+          
+              <li>
+                  <a class="padding" href="/300-infos/weitere-informationen/"><i class='fas fa-fw fa-info-circle'></i> Weitere Informationen</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="/300-infos/herausgeber-und-lizenz/"><i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="/300-infos/barrierefreiheit/"><i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit</a>
+              </li>
+          
+        </ul>
+      </section>
+    
+
+    
+    <section id="prefooter">
+      <hr/>
+      <ul>
+      
+
+      
+        <li><a class="padding" href="#" data-clear-history-toggle=""><i class="fas fa-history fa-fw"></i> Verlauf löschen</a></li>
+      
+      </ul>
+    </section>
+    
+    <section id="footer">
+      
+    </section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            <a href='/'>Startseite</a> > Lektion Cloud
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+
+<div id="site-icon" class="site-icon-list"><i class="fas fa-cloud"></i></div>
+
+        </div>
+        
+          <div id="chapter">
+        
+        <div id="body-inner">
+          
+
+        
+
+
+
+	<h1 id="lektion-7">Lektion 7</h1>
+<h2 id="cloud">Cloud</h2>
+<p>In dieser Lektion lernen Sie,</p>
+<ul>
+<li>was man unter Cloud-Diensten versteht,</li>
+<li>welche Cloud-Dienste es gibt,</li>
+<li>wie sich öffentliche und private Cloud-Dienste unterscheiden und</li>
+<li>wie Sie Cloud-Dienste sicher nutzen können.</li>
+</ul>
+
+
+
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+            </div> 
+        
+        </div>
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+        
+                    
+            
+        
+
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/080-lektion-social-media/90.quiz-social-media/" title="Quiz - Social Media"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/090-lektion-cloud/01.einleitung/" title="Cloud-Dienste" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/perfect-scrollbar.min.js"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="/js/jquery.sticky.js"></script>
+    <script src="/js/featherlight.min.js"></script>
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js"></script>
+    <script src="/js/learn.js"></script>
+    <script src="/js/hugo-learn.js"></script>
+    
+        
+            <script src="/mermaid/mermaid.js"></script>
+        
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+    
+    
+
+  </body>
+</html>

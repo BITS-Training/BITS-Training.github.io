@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startseite on BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>/</link>
+    <description>Recent content in Startseite on BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 18 Apr 2021 14:18:09 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erklärung</title>
+      <link>/050-lektion-passwoerter/01.erklaerung/</link>
+      <pubDate>Sun, 18 Apr 2021 14:08:04 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/01.erklaerung/</guid>
+      <description>Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.
+Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel &amp;ldquo;Passwort&amp;rdquo; den Zugang zu sensiblen Daten und Verfahren.
+Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
+    </item>
+    
+    <item>
+      <title>Sicherer Arbeitsplatz</title>
+      <link>/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</guid>
+      <description>Der Schutz von Informationen der durch Ihre Behörde oder Einrichtung verarbeiteten Daten ist Aufgabe aller Beschäftigten. Nicht nur die von Ihnen zu verarbeitenden Daten können durch Ihr Verhalten sicherheitsrelevanten Gefahren ausgesetzt werden.
+Bitte sorgen Sie für eine sichere Arbeitsumgebung, auch im Home Office:
+  Verhindern Sie, dass Dritte, auch nicht Familienangehörige, Daten und Akten einsehen können
+  Verwenden Sie ein Netzwerkkabel oder ein sicheres WLAN (Hinweise hierzu in der Lektion Mobile Geräte)</description>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>/100-lektion-mobile-geraete/01.einleitung/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/01.einleitung/</guid>
+      <description>Was sind &amp;ldquo;mobile Geräte&amp;rdquo;? Mobile Geräte gehören mehr und mehr zum alltäglichen Leben. Hierzu zählt man Mobiltelefone (u.a. Smartphones), Notebooks (Laptops, Tablets), aber auch Chipkarten und USB-Sticks.
+Mobile Geräte werden sowohl im Privatbereich als auch bei der täglichen Arbeit in Behörden und Unternehmen eingesetzt. So ist es möglich, dass sich auf ein und demselben Gerät neben den privaten Daten und Anwendungen des Benutzers oder der Benutzerin auch sensible dienstliche Daten befinden.</description>
+    </item>
+    
+    <item>
+      <title>Cloud-Dienste</title>
+      <link>/090-lektion-cloud/01.einleitung/</link>
+      <pubDate>Wed, 10 Mar 2021 09:12:06 +0000</pubDate>
+      
+      <guid>/090-lektion-cloud/01.einleitung/</guid>
+      <description>Was sind Cloud-Dienste? Das Internet ist für die meisten von uns nur einen Mausklick oder Fingerdruck entfernt, sei es vom Arbeitsplatzrechner, sei es vom Smartphone aus. Die Übertragungsgeschwindigkeiten und die Speichermöglichkeiten im Internet sind mittlerweile so gut, dass bestimmte Angebote direkt im Internet genutzt werden können, ohne sie lokal zu installieren.
+Diese Angebote reichen von Speicherplatz für Fotos oder Videos bis hin zur Möglichkeit, Computerprogramme, die im Internet liegen, über den Browser so zu nutzen, als wären sie vor Ort installiert.</description>
+    </item>
+    
+    <item>
+      <title>Social Media-Dienste</title>
+      <link>/080-lektion-social-media/01.einleitung/</link>
+      <pubDate>Tue, 09 Mar 2021 10:20:36 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/01.einleitung/</guid>
+      <description>Was sind Social Media-Dienste? Mit der Entwicklung des Internets stiegen das Interesse und die Bereitschaft der Nutzerinnen und Nutzer, selbst Inhalte im Netz bereitzustellen. Dies muss nicht immer auf einer eigenen Homepage sein. Oft ist es einfacher, Fotos, Erlebnisse oder Kommentare auf Internetseiten zu veröffentlichen, die technisch von Dritten angeboten werden.
+Dabei besteht häufig die Möglichkeit, die von anderen veröffentlichten Daten zu kommentieren oder sogar weiter zu entwickeln. Daher der Name „Social Media“.</description>
+    </item>
+    
+    <item>
+      <title>Vertrauliche Daten</title>
+      <link>/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:16:46 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</guid>
+      <description>Wann sind Daten vertraulich? Grundsätzlich dann, wenn ihre Veröffentlichung oder ein unberechtigter Zugang schutzwürdige Interessen verletzen würden. Beispielhaft sei der Eintrag im standesamtlichen Geburtenregister, dass ein Kind adoptiert ist, genannt.
+Die meisten von uns haben täglich mit Daten zu tun, die mehr oder weniger vertrauliche Inhalte haben. Oft fehlt das Bewusstsein, wie schnell vertrauliche Informationen in unbefugte Hände geraten können. Auslöser sind neben nicht vollständiger Kenntnis der rechtlichen Rahmenbedingungen (z.B. die jeweiligen Datenschutz- und ggf.</description>
+    </item>
+    
+    <item>
+      <title>Was ist das Internet?</title>
+      <link>/060-lektion-internet/01.was-ist-das-internet/</link>
+      <pubDate>Tue, 09 Mar 2021 10:12:52 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/01.was-ist-das-internet/</guid>
+      <description>Das Internet ist ein weltumspannendes Netz von Millionen von Rechnersystemen. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.
+Eine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.</description>
+    </item>
+    
+    <item>
+      <title>Was sind Computerviren?</title>
+      <link>/040-lektion-viren/01.was-sind-computerviren/</link>
+      <pubDate>Sat, 06 Mar 2021 09:15:44 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/01.was-sind-computerviren/</guid>
+      <description>Viren (auch &amp;ldquo;Schadprogramm&amp;rdquo;, &amp;ldquo;Malware&amp;rdquo; etc. genannt) sind kleine Computer-Programme oder Programmteile, die unerwünschte Aktionen auslösen und verschiedenste Auswirkungen auf Ihr Computersystem haben können:
+ In der harmlosesten Stufe sind Viren nur lästig oder stiften Verwirrung, z. B. durch ungewöhnliche Aktionen, die Ihre Daten aber nicht beschädigen. Andere Viren nutzen Ihr System, in dem sie Programme missbrauchen, z.B. Ihr E-Mail-Programm verwenden, um E-Mails an alle Adressen in Ihrem Adressbuch zu senden oder diese abzugreifen.</description>
+    </item>
+    
+    <item>
+      <title>Was sind E-Mails?</title>
+      <link>/030-lektion-e-mail/01.was-sind-emails/</link>
+      <pubDate>Sat, 06 Mar 2021 09:10:22 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/01.was-sind-emails/</guid>
+      <description>E-Mails sind elektronische Nachrichten, die innerhalb einer Behörde oder Einrichtung, aber auch weltweit über das Internet mit dem Computer, Smartphone, Laptop etc. versendet und empfangen werden. Auch wenn im privaten Bereich mittlerweile elektronische Nachrichten häufiger über Messenger-Programme wie Signal, WhatsApp oder Telegram per Smartphone versendet werden, haben E-Mails im Beruf weiter eine große praktische Bedeutung.
+Dabei besteht eine E-Mail im Allgemeinen aus einer oder mehreren Empfänger-Adressen, einem Betreff (&amp;ldquo;Subject&amp;rdquo;), einer Absender-Adresse, dem E-Mail-Text (&amp;ldquo;Body&amp;rdquo;) und eventuell Anlagen (&amp;ldquo;Attachments&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Der richtige Umgang</title>
+      <link>/050-lektion-passwoerter/02.der-richtige-umgang/</link>
+      <pubDate>Sun, 18 Apr 2021 14:11:28 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/02.der-richtige-umgang/</guid>
+      <description>Passwörter bilden und merken Sie können ein Sprichwort, eine Liedzeile oder einen Begriff in Kombination mit Ziffern und Sonderzeichen verwenden, um daraus ein Passwort zu erstellen. Aus &amp;ldquo;Siebenmeilenstiefel&amp;rdquo; wird zum Beispiel durch die Ersetzung des Wortes Sieben durch die Zahl &amp;ldquo;7&amp;rdquo;, Meilen durch die Abkürzung &amp;ldquo;km&amp;rdquo; und die Ersetzung des Buchstabens &amp;ldquo;i&amp;rdquo; durch ein Ausrufezeichen das sichere Passwort 7kmSt!efel.
+Ein Trick, um mehrere sichere Passwörter für verschiedene Anwendungen oder Internetseiten zu besitzen: Bilden Sie wie hier geschildert ein Passwort und stellen Sie diesem bei jeder Anwendung oder Internetseite ein individuelles Kürzel voran, zum Beispiel so:</description>
+    </item>
+    
+    <item>
+      <title>Passwörter nicht weitergeben</title>
+      <link>/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/</guid>
+      <description>Ihnen anvertraute oder von Ihnen erzeugte Passwörter dürfen Sie keinesfalls weitergeben. Es ist auch verboten, sie aufzuschreiben, in Schubladen, unter Schreibtischunterlagen o.ä. – also letztlich für Dritte zugänglich – aufzubewahren!
+Passwörter sind personengebunden. Das heißt: Alle berechtigten Personen können über die zuständige Organisationseinheit ein eigenes Passwort erhalten. Sie benötigen nicht das Ihrige!
+Falls Sie Schwierigkeiten mit der Bedienung passwortgeschützter Daten oder Anwendungen haben, kann die zuständige Einheit auch ohne Kenntnis Ihres persönlichen Passworts Hilfe leisten.</description>
+    </item>
+    
+    <item>
+      <title>Besondere Gefahren</title>
+      <link>/100-lektion-mobile-geraete/02.besondere-gefahren/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/02.besondere-gefahren/</guid>
+      <description>Kleine Geräte können leicht gestohlen werden oder verloren gehen Grundsätzlich unterliegen mobile Geräte und die auf ihnen gespeicherten Daten den gleichen Sicherheitsbestimmungen wie alle anderen IT-Systeme Ihrer Behörde oder Einrichtung.
+Mobile Geräte und Speichermedien unterliegen jedoch besonderen Gefahren, denn
+ sie werden häufig auch außerhalb des Dienstgebäudes verwendet und sie können leichter vergessen, verloren oder gestohlen werden; dadurch können vertrauliche Daten schnell in falsche Hände geraten.  Diese Gefahren gilt es mit geeigneten Sicherheitsmaßnahmen zu verringern.</description>
+    </item>
+    
+    <item>
+      <title>Überblick Cloud-Dienste</title>
+      <link>/090-lektion-cloud/02.ueberblick-cloud-dienste/</link>
+      <pubDate>Wed, 10 Mar 2021 09:12:20 +0000</pubDate>
+      
+      <guid>/090-lektion-cloud/02.ueberblick-cloud-dienste/</guid>
+      <description>Zu den typischen Cloud-Diensten zählen u.a.
+ Speicher (z.B. für Fotos) Anwendungen (z.B. Bildbearbeitungsprogramme) Rechenleistungen (z.B. Internet-Server für eine eigene Homepage)  Bei einigen dieser Dienste ist es den Anbieter*innen gleich, für welchen konkreten Zweck sie genutzt werden - die freie Nutzbarkeit ist dann Teil des Geschäftsmodells.
+Cloud-Dienste werden sowohl kostenpflichtig als auch kostenfrei angeboten. Bei den kostenfreien Angeboten teilt man sich die Dienste mit Dritten, bei den kostenpflichtigen werden - je nach Vertrag - die erforderlichen Betriebsmittel exklusiv zur Verfügung gestellt.</description>
+    </item>
+    
+    <item>
+      <title>Geschäftsmodell</title>
+      <link>/080-lektion-social-media/02.gesch%C3%A4ftsmodell/</link>
+      <pubDate>Tue, 09 Mar 2021 10:25:28 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/02.gesch%C3%A4ftsmodell/</guid>
+      <description>Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit Werbung zu platzieren meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.</description>
+    </item>
+    
+    <item>
+      <title>Elektronische Datenverarbeitung</title>
+      <link>/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</link>
+      <pubDate>Tue, 09 Mar 2021 10:17:12 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</guid>
+      <description>Schneller und direkter Zugriff auf Daten Mit der zunehmenden Digitalisierung von Daten sind wichtige und kritische Informationen auch elektronisch verfügbar. Dadurch können sie schneller verarbeitet, aber auch unkontrolliert weitergeleitet und kopiert werden.
+Dabei kann heute fast jede interne Information zum Nachteil Ihrer Behörde oder Einrichtung oder der Kund*innen ausgenutzt werden. Wie alle wichtigen Daten müssen deshalb auch digitale Informationen vor unberechtigtem Zugriff geschützt werden. Das Datenschutzrecht und die Informationssicherheit verpflichten uns, angemessene technische und organisatorische Schutzmaßnahmen zu treffen.</description>
+    </item>
+    
+    <item>
+      <title>Gefahren im Internet</title>
+      <link>/060-lektion-internet/02.gefahren-im-internet/</link>
+      <pubDate>Tue, 09 Mar 2021 10:13:05 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/02.gefahren-im-internet/</guid>
+      <description>So schnell und einfach wie Sie im Internet auf Daten zugreifen können, so leicht können Sie sich auch in Gefahr begeben:
+ So können beim Surfen Schadprogramme auf Ihrem Computer unbemerkt ausgeführt werden. Auf diese Weise können Viren eingeschleust und Daten Ihres Rechners ausspioniert oder verändert werden. Sogar harmlos aussehende Bilder können schädliche Befehle enthalten.  Zwar werden Web-Zugriffe schon am Netzknoten Ihrer Einrichtung auf Viren und schädliche Programme untersucht. Dennoch ist beim Surfen Vorsicht geboten: Sie können nie sicher sein, welche Inhalte oder Befehle auf Ihrem Computer ausgeführt werden, wenn eine Web-Seite von Ihrem Browser aufgerufen wird.</description>
+    </item>
+    
+    <item>
+      <title>Typen von Viren</title>
+      <link>/040-lektion-viren/02.typen-von-viren/</link>
+      <pubDate>Sat, 06 Mar 2021 09:17:03 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/02.typen-von-viren/</guid>
+      <description>Häufig wird der englische Oberbegriff &amp;ldquo;Malware&amp;rdquo; (&amp;ldquo;mal&amp;rdquo; = &amp;ldquo;schädigend&amp;rdquo;) für alle Arten von Computerviren verwendet. Man unterscheidet unterschiedliche Typen von Malware. Klicken Sie weiter auf die jeweilige Virenart, um Genaueres zu erfahren.
+  Datei-Viren   Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
+    Trojanische Pferde   &amp;ldquo;Trojanische Pferde&amp;rdquo; oder &amp;ldquo;Trojaner&amp;rdquo; werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z.</description>
+    </item>
+    
+    <item>
+      <title>Übermittlung von E-Mails im Internet</title>
+      <link>/030-lektion-e-mail/02.uebermittlung-von-e-mails/</link>
+      <pubDate>Sat, 06 Mar 2021 09:10:40 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/02.uebermittlung-von-e-mails/</guid>
+      <description>Ähnlich wie bei der Briefpost werden E-Mails im Internet von einem &amp;ldquo;Briefzentrum&amp;rdquo; zum nächsten &amp;ldquo;Briefzentrum&amp;rdquo; in Form von Computerservern geschickt und schließlich den Adressat*innen zugestellt. Im Unterschied zur Briefpost gibt es jedoch beim E-Mail-Transport über das Internet keinen allein verantwortlichen Dienstleister, der die Beförderung und Zustellung übernimmt. Die E-Mail wird auf nicht vorhersagbaren Wegen über viele Rechner in unterschiedlichsten Firmen, Behörden und Ländern weitergeleitet. Außerdem wird die Identität der absendenden Person nicht überprüft.</description>
+    </item>
+    
+    <item>
+      <title>Weitere Informationen</title>
+      <link>/300-infos/weitere-informationen/</link>
+      <pubDate>Tue, 21 Jul 2020 15:32:09 +0200</pubDate>
+      
+      <guid>/300-infos/weitere-informationen/</guid>
+      <description> Updates und Infos zu BITS: www.bits-training.de Bundesamt für Sicherheit in der Informationstechnik (Bürgerportal): www.bsi-fuer-buerger.de  </description>
+    </item>
+    
+    <item>
+      <title>Gefahren</title>
+      <link>/050-lektion-passwoerter/03.gefahren/</link>
+      <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/03.gefahren/</guid>
+      <description>Ausspionieren von Passwörtern Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?
+ Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, möglichst lange Passwörter zu verwenden, die dafür in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
+    </item>
+    
+    <item>
+      <title>Zugang sichern</title>
+      <link>/110-lektion-mein-arbeitsplatz/03.zugang-sichern/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/03.zugang-sichern/</guid>
+      <description>Der Computer an Ihrem Arbeitsplatz ist das Tor zu den auf diesem Rechner gespeicherten Daten, aber auch zu Daten auf anderen Computern Ihrer Behörde oder Einrichtung und oft auch zum Internet.
+Wenn Sie Ihren Arbeitsplatz verlassen, sollten Sie immer den Zugang zum Computersystem sperren. Dies geschieht mit einem einfachen Handgriff und verhindert, dass Dritte Zugriff auf Daten haben oder in Ihrem Namen Nachrichten schreiben.
+Es reicht nicht aus, Ihr Zimmer abzuschließen.</description>
+    </item>
+    
+    <item>
+      <title>Heutige Kommunikationstechnologien</title>
+      <link>/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</guid>
+      <description>Wer hört und liest mit? Smartphones bieten nicht nur Möglichkeiten zum Telefonieren oder zur Adressverwaltung oder zum Nachrichtaustausch. Sie können auch zum Surfen im Internet oder zum Austausch von Kurznachrichten und Fotos verwendet werden.
+Das alles geschieht kabellos mittels &amp;ldquo;Wireless&amp;rdquo;- (Drahtlos-) Technologien wie WLAN (siehe nächste Seite) und natürlich den Telefon- und Datennetzen. Problematisch ist dabei, dass oft schwer festzustellen ist, wer bei einer drahtlosen Datenübertragung mithört und ob dieser Zugang gerade ausspioniert wird.</description>
+    </item>
+    
+    <item>
+      <title>Vorteile und Gefahren</title>
+      <link>/090-lektion-cloud/03.vorteile-und-gefahren/</link>
+      <pubDate>Wed, 10 Mar 2021 09:12:36 +0000</pubDate>
+      
+      <guid>/090-lektion-cloud/03.vorteile-und-gefahren/</guid>
+      <description>Vorteile von Cloud-Diensten Cloud-Dienste werden oft so angeboten, dass die Kundinnen und Kunden die Dienste sehr kurzfristig in Anspruch nehmen, erweitern oder verringern können. Idealerweise merken die Nutzerinnen und Nutzer nicht, dass z.B. weiterer Speicher wegen verstärkter Nutzung hinzugeschaltet wird, um die Dienste in der versprochenen Qualität anzubieten.
+Die Kundinnen und Kunden müssen nicht selbst Hard- und Software betreiben, die manchmal aufwändig eingerichtet werden muss. Dies ist besonders von Vorteil, wenn der Umfang der Nutzung wieder verringert wird.</description>
+    </item>
+    
+    <item>
+      <title>Social Media sicher nutzen</title>
+      <link>/080-lektion-social-media/03.social-media-sicher-nutzen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:26:14 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/03.social-media-sicher-nutzen/</guid>
+      <description>Social Media bieten eine Vielzahl von Möglichkeiten, schnell und einfach Informationen mitzuteilen. Der besondere Reiz liegt darin, dass alle mitmachen können und die Dienste oft kostenlos sind.
+Werden die Social Media-Dienste kostenlos von Unternehmen angeboten, besteht der Preis oft in der (ungefragten) Übermittlung von Nutzerdaten. Man darf nie vergessen, dass einmal im Internet preisgegebene Informationen nicht mehr zu löschen sind. Außerdem können Informationen zu Ihrer Person genutzt werden, um über Sie Angriffe auf Ihre Behörde oder Einrichtung vorzubereiten (über Social Engineering).</description>
+    </item>
+    
+    <item>
+      <title>Identifizierung vertraulicher Daten</title>
+      <link>/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:17:40 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</guid>
+      <description>Schlüsselfrage zur Bewertung: Sind die Daten durch gesetzliche oder behördliche Bestimmungen geschützt? Ihre Behörde oder Einrichtung unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u.a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.</description>
+    </item>
+    
+    <item>
+      <title>Vertrauenswürdigkeit von Webseiten</title>
+      <link>/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:13:12 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</guid>
+      <description>Haben Sie sich schon mal Gedanken darüber gemacht, wer eine Web-Seite veröffentlicht und wer für den Inhalt verantwortlich ist?
+Diese Fragen sind mit letzter Sicherheit oft nur schwer zu beantworten. Viele Informationen erscheinen im Internet anonym und ungeprüft. Die technisch leicht mögliche automatische Weiterleitung auf andere Web-Server macht es Ihnen zudem schwer, die Kontrolle zu behalten.
+Stetig werden neue Technologien entwickelt, um Inhalte attraktiver, schneller und dynamischer zu präsentieren.
+Dabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren.</description>
+    </item>
+    
+    <item>
+      <title>Mögliche Schäden durch Virenbefall</title>
+      <link>/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/</link>
+      <pubDate>Sat, 06 Mar 2021 09:28:25 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/03.m%C3%B6gliche-sch%C3%A4den-durch-virenbefall/</guid>
+      <description>Je nach Virus sehen die verursachten Schäden sehr unterschiedlich aus.
+Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
+ Verbrauch von Systemressourcen wie Plattenplatz oder Leitungskapazitäten Verringerung der Systemleistung Verändern oder Löschen von Systemdateien  Heute sind die Ziele:
+  Versand von Spam-Nachrichten über Ihren Rechner
+  Verschlüsselung und anschließende Erpressung (&amp;ldquo;Ransom-Ware&amp;rdquo;)
+  Heimliches Ausnutzung der Rechenleistung (&amp;ldquo;Crypto-Jacking&amp;rdquo;)
+  Einbindung Ihres Rechners in ein Netzwerk für Angriffe auf Dritte (z.</description>
+    </item>
+    
+    <item>
+      <title>Spam-E-Mails</title>
+      <link>/030-lektion-e-mail/03.spam-e-mails/</link>
+      <pubDate>Sat, 06 Mar 2021 09:10:56 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/03.spam-e-mails/</guid>
+      <description>E-Mails kosten kein Porto. Das führt zu einem unschönen Problem:
+Es ist einfach, tausende von E-Mails zu verschicken. Das wird von Firmen für den Versand von Werbe-Mails ausgenutzt, die kostbare Ressourcen belegen und Ihr Postfach füllen. Diese Werbe-Mails werden auch als Spam-E-Mails, kurz &amp;ldquo;Spam&amp;rdquo; oder Junk-Mails bezeichnet.
+Ca. 60% der heute empfangenen E-Mails sind Spam. In vielen Behörden und Einrichtungen werden E-Mails beim Eingang automatisch zentral überprüft. Offensichtliche Spam-E-Mails werden dann entsprechend gekennzeichnet oder automatisch gelöscht.</description>
+    </item>
+    
+    <item>
+      <title>Herausgeber &amp; Lizenz</title>
+      <link>/300-infos/herausgeber-und-lizenz/</link>
+      <pubDate>Tue, 21 Jul 2020 15:32:09 +0200</pubDate>
+      
+      <guid>/300-infos/herausgeber-und-lizenz/</guid>
+      <description>BITS wird herausgegeben von der Kommunal Agentur NRW GmbH und Herrn Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg, und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Die Urheber sind Herr Dr. Lutz Gollan und Herr Helmut Honermann, PureSec GmbH. Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
+BITS ist kostenlos und steht unter der Lizenz Creative Commons BY-SA 4.</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/050-lektion-passwoerter/04.zusammenfassung/</link>
+      <pubDate>Sun, 18 Apr 2021 14:15:07 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/04.zusammenfassung/</guid>
+      <description>Wir fassen die wichtigsten Passwort-Regeln zusammen:  Sichere, möglichst einmalige Passwörter verwenden Mindestens acht Zeichen lang, Buchstaben und Zahlen sowie Groß- und Kleinschreibung verwenden Keine Passwörter aus Wörterbüchern, keine Namen, Geburtsdaten etc. Notieren Sie Ihr Passwort nirgendwo Geben Sie Ihr Passwort nicht an andere Personen weiter Wenn Sie keine besonders langen Passwörter verwenden, ändern Sie diese regelmäßig Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social Engineering-Angriff?</description>
+    </item>
+    
+    <item>
+      <title>Barrierefreiheit</title>
+      <link>/300-infos/barrierefreiheit/</link>
+      <pubDate>Fri, 12 Mar 2021 11:14:35 +0000</pubDate>
+      
+      <guid>/300-infos/barrierefreiheit/</guid>
+      <description>Tastaturnavigation BITS unterstützt die Navigation auch über die Tastatur.
+Um zur nächsten Seite zu gelangen, ist die Taste Pfeiltaste nach rechts zu verwenden, um zur vorangehenden Seite zu kommen die Pfeiltaste nach links.
+Kontrast Die Kontrast-Darstellung wurde weitestgehend barrierefrei gestaltet.</description>
+    </item>
+    
+    <item>
+      <title>Social Engineering-Angriffe abwehren</title>
+      <link>/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/</guid>
+      <description>Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern&amp;hellip;“) berufen.
+Häufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.</description>
+    </item>
+    
+    <item>
+      <title>WLAN - Wireless Local Area Network</title>
+      <link>/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</guid>
+      <description>Bei Wireless LAN (WLAN) handelt es sich um eine Funknetzwerktechnik, die – wenn einmal aufgebaut – als kabelloser Netzwerkzugang funktioniert. Oftmals werden WLAN-Techniken in Besprechungsräumen und in Außenbüros eingesetzt. WLANs stehen aber auch in Cafés, Hotels oder anderen öffentlichen Bereichen bereit - und zuhause.
+So verhalten Sie sich richtig, um ein Abhören zu vermeiden:  Wenn eine eigene drahtgebundene Netzwerkverbindung möglich ist, ist diese der WLAN-Technik vorzuziehen. Wenn WLAN eingesetzt wird, muss grundsätzlich der höchstmögliche Sicherheitsstandard zur Verschlüsselung des Zugangs gewählt werden (derzeit WPA3).</description>
+    </item>
+    
+    <item>
+      <title>Cloud-Dienste sicher nutzen</title>
+      <link>/090-lektion-cloud/04.cloud-dienste-sicher-nutzen/</link>
+      <pubDate>Wed, 10 Mar 2021 09:12:47 +0000</pubDate>
+      
+      <guid>/090-lektion-cloud/04.cloud-dienste-sicher-nutzen/</guid>
+      <description>Sie können davon ausgehen, dass Ihre Behörde oder Einrichtung, wenn sie Cloud-Dienste nutzt, die diese sorgfältig ausgewählt hat. Hierbei hat sie Vorgaben formuliert und sich versichert, dass die geschilderten Gefahren beherrschbar sind.
+Wenn Sie Cloud-Dienste privat nutzen möchten, sollten Sie sich folgende Fragen stellen:
+ Welche Daten will ich in die Cloud geben? Urlaubsfotos - oder auch Fotos, die ich nicht allen zeigen würde? Mein Tagebuch oder nur meinen Einkaufszettel? Wem will ich die Daten anvertrauen?</description>
+    </item>
+    
+    <item>
+      <title>Betriebsgeheimnisse</title>
+      <link>/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:18:06 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</guid>
+      <description>Betriebs- und Geschäftsgeheimnisse sind geschützt - selbst wenn ein Informationsfreiheitsgesetz Auskunftsansprüche gegenüber einer Behörde schafft.
+Nach den Informationsfreiheits- bzw. Transparenzgesetzen (im Sommer 2021 für den Bund und alle Länder mit Ausnahme Bayerns, Niedersachsens und Sachsens), ist ein Antrag auf Informationszugang zu einer Verwaltung abzulehnen, soweit durch die Übermittlung der Information ein Betriebs- oder Geschäftsgeheimnis offenbart wird und dadurch ein wirtschaftlicher Schaden entstehen würde.
+Anders als zum Beispiel Informationen, die allgemein zugänglich sind und durch deren Verlust kein Schaden oder kein Verstoß gegen Auflagen (z.</description>
+    </item>
+    
+    <item>
+      <title>Technische Webinhalte</title>
+      <link>/060-lektion-internet/04.technische-webinhalte/</link>
+      <pubDate>Tue, 09 Mar 2021 10:13:25 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/04.technische-webinhalte/</guid>
+      <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:
+  Cookies   sind Textdateien, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden.Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen eingesetzt. Ein Web-Server-Betreiber steuert z.</description>
+    </item>
+    
+    <item>
+      <title>Infektionswege</title>
+      <link>/040-lektion-viren/04.infektionswege/</link>
+      <pubDate>Sat, 06 Mar 2021 09:20:10 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/04.infektionswege/</guid>
+      <description>Viren erreichen auf verschiedenen Wegen ihr Ziel:
+ Der Hauptinfektionsweg ist die E-Mail. Unter Umständen kann schon durch das bloße Lesen einer E-Mail ein Virus aktiv werden (etwa wenn die Auto-Vorschau aktiv ist). Besonders gefährlich ist es, mitgeschickte Dateien (Anhänge) unbedacht zu öffnen. Auch durch das Starten von Dateien, die Sie aus dem Internet herunterladen, kann ein Virus aktiv werden. Manchmal reicht sogar das Besuchen einer infizierten Web-Seite. Auch das interne Netz kann Ausgangspunkt von Viren sein.</description>
+    </item>
+    
+    <item>
+      <title>Computerviren per E-Mail</title>
+      <link>/030-lektion-e-mail/04.computerviren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/04.computerviren/</guid>
+      <description>Computerviren stellen eine große Bedrohung für Computer und die dort gespeicherten Daten dar. Computerviren sind kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können. Häufig kommen sie als E-Mail-Anhang auf Ihren Computer.
+Von hier aus verbreiten sie sich weiter, verändern oder spionieren Daten aus oder führen andere zerstörerische Aktionen auf Ihrem Rechner oder in Ihrem Netzwerk durch.
+Schutz vor Computerviren In einer Behörde oder Einrichtung wird eine E-Mail normalerweise an zwei Stellen auf Viren untersucht (&amp;ldquo;gescannt&amp;rdquo;): zentral beim Empfang der E-Mail aus dem Internet und zusätzlich auf Ihrem Computer, wenn Sie die E-Mail öffnen.</description>
+    </item>
+    
+    <item>
+      <title>Vorsicht bei mobilen Datenträgern</title>
+      <link>/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/</guid>
+      <description>Durch USB-Speichersticks, Smartphones und andere mobile Datenträger können leicht Daten auf und von Computern kopiert werden. Dies birgt erhebliche Gefahren.
+Zum einen ist oft nicht nachvollziehbar, welche Daten vom Computer herunterkopiert werden. Somit sind ein „Diebstahl“ und die unberechtigte Verwendung von Daten möglich. Auch lassen sich kleine Geräte leichter verlieren oder stehlen.
+Zum anderen besteht die Gefahr, dass auf den mobilen Geräten enthaltene Viren auf den Computer und damit in das dienstliche Netz gelangen.</description>
+    </item>
+    
+    <item>
+      <title>Notebooks</title>
+      <link>/100-lektion-mobile-geraete/05.notebooks/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/05.notebooks/</guid>
+      <description>So verhalten Sie sich richtig Viele Behörden und Einrichtungen stellen ihren Beschäftigten Smartphones oder Notebooks (Laptops, Tablets etc.) zur Verfügung, die oft bereits besondere Sicherheitseinstellungen enthalten. Folgendes sollten Sie beachten:
+Richtig  Das Notebook mindestens einmal pro Woche mit dem Dienstnetz verbinden, um Software-Updates und Konfigurationsänderungen zu ermöglichen. Dem Virenschutzprogramm des Notebooks muss die Aktualisierung ermöglicht werden. Bei Fehlermeldungen des Virenscanners oder der Verschlüsselungssoftware sofort die Ansprechperson benachrichtigen Den Verlust des Endgeräts unverzüglich der Ansprechperson und den Vorgesetzten melden.</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/090-lektion-cloud/05.zusammenfassung/</link>
+      <pubDate>Wed, 10 Mar 2021 09:12:47 +0000</pubDate>
+      
+      <guid>/090-lektion-cloud/05.zusammenfassung/</guid>
+      <description>Cloud-Dienste sind heute Alltag. Sie bieten eine Fülle von Vorteilen, die kostengünstig eine hohe Verfügbarkeit und eine schnelle Anpassung von Kapazitäten zu niedrigen Preisen bieten.
+Ihre Behörde oder Einrichtung wählt Cloud-Dienste sorgfältig aus und sorgt sich aktiv um die Sicherheit der Daten.
+Vertrauen Sie Ihre Daten Dritten an, sollten Sie prüfen, ob die Zugangsmöglichkeiten der Anbieter*innen oder anderer ausgeschlossen oder zumindest nicht schädlich sind. Im Zweifelsfall gilt: Lieber die Daten zuhause so speichern, dass nur Sie Zugang dazu haben.</description>
+    </item>
+    
+    <item>
+      <title>Interne Informationen</title>
+      <link>/070-lektion-vertrauliche-daten/05.interne-informationen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:18:19 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/05.interne-informationen/</guid>
+      <description>Unternehmens- und behördeninterne Daten sind grundsätzlich zu schützen!
+Beispiele:
+Telefonlisten, Informationen über interne Arbeitsabläufe
+Verhaltensregeln:
+ Interne Informationen sind normalerweise nur für die Beschäftigen der Behörde oder Einrichtung zugänglich. Sie dürfen nur mit Zustimmung der Leitungsebene nach außen gegeben werden. Vor der Weitergabe interner Informationen ist zu prüfen, ob gegebenenfalls eine Datenschutz- oder Vertraulichkeitserklärung abzuschließen ist.  </description>
+    </item>
+    
+    <item>
+      <title>Schutz vor technischen Webinhalten</title>
+      <link>/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:13:31 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</guid>
+      <description>In den meisten Behörden und Einrichtungen ist eine sichere Konfiguration des Browsers fest vorgegeben! Versuchen Sie nicht, diese zu ändern. Laden und starten Sie keine Programme von Webseiten, sofern Sie nicht dienstlich dazu angehalten werden.  Damit Zugangsdaten und Seiteninhalte bei der Übertragung im offenen Internet nicht von Dritten mitgelesen werden können, wird für die Übertragung das technische Protokoll &amp;ldquo;TLS&amp;rdquo; (Transport Layer Security) verwendet. Entsprechende Angebote erkennen Sie u.a. an der der Adresse vorangestellten Abkürzung &amp;ldquo;https&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Risiken und Schäden</title>
+      <link>/040-lektion-viren/05.risiken-und-schaeden/</link>
+      <pubDate>Sat, 06 Mar 2021 09:19:53 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/05.risiken-und-schaeden/</guid>
+      <description>Gefahren steigen mit dem Anschluss ans Internet Bei jedem Computer, der Zugang zum Internet hat, besteht die Gefahr eines Virenbefalls. Mit der steigenden Nutzung von Rechnern als Kommunikationsmedium steigt auch die Virengefahr. Sobald ein Internetanschluss vorliegt, liegt die Wahrscheinlichkeit eines Virenangriffs bei 100%.
+Der drohende Schaden kann beträchtlich sein:
+  Werden durch einen Virenbefall Daten zerstört, so entstehen Ihrer Behörde oder Einrichtung gegebenenfalls hohe Aufwände bei der Wiederherstellung.
+  Gelangen ausspionierte Daten an die Öffentlichkeit, so können Ihrer Behörde oder Einrichtung Ansehens- und Vertrauensschäden entstehen, von Datenschutzverstößen ganz zu schweigen.</description>
+    </item>
+    
+    <item>
+      <title>Phishing und Pharming</title>
+      <link>/030-lektion-e-mail/05.phishing-und-pharming/</link>
+      <pubDate>Tue, 21 Jul 2020 15:25:02 +0200</pubDate>
+      
+      <guid>/030-lektion-e-mail/05.phishing-und-pharming/</guid>
+      <description>Typische Computerangriffe werden über Phishing und Pharming vorbereitet.
+Phishing meint den Passwortdiebstahl per Internet. Er erfolgt meist per E-Mail. Phishing-E-Mails sind als seriöse Nachricht z.B. einer Bank getarnt und fordern den Empfänger oder die Empfängerin auf, persönliche Daten, Passwörter oder PINs zu aktualisieren. Mit den Daten können die Betrügerinnen und Betrüger dann ungehindert die Konten plündern. Dies ist eine der häufigsten Spielarten der Online-Kriminalität. Jeder einzelne Vorstoß kann mehrere Millionen Internetnutzerinnen und -nutzer erreichen.</description>
+    </item>
+    
+    <item>
+      <title>Verhalten im Schadensfall</title>
+      <link>/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/</guid>
+      <description>Verdächtige Vorfälle melden! Auf keinen Fall Gefahren ignorieren! Behalten Sie die Ruhe! Sie wissen durch BITS, was Sie zu tun haben!
+Sollten Sie den Eindruck haben, dass jemand durch vorsätzliches Einwirken auf Sie versucht, Passwörter, Zugangsdaten oder konkrete Inhaltsdaten zu erkunden, weisen Sie dieses Ansinnen höflich, aber bestimmt zurück und informieren Sie die Ihnen vorgesetzte Person und Ihre Ansprechperson.
+Schalten Sie Ihren Computer beim Verdacht auf einen Virus nicht eigenmächtig aus.</description>
+    </item>
+    
+    <item>
+      <title>Mobiltelefone</title>
+      <link>/100-lektion-mobile-geraete/06.mobiltelefone/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/06.mobiltelefone/</guid>
+      <description>So verhalten Sie sich richtig Heute haben Handys umfangreiche, computerähnliche Funktionen. Entsprechend ist auch hier Vorsicht geboten, vor allem beim Speichern von Informationen auf dem Mobiltelefon:
+ Beim Einschalten sollte immer die PIN-Abfrage erfolgen Alle drahtlosen, nicht für die aktuelle Nutzung benötigten Kommunikationsmöglichkeiten ausschalten (Bluetooth, WLAN) Es sollten keine vertraulichen Daten gespeichert werden (z.B. Aktenauszüge) Ist die Speicherung vertraulicher Daten notwendig und von Ihrer Behörde oder Einrichtung erlaubt, so sind diese zu verschlüsseln Der Verlust eines Geräts mit vertraulichen Daten ist unverzüglich ihrer vorgesetzten Person und der Ansprechperson zu melden  </description>
+    </item>
+    
+    <item>
+      <title>Entscheidungsrelevante Informationen</title>
+      <link>/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:18:39 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</guid>
+      <description>Es gibt weitere interne Informationen, die insbesondere der Vorbereitung von Entscheidungen dienen oder diese dokumentieren.
+Beispiele:
+Bilanzen, Angebotsunterlagen, nichtöffentliche Verwaltungsunterlagen für Gremien, Protokolle des Verwaltungsvorstandes, aus Verwaltungsrat- und Aufsichtsratssitzungen, Informationen über die Struktur der internen IT-Anlagen
+Verhaltensregeln:
+ Für wen? Solche Informationen sollten nur dem Teil der Beschäftigten zur Verfügung gestellt werden, der diese für seine Tätigkeit benötigen. Bei Außenstehenden? Bei Weitergabe an Dritte ist neben den Bedingungen, die für interne Informationen gelten, auch die Zustimmung der Leitungsebene erforderlich oder es gibt allgemeine interne Regelungen.</description>
+    </item>
+    
+    <item>
+      <title>Verschlüsselter Zugriff auf Webseiten</title>
+      <link>/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:13:49 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</guid>
+      <description>Die meisten Webbrowser zeigen eine verschlüsselte Verbindung durch ein entsprechendes Symbol an, häufig durch ein kleines Vorhängeschloss in der Adresszeile.
+Verschlüsselte Verbindungen im Internet werden über Digitale Signaturen abgesichert. Die Ausstellung und Überprüfung Digitaler Signaturen sind technisch komplizierte Prozesse. Sie werden jedoch von den Web-Browsern automatisch erledigt, Sie können dies aber auch kontrollieren (siehe unten).
+Klicken Sie auf die folgenden Begriffe, wenn Sie weitere Informationen zu Digitalen Signaturen und den damit zusammenhängenden Gefahren wünschen:</description>
+    </item>
+    
+    <item>
+      <title>Vorbeugemaßnahmen</title>
+      <link>/040-lektion-viren/06.vorbeugemassnahmen/</link>
+      <pubDate>Sat, 06 Mar 2021 09:23:56 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/06.vorbeugemassnahmen/</guid>
+      <description>Wie in der Medizin gilt: &amp;ldquo;Vorbeugen ist besser als Heilen&amp;rdquo; Um Dateien und Systeme vor Viren zu schützen und gegebenenfalls von diesen zu säubern, gibt es speziell dafür Computer-Programme, sogenannte Virenscanner.
+In den meisten Behörden und Einrichtungen werden alle Server und PCs mit einem Virenscanner ausgestattet, der eingehende E-Mails untersucht. Er darf nie ausgeschaltet werden.
+Auch jeder Privat-PC sollte immer durch einen aktuellen Virenscanner geschützt sein.
+Der Virenscanner muss so außerdem eingestellt sein, dass alle Daten beim Öffnen auf Viren überprüft werden (&amp;ldquo;On Access&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Fehlgeleitete Informationen</title>
+      <link>/030-lektion-e-mail/06.fehlgeleitete-informationen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/06.fehlgeleitete-informationen/</guid>
+      <description>Immer wieder führt menschliches Fehlverhalten dazu, dass Informationen fehlgeleitet werden und so in falsche Hände geraten. Dies kann unter Umständen erhebliche wirtschaftliche und rechtliche Folgen für Sie, Ihre Kolleginnen und Kollegen und Ihre Behörde oder Einrichtung haben.
+Falls Sie versehentlich eine E-Mail bekommen, die nicht für Sie bestimmt ist,
+ geben Sie die E-Mail und deren Inhalt nicht weiter, informieren Sie den Absender oder die Absenderin, löschen Sie die E-Mail aus Ihrem Postfach.</description>
+    </item>
+    
+    <item>
+      <title>Apps und &#34;Bring your own device&#34;</title>
+      <link>/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</guid>
+      <description>Stellt Ihnen Ihre Behörde oder Einrichtung ein Smartphone zur Verfügung, das Sie auch privat nutzen dürfen? Oder erlaubt sie die dienstliche Nutzung Ihres privaten Handys (&amp;ldquo;Bring your own device - BYOD&amp;rdquo;)? Dann müssen Sie sich an die Sicherheitsvorgaben internen halten!
+Insbesondere müssen Sie darauf achten, dass dienstliche und private Daten nicht vermischt werden. Außerdem kann über viele Apps (Anwendungen auf Ihrem Smartphone) Ihr Nutzungsverhalten ausgespäht werden. Viele Apps wollen mehr Rechte haben, als es für ihre Nutzung erforderlich ist.</description>
+    </item>
+    
+    <item>
+      <title>Persönlich-vertrauliche Informationen</title>
+      <link>/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:18:52 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</guid>
+      <description>Persönlich-vertrauliche Informationen sind vor allem personenbezogene Daten nach dem Datenschutzrecht.
+Beispiele:
+Personalakten, Daten der Gehaltsabrechnung, personenbezogene Daten von Kund*innen( z.B. Anschrift, Geburtsdatum, beantragte Leistung).
+Verhaltensregeln:
+ Unter bestimmten Voraussetzungen darf es aufgrund einer gesetzlichen Erlaubnis, eines Vertrages oder einer Einwilligung der betroffenen Person zu einer Datenübermittlung kommen. Prüfen Sie die Anforderungen genau! Ein einmal übermitteltes elektronisches Datum kann nicht zurückgeholt werden! Persönlich-vertrauliche Informationen sind für andere unzugänglich aufzubewahren. Die Informationsfreiheitsgesetze, die für die betroffenen Behörden gelten, schützen ausdrücklich personenbezogene Daten, auch wenn ein grundsätzlicher Auskunftsanspruch besteht.</description>
+    </item>
+    
+    <item>
+      <title>Blocken unerwünschter Seiten</title>
+      <link>/060-lektion-internet/07.blocken-unerwuenschter-seiten/</link>
+      <pubDate>Tue, 09 Mar 2021 10:14:03 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/07.blocken-unerwuenschter-seiten/</guid>
+      <description>Einige Behörden und Einrichtungen stellen mit Hilfe von zentralen Filtersystemen sicher, dass Webseiten mit extremistischen, pornografischen und vergleichbaren Inhalten automatisch geblockt werden. Davon unabhängig sollten Sie von sich aus Internetangebote meiden,
+ die strafbare bzw. rechtswidrige Inhalte haben, die andere Personen am Arbeitsplatz belästigen oder - insbesondere minderjährige Kolleginnen und Kollegen - verstören können, die keinen dienstlichen Bezug haben, insbesondere wenn Ihnen die private Internetnutzung untersagt ist.  </description>
+    </item>
+    
+    <item>
+      <title>Virenbefall - was tun?</title>
+      <link>/040-lektion-viren/07.virenbefall-was-tun/</link>
+      <pubDate>Sat, 06 Mar 2021 09:27:50 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/07.virenbefall-was-tun/</guid>
+      <description>Don&amp;rsquo;t panic – Ruhe bewahren ​	Achtung Wenn Sie vermuten, dass sich ein Virus eingeschlichen hat, ist eine schnelle Reaktion gefragt, um größeren Schaden zu vermeiden. Wichtig ist dabei:
+ Geraten Sie nicht in Panik! Computer vom Netzwerk trennen, also Kabel ziehen oder drahtlose Verbindung abschalten! Auf keinen Fall eigene Bereinigungsaktionen durchführen! Benachrichtigen Sie Ihre Ansprechperson. Sie kümmert sich um die weiteren Schritte zur Beseitigung des Virus und zur Wiederherstellung betroffener Daten.</description>
+    </item>
+    
+    <item>
+      <title>Erste Hilfe</title>
+      <link>/030-lektion-e-mail/07.erste-hilfe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/07.erste-hilfe/</guid>
+      <description>Was tun, wenn man selbst einen Fehler gemacht hat? Wenn Sie eine E-Mail versehentlich an eine falsche Person gesendet haben, bewahren Sie Ruhe und gehen Sie wie folgt vor:
+ Informieren Sie den Empfänger oder die Empfängerin über die fälschlich übermittelte E-Mail und bitten Sie um deren Löschung Informieren Sie unverzüglich Ihre vorgesetzte Person Leiten Sie gemeinsam mit Ihren Vorgesetzten und ggf. dem/ der Datenschutzbeauftragten Ihrer Behörde oder Einrichtung alle notwendigen Maßnahmen zur Begrenzung des Schadens ein  </description>
+    </item>
+    
+    <item>
+      <title>Mobile Datenträger</title>
+      <link>/100-lektion-mobile-geraete/08.mobile-datentraeger/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/08.mobile-datentraeger/</guid>
+      <description>Schnell und flexibel! Trotz Vernetzung, E-Mail und Internet kann es notwendig sein, Daten zwischen zwei nicht verbundenen Rechnern auszutauschen. Zu diesem Zweck werden gelegentlich mobile Datenträger in Form von USB-Sticks verwendet. Aber auch das eigene Smartphone kann zum Datenaustausch verwendet werden.
+Dabei ist doppelte Vorsicht geboten:
+  Zum einen können durch den Verlust des mobilen Datenträgers interne und vertrauliche Informationen an Unbefugte geraten.
+  Zum anderen können durch mobile Datenträger leicht Viren und andere schädliche Programme in das dienstliche Netz gelangen.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzbeauftragte</title>
+      <link>/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</link>
+      <pubDate>Tue, 09 Mar 2021 10:19:09 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</guid>
+      <description>Jede Behörde in der Europäischen Union ist nach dem Datenschutzrecht (Artikel 37 Datenschutz-Grundverordnung) verpflichtet, eine Person als Datenschutzbeauftragte*r zu benennen. Sie wacht über die Einhaltung der Datenschutzgesetze bei der Verarbeitung personenbezogener Daten. Sie ist zu besonderer Verschwiegenheit verpflichtet.
+In Unternehmen muss ein Datenschutzbeauftragter bzw. eine Datenschutzbeauftragte bestellt werden, soweit dort in der Regel mindestens 20 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigt sind (§ 38 Bundesdatenschutzgesetz).
+Der / die Datenschutzbeauftragte Ihrer Behörde oder Einrichtung kann Ihnen bei konkreten Fragen zum Datenschutz weiterhelfen.</description>
+    </item>
+    
+    <item>
+      <title>Richtlinien zur Internetnutzung</title>
+      <link>/060-lektion-internet/08.internet-richtlinien/</link>
+      <pubDate>Tue, 09 Mar 2021 10:14:08 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/08.internet-richtlinien/</guid>
+      <description>Viele Behörden und Einrichtungen legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z.B.
+ die private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung.  Gut zu wissen  Zur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation).</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/040-lektion-viren/08.zusammenfassung/</link>
+      <pubDate>Sat, 06 Mar 2021 09:25:50 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/08.zusammenfassung/</guid>
+      <description>Computerviren: lästig - schädlich - gefährlich Der Virenschutz hat in den letzten Jahren durch die Vielfalt von Viren immer mehr an Bedeutung gewonnen. Man kann es nur als Leichtsinn bezeichnen, sich im Internet ohne Virenschutz zu bewegen.
+Täglich tauchen ca. 1.000 neue Viren auf. Deshalb kann kein aktueller Virenscanner 100%igen Schutz garantieren. Sollte einmal ein Virus nicht erkannt werden, können ein gut eingestelltes System und Ihre überlegte Reaktion den Schaden entscheidend eindämmen.</description>
+    </item>
+    
+    <item>
+      <title>Vertrauliche Informationen</title>
+      <link>/030-lektion-e-mail/08.vertrauliche-informationen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/08.vertrauliche-informationen/</guid>
+      <description>Wir alle arbeiten heute mit mehr oder weniger vertraulichen Informationen. Gerade bei der Verwendung von E-Mails kann es leicht passieren, dass sensible Daten an die falschen oder an zu viele Empfänger oder Empfängerinnen geschickt werden.
+Der unverschlüsselte Versand vertraulicher Informationen über das Internet kommt dem Versand sensibler Daten per Postkarte gleich und ist daher zu unterlassen.
+Den Inhalt und Anhänge von E-Mails kann man verschlüsseln, so dass Texte, Fotos etc. nicht ohne weiteres lesbar sind.</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/100-lektion-mobile-geraete/09.zusammenfassung/</link>
+      <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/09.zusammenfassung/</guid>
+      <description>Mobile Geräte stellen aufgrund ihrer Größe und Beweglichkeit ein besonderes Sicherheitsrisiko dar. Deshalb haben die meisten Behörden und Einrichtungen Regeln für den Umgang mit diesen Geräten aufgestellt, die hier sinngemäß zusammengefasst sind:
+ Passwortschutz bzw. PIN-Abfrage aktivieren Mobile Datenträger immer zuerst auf Viren untersuchen Mobile Geräte sicher aufbewahren Für regelmäßige Software-Updates und Konfigurationsüberprüfungen sorgen Nicht benötigte drahtlose Kommunikationsmöglichkeiten möglichst deaktivieren Verlust von mobilen Geräten sofort der Ansprechperson und den Vorgesetzten melden Keine selbständigen Konfigurationsänderungen bei Dienstgeräten durchführen Keine vertraulichen oder geheimen Daten speichern, es sei denn sie sind verschlüsselt Dienstliche und private Daten nicht vermischen  </description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/070-lektion-vertrauliche-daten/09.zusammenfassung/</link>
+      <pubDate>Tue, 09 Mar 2021 10:19:22 +0000</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/09.zusammenfassung/</guid>
+      <description>Hier noch einmal die wichtigsten Regeln zur Vertraulichkeit von Daten:  Gesetzliche und ethische Gründe erfordern einen aktiven Daten- und Informationsschutz - und zwar von allen Beachten Sie die Regelungen und Vorschriften des Datenschutz- und Informationsfreiheitsrechts und interne Regelungen Vor der Weiterleitung von Informationen sind die Schutzwürdigkeit und die Empfängerliste zu prüfen Besondere Vorsicht gilt bei der Verarbeitung personenbezogener Daten Für Verschlusssachen (z.B. &amp;ldquo;VS-NfD&amp;rdquo;) gelten Spezialregelungen! Im Zweifel mit der Leitungsebene abstimmen!</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/060-lektion-internet/09.zusammenfassung/</link>
+      <pubDate>Sat, 06 Mar 2021 09:25:50 +0000</pubDate>
+      
+      <guid>/060-lektion-internet/09.zusammenfassung/</guid>
+      <description>Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.
+  Recherchieren Sie nur in vertrauenswürdigen Quellen.
+  Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden.
+  Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können.</description>
+    </item>
+    
+    <item>
+      <title>Dienstliche und private Nutzung</title>
+      <link>/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</guid>
+      <description>In vielen Behörden und Einrichtungen ist die Nutzung der dienstlichen E-Mail-Adresse zum Versand privater E-Mails nicht erlaubt. Dieses Verbot ist rechtlich zulässig und muss von Ihnen beachtet werden. Genaueres regeln Dienstvereinbarungen oder anderen interne Vorgaben.
+Achtung Ist in Ihrer Behörde oder Einrichtung die private Nutzung der dienstlichen E-Mail-Adresse erlaubt?
+ Wenn nein - verzichten Sie darauf! Wenn ja - nutzen Sie diese nur im angemessenen Umfang und versenden und empfangen Sie allenfalls kleine Dateien!</description>
+    </item>
+    
+    <item>
+      <title>Net(t)ikette</title>
+      <link>/030-lektion-e-mail/10.net-t-ikette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/10.net-t-ikette/</guid>
+      <description>Noch ein Wort zur &amp;ldquo;Net(t)ikette&amp;rdquo;, zum guten Ton beim Informationsaustausch per E-Mail:
+Auch bei der elektronischen Post sollte man sich gut ausdrücken und fair verhalten. Da Sie mit Ihren E-Mails Ihre Behörde oder Einrichtung nach außen vertreten, sollten Sie nicht nur auf den Inhalt, sondern auch die angemessene Anrede und die Darstellung achten.
+Hier ein paar Regeln für die richtige &amp;ldquo;Net(t)ikette&amp;rdquo;, den höflichen und korrekten Informationsaustausch per E-Mail:
+Richtig
+ Vergessen Sie niemals, dass auf der anderen Seite auch ein Mensch sitzt.</description>
+    </item>
+    
+    <item>
+      <title>Zusammenfassung</title>
+      <link>/030-lektion-e-mail/11.zusammenfassung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/11.zusammenfassung/</guid>
+      <description>Hier noch einmal die wichtigsten Regeln:  Vertrauen Sie niemals blind E-Mail-Inhalten und Dateianhängen. Öffnen Sie keine Dokumente und Programme Ihnen unbekannter Personen. Informieren Sie bei Verdacht auf Virenbefall Ihre Ansprechperson. Geben Sie fehlgeleitete Informationen nicht weiter, sondern informieren Sie die absendende Person und löschen Sie die E-Mail. Falls Sie selber eine vertrauliche E-Mail falsch versendet haben: Bitten Sie um Löschung und informieren Sie Ihre vorgesetzte Person. Wenn Sie eine Phishing-Mail bekommen: nicht antworten, keinen Link anklicken, keine sensiblen Daten weitergeben, keine Anhänge öffnen.</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Cloud</title>
+      <link>/090-lektion-cloud/90.quiz-cloud/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/090-lektion-cloud/90.quiz-cloud/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind Cloud-Dienste?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Internet</title>
+      <link>/060-lektion-internet/90.quiz-internet/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/060-lektion-internet/90.quiz-internet/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind aktive Webinhalte?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Mobile Geräte</title>
+      <link>/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen.</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Passwörter</title>
+      <link>/050-lektion-passwoerter/90.quiz-passwoerter/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/050-lektion-passwoerter/90.quiz-passwoerter/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Womit ist ein Passwort zu vergleichen?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Social Media</title>
+      <link>/080-lektion-social-media/90.quiz-social-media/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/080-lektion-social-media/90.quiz-social-media/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind Social Media?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Vertrauliche Daten</title>
+      <link>/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Wie heißen persönliche Verpflichtungserklärungen zum Datenschutz?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - E-Mails</title>
+      <link>/030-lektion-e-mail/90.quiz-e-mails/</link>
+      <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
+      
+      <guid>/030-lektion-e-mail/90.quiz-e-mails/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true shuffle_answers: true --- ## Was sind Computerviren?</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Viren</title>
+      <link>/040-lektion-viren/90.quiz-viren/</link>
+      <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
+      
+      <guid>/040-lektion-viren/90.quiz-viren/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Welcher der folgenden Typen ist KEIN echter Computervirus?</description>
+    </item>
+    
+  </channel>
+</rss>

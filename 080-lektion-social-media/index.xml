@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lektion Social Media on BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>/080-lektion-social-media/</link>
+    <description>Recent content in Lektion Social Media on BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 09 Mar 2021 09:52:29 +0000</lastBuildDate><atom:link href="/080-lektion-social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media-Dienste</title>
+      <link>/080-lektion-social-media/01.einleitung/</link>
+      <pubDate>Tue, 09 Mar 2021 10:20:36 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/01.einleitung/</guid>
+      <description>Was sind Social Media-Dienste? Mit der Entwicklung des Internets stiegen das Interesse und die Bereitschaft der Nutzerinnen und Nutzer, selbst Inhalte im Netz bereitzustellen. Dies muss nicht immer auf einer eigenen Homepage sein. Oft ist es einfacher, Fotos, Erlebnisse oder Kommentare auf Internetseiten zu veröffentlichen, die technisch von Dritten angeboten werden.
+Dabei besteht häufig die Möglichkeit, die von anderen veröffentlichten Daten zu kommentieren oder sogar weiter zu entwickeln. Daher der Name „Social Media“.</description>
+    </item>
+    
+    <item>
+      <title>Geschäftsmodell</title>
+      <link>/080-lektion-social-media/02.gesch%C3%A4ftsmodell/</link>
+      <pubDate>Tue, 09 Mar 2021 10:25:28 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/02.gesch%C3%A4ftsmodell/</guid>
+      <description>Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit Werbung zu platzieren meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.</description>
+    </item>
+    
+    <item>
+      <title>Social Media sicher nutzen</title>
+      <link>/080-lektion-social-media/03.social-media-sicher-nutzen/</link>
+      <pubDate>Tue, 09 Mar 2021 10:26:14 +0000</pubDate>
+      
+      <guid>/080-lektion-social-media/03.social-media-sicher-nutzen/</guid>
+      <description>Social Media bieten eine Vielzahl von Möglichkeiten, schnell und einfach Informationen mitzuteilen. Der besondere Reiz liegt darin, dass alle mitmachen können und die Dienste oft kostenlos sind.
+Werden die Social Media-Dienste kostenlos von Unternehmen angeboten, besteht der Preis oft in der (ungefragten) Übermittlung von Nutzerdaten. Man darf nie vergessen, dass einmal im Internet preisgegebene Informationen nicht mehr zu löschen sind. Außerdem können Informationen zu Ihrer Person genutzt werden, um über Sie Angriffe auf Ihre Behörde oder Einrichtung vorzubereiten (über Social Engineering).</description>
+    </item>
+    
+    <item>
+      <title>Quiz - Social Media</title>
+      <link>/080-lektion-social-media/90.quiz-social-media/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      
+      <guid>/080-lektion-social-media/90.quiz-social-media/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+  Anleitung für das Quiz (hier klicken)    Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind Social Media?</description>
+    </item>
+    
+  </channel>
+</rss>

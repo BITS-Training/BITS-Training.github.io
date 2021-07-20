@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lektion Mein Arbeitsplatz on BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>/110-lektion-mein-arbeitsplatz/</link>
+    <description>Recent content in Lektion Mein Arbeitsplatz on BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="/110-lektion-mein-arbeitsplatz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sicherer Arbeitsplatz</title>
+      <link>/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</guid>
+      <description>Der Schutz von Informationen der durch Ihre Behörde oder Einrichtung verarbeiteten Daten ist Aufgabe aller Beschäftigten. Nicht nur die von Ihnen zu verarbeitenden Daten können durch Ihr Verhalten sicherheitsrelevanten Gefahren ausgesetzt werden.
+Bitte sorgen Sie für eine sichere Arbeitsumgebung, auch im Home Office:
+  Verhindern Sie, dass Dritte, auch nicht Familienangehörige, Daten und Akten einsehen können
+  Verwenden Sie ein Netzwerkkabel oder ein sicheres WLAN (Hinweise hierzu in der Lektion Mobile Geräte)</description>
+    </item>
+    
+    <item>
+      <title>Passwörter nicht weitergeben</title>
+      <link>/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/</guid>
+      <description>Ihnen anvertraute oder von Ihnen erzeugte Passwörter dürfen Sie keinesfalls weitergeben. Es ist auch verboten, sie aufzuschreiben, in Schubladen, unter Schreibtischunterlagen o.ä. – also letztlich für Dritte zugänglich – aufzubewahren!
+Passwörter sind personengebunden. Das heißt: Alle berechtigten Personen können über die zuständige Organisationseinheit ein eigenes Passwort erhalten. Sie benötigen nicht das Ihrige!
+Falls Sie Schwierigkeiten mit der Bedienung passwortgeschützter Daten oder Anwendungen haben, kann die zuständige Einheit auch ohne Kenntnis Ihres persönlichen Passworts Hilfe leisten.</description>
+    </item>
+    
+    <item>
+      <title>Zugang sichern</title>
+      <link>/110-lektion-mein-arbeitsplatz/03.zugang-sichern/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/03.zugang-sichern/</guid>
+      <description>Der Computer an Ihrem Arbeitsplatz ist das Tor zu den auf diesem Rechner gespeicherten Daten, aber auch zu Daten auf anderen Computern Ihrer Behörde oder Einrichtung und oft auch zum Internet.
+Wenn Sie Ihren Arbeitsplatz verlassen, sollten Sie immer den Zugang zum Computersystem sperren. Dies geschieht mit einem einfachen Handgriff und verhindert, dass Dritte Zugriff auf Daten haben oder in Ihrem Namen Nachrichten schreiben.
+Es reicht nicht aus, Ihr Zimmer abzuschließen.</description>
+    </item>
+    
+    <item>
+      <title>Social Engineering-Angriffe abwehren</title>
+      <link>/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/</guid>
+      <description>Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern&amp;hellip;“) berufen.
+Häufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.</description>
+    </item>
+    
+    <item>
+      <title>Vorsicht bei mobilen Datenträgern</title>
+      <link>/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/</guid>
+      <description>Durch USB-Speichersticks, Smartphones und andere mobile Datenträger können leicht Daten auf und von Computern kopiert werden. Dies birgt erhebliche Gefahren.
+Zum einen ist oft nicht nachvollziehbar, welche Daten vom Computer herunterkopiert werden. Somit sind ein „Diebstahl“ und die unberechtigte Verwendung von Daten möglich. Auch lassen sich kleine Geräte leichter verlieren oder stehlen.
+Zum anderen besteht die Gefahr, dass auf den mobilen Geräten enthaltene Viren auf den Computer und damit in das dienstliche Netz gelangen.</description>
+    </item>
+    
+    <item>
+      <title>Verhalten im Schadensfall</title>
+      <link>/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      
+      <guid>/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/</guid>
+      <description>Verdächtige Vorfälle melden! Auf keinen Fall Gefahren ignorieren! Behalten Sie die Ruhe! Sie wissen durch BITS, was Sie zu tun haben!
+Sollten Sie den Eindruck haben, dass jemand durch vorsätzliches Einwirken auf Sie versucht, Passwörter, Zugangsdaten oder konkrete Inhaltsdaten zu erkunden, weisen Sie dieses Ansinnen höflich, aber bestimmt zurück und informieren Sie die Ihnen vorgesetzte Person und Ihre Ansprechperson.
+Schalten Sie Ihren Computer beim Verdacht auf einen Virus nicht eigenmächtig aus.</description>
+    </item>
+    
+  </channel>
+</rss>
