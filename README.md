@@ -1,9 +1,9 @@
 # BITS Behörden-IT-Sicherheitstraining
 
-Stand: 29.06.2021
+Stand: 28.10.2021
 
-Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
-E-Mail: g@backbeat.eu
+Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
+E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
 
 ## 1. Überblick
 
@@ -19,25 +19,25 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*).
+BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen sind auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys abgelegt. Die Fileserver-Version unterstützt nicht die integrierte Suche.
 
-Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden.
+Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
 ### Installation
-Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließend alle Dateien in das Root-Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
+Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
-Als Startseite kann im Webserver direkt auf die Unterseite "/010-start" weitergeleitet werden.
+Als Startseite kann direkt auf den Unterordner /010-start (Webserver-Version) bzw. auf die Seite 010-start.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
-* Über hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
+* Über Hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
   * Einrichtung = "Behörde oder Einrichtung"
   * Einrichtungen = "Behörden und Einrichtungen"
   * BITS = "BITS"
-  * Ver = "6.0beta4"
+  * Ver = "6.0.1"
 
 ## 4. Bedienung und technische Anforderungen
 
@@ -66,7 +66,7 @@ Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
 Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
 
-Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Learn-Theme](https://themes.gohugo.io/hugo-theme-learn/) und das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und sind Open Source. Das Bild auf der 404-Fehlerseite ist open source: Photo by [Donald Giannatti](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Relearn-Theme](https://themes.gohugo.io/hugo-theme-relearn/) und das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und sind Open Source. Das Bild auf der 404-Fehlerseite ist open source: Photo by [Donald Giannatti](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
@@ -94,7 +94,7 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 ## via E-Mail
 
-Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (g@backbeat.eu) gerne entgegen. 
+Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan ([g@backbeat.eu](mailto:g@backbeat.eu)) gerne entgegen. 
 
 ## via GitHub
 
