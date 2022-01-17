@@ -225,10 +225,35 @@ html, body {
 .imprint {
 	color: #fff;
 	position: absolute;
-	width: 100%;
-	top: 5px;
-	right: 5px;
+	bottom: 0px;
+	right: 0px;
 	text-align: right;
+	font-size: 0.8rem;
+	z-index: 50;
+}
+
+.imprint ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.imprint li {
+  float: left;
+}
+
+.imprint li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.imprint li a:hover {
+  background-color: #111111;
 }
 
 a {
@@ -243,6 +268,73 @@ a:hover {
 
 a:visited {
 	color: #fff;
+}
+
+.imptext {
+	color: #fff;
+    background: var(--right-bg-color);
+	overflow: auto;
+	min-height: 100%;
+	font-family: "Arial", sans-serif;
+	line-height: 110%;
+}
+
+.imptext .imprint {
+	line-height: 1;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	right: 25px;
+}
+
+.impcontainer {
+	position:relative;
+	max-width: 800px;
+	max-height: 100%;
+	margin: 0 auto;
+}
+
+.impcontent {
+	padding: 10px;
+}
+
+.impcontainer h1 {
+	font-size: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.impcontent h1 {
+	font-size: 1.8rem;
+	margin-bottom: 1.8rem;
+}
+
+.impcontent h2 {
+	font-size: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+.impcontent h3 {
+	font-size: 1.3rem;
+	margin-bottom: 1.3rem;
+}
+.impcontent h4 {
+	font-size: 1.1rem;
+	margin-bottom: 1.1rem;
+}
+
+.impcontent p {
+	margin-bottom: 1rem;
+}
+
+.impcontent a {
+	text-decoration: underline;
+}
+
+.impcontent ul {
+	list-style-type: circle;
+	margin-bottom: 1rem;
+}
+
+.impcontent ul li {
+	margin-left: 50px;
 }
 
 @media(max-width: 920px), (max-height:620px) {

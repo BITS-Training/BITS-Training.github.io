@@ -6,5 +6,40 @@
     <description>Recent content on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://bits-training.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lizenz</title>
+      <link>https://bits-training.de/lizenz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bits-training.de/lizenz/</guid>
+      <description>BITS wird herausgegeben von der Kommunal Agentur NRW GmbH und Herrn Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg, und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Die Urheber sind Herr Dr. Lutz Gollan und Herr Helmut Honermann, PureSec GmbH. Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
+BITS ist kostenlos und steht unter der Lizenz Creative Commons BY-SA 4.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://bits-training.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bits-training.de/impressum/</guid>
+      <description>Informationen zum Diensteanbieter gemäß § 5 Absatz 1 Telemediengesetz Kommunal Agentur NRW GmbH Cecilienallee 59 40474 Düsseldorf
+Tel.: 0211-430 77 0 Fax: 0211-430 77 22
+E-Mail: Karsten Klick
+Amtsgericht Düsseldorf HRB 53640, Umsatzsteueridentifikationsnummer DE247651110
+Vertretungsberechtigte:
+ Dr. Ralf Togler Dr. jur. Peter Queitsch  </description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://bits-training.de/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bits-training.de/datenschutz/</guid>
+      <description>Datenschutz Verantwortlicher ist die Kommunal Agentur NRW GmbH, Cecilienallee 59, 40474 Düsseldorf; Tel.: 0211-430 77-0, Fax: 0211-430 77-22
+Den Datenschutzbeauftragten erreichen Sie wie folgt: Kommunal Agentur NRW GmbH, Datenschutzbeauftragter, Cecilienallee 59, 40474 Düsseldorf, Telefon: 0211/430 77 - 0, E-Mail: Datenschutzbeauftragter@KommunalAgentur.nrw
+Personenbezogene Daten werden nur für das Hosting (siehe unten) verwendet. Die Verarbeitung der hier genannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.</description>
+    </item>
+    
   </channel>
 </rss>
