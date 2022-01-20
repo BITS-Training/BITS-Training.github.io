@@ -206,11 +206,15 @@
     <lastmod>2021-03-06T09:19:53+00:00</lastmod>
   </url>
   <url>
+    <loc>/impressum/</loc>
+    <lastmod>2020-07-21T15:32:09+02:00</lastmod>
+  </url>
+  <url>
     <loc>/030-lektion-e-mail/05.phishing-und-pharming/</loc>
     <lastmod>2020-07-21T15:25:02+02:00</lastmod>
   </url>
   <url>
-    <loc>/110-lektion-mein-arbeitsplatz/06.verhalten-im-schadensfall/</loc>
+    <loc>/110-lektion-mein-arbeitsplatz/06.messenger/</loc>
     <lastmod>2021-03-10T09:24:45+00:00</lastmod>
   </url>
   <url>
@@ -234,7 +238,15 @@
     <lastmod>2021-03-06T09:23:56+00:00</lastmod>
   </url>
   <url>
+    <loc>/datenschutz/</loc>
+    <lastmod>2020-07-21T15:32:09+02:00</lastmod>
+  </url>
+  <url>
     <loc>/030-lektion-e-mail/06.fehlgeleitete-informationen/</loc>
+  </url>
+  <url>
+    <loc>/110-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/</loc>
+    <lastmod>2021-03-10T09:24:45+00:00</lastmod>
   </url>
   <url>
     <loc>/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</loc>
