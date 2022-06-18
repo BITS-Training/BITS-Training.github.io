@@ -1,76 +1,68 @@
+
 <!DOCTYPE html>
-<html lang="de" class="js csstransforms3d">
-
-<head>
-  <meta charset="utf-8"> 
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.99.1" />
+    <meta name="generator" content="Relearn 4.1.0">
     <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
-    <meta name="author" content="Dr. Lutz Gollan"> 
-<link rel="icon" href="./images/favicon.png" type="image/png"> 
-  <title>404 Page not found</title>
-
-   
+    <meta name="author" content="Dr. Lutz Gollan">
+    <title>404 Page not found :: BITS | Behörden-IT-Sicherheitstraining</title>
+    <link rel="icon" href="./images/favicon.png" type="image/png">
     <link href="./css/nucleus.css" rel="stylesheet">
     <link href="./css/fontawesome-all.min.css" rel="stylesheet">
-    <link href="./css/hybrid.css" rel="stylesheet">
     <link href="./css/featherlight.min.css" rel="stylesheet">
     <link href="./css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="./css/auto-complete.css" rel="stylesheet">
     <link href="./css/theme.css" rel="stylesheet">
-    <link href="./css/hugo-theme.css" rel="stylesheet">
-    
-      <link href="./css/theme-bits.css" rel="stylesheet">
-    
-<style>
-    :root #header + #content > #left > #rlblock_left {
-      display: none !important;
-    }
+    <link href="./css/theme-bits.css" rel="stylesheet" id="variant-style">
+    <link href="./css/ie.css" rel="stylesheet">
+    <link href="./css/variant.css" rel="stylesheet">
+    <link href="./css/print.css" rel="stylesheet" media="print">
+    <script src="./js/variant.js"></script>
+    <script>
+      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      var index_url="./index.json";
+      var root_url="./";
+      var baseUri=root_url.replace(/\/$/, '');
+      // translations
+      window.T_Copy_to_clipboard = 'In Zwischenablage kopieren';
+      window.T_Copied_to_clipboard = 'In Zwischenablage kopiert!';
+      window.T_Copy_link_to_clipboard = 'Link in Zwischenablage kopieren';
+      window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
+      // some further base stuff
+      var baseUriFull='https:\/\/bits-training.github.io\/training/';
+      variants.init( [ 'bits' ] );
+    </script>
+    <script src="./js/jquery.min.js"></script>
+    <style>
+      p, li, ul {
+        text-align: center
+      }
+      ul {
+        list-style-type: none;
+      }
+    </style>
+	<meta name="date" content="18 Jun 22 18:23 CEST">
 
-    p,
-    li,
-    ul {
-      text-align: center
-    }
-
-    ul {
-      list-style-type: none;
-    }
-</style>
-
-	<meta name="date" content="11 Feb 22">
-
-    <script data-goatcounter="https://bits-training.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-	<script>
-		var _paq = window._paq = window._paq || [];
-		_paq.push(["setDoNotTrack", true]);
-		_paq.push(["disableCookies"]);
-		_paq.push(['trackPageView']);
-		_paq.push(['enableLinkTracking']);
-		(function() {
-		  var u="//piwik.kommunalagenturnrw.de/";
-		  _paq.push(['setTrackerUrl', u+'matomo.php']);
-		  _paq.push(['setSiteId', '8']);
-		  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-		  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-		})();
-	</script>
-</head>
-
-  <body class="" data-url="./">
-
-    <section id="body" style="margin-left:0px;">
-      <div id="overlay"></div>
-      <div id="chapter">
-        <div id="body-inner" class="body-404">
+  </head>
+  <body class="mobile-support" data-url="./">
+    <div id="body" class="default-animation" style="margin-left:0px;">
+      <div id="sidebar-overlay"></div>
+      <main id="body-inner" class="chapter body-404" tabindex="-1">
+	    
+        <div class="flex-block-wrapper">
           <h1>Fehler</h1>
-          <p>
-          </p>
-          <p><img src='./images/gopher-404.jpg' style="width:50%" alt="Page not found!"></p>
+		  
+          <p><img src="./images/gopher-404.jpg" style="width:50%" alt="Page not found!"></p>
+          <p></p>
           <p>Huch. Diese Seite scheint nicht zu existieren ¯\_(ツ)_/¯.</p>
           <p></p>
-          <p><a href='./'>Gehe zur Homepage</a></p>
+          <p><a href="./">Gehe zur Homepage</a></p>
         </div>
-      </div>
-
-    </section>
+      </main>
+    </div>
   </body>
-
 </html>

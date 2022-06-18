@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion Mobile Geräte on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/100-lektion-mobile-geraete/</link>
+    <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/</link>
     <description>Recent content in Lektion Mobile Geräte on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 09 Mar 2021 09:52:36 +0000</lastBuildDate><atom:link href="/100-lektion-mobile-geraete/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 09:52:36 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/100-lektion-mobile-geraete/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einleitung</title>
-      <link>/100-lektion-mobile-geraete/01.einleitung/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/01.einleitung/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/01.einleitung/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/01.einleitung/</guid>
       <description>Was sind &amp;ldquo;mobile Geräte&amp;rdquo;? Mobile Geräte gehören mehr und mehr zum alltäglichen Leben. Hierzu zählt man Mobiltelefone (u.a. Smartphones), Notebooks (Laptops, Tablets), aber auch Chipkarten und USB-Sticks.
 Mobile Geräte werden sowohl im Privatbereich als auch bei der täglichen Arbeit in Behörden und Unternehmen eingesetzt. So ist es möglich, dass sich auf ein und demselben Gerät neben den privaten Daten und Anwendungen des Benutzers oder der Benutzerin auch sensible dienstliche Daten befinden.</description>
     </item>
     <item>
       <title>Besondere Gefahren</title>
-      <link>/100-lektion-mobile-geraete/02.besondere-gefahren/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/02.besondere-gefahren/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/02.besondere-gefahren/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/02.besondere-gefahren/</guid>
       <description>Kleine Geräte können leicht gestohlen werden oder verloren gehen Grundsätzlich unterliegen mobile Geräte und die auf ihnen gespeicherten Daten den gleichen Sicherheitsbestimmungen wie alle anderen IT-Systeme Ihrer Behörde oder Einrichtung.
 Mobile Geräte und Speichermedien unterliegen jedoch besonderen Gefahren, denn
  sie werden häufig auch außerhalb des Dienstgebäudes verwendet und sie können leichter vergessen, verloren oder gestohlen werden; dadurch können vertrauliche Daten schnell in falsche Hände geraten.  Diese Gefahren gilt es mit geeigneten Sicherheitsmaßnahmen zu verringern.</description>
     </item>
     <item>
       <title>Heutige Kommunikationstechnologien</title>
-      <link>/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/</guid>
       <description>Wer hört und liest mit? Smartphones bieten nicht nur Möglichkeiten zum Telefonieren oder zur Adressverwaltung oder zum Nachrichtaustausch. Sie können auch zum Surfen im Internet oder zum Austausch von Kurznachrichten und Fotos verwendet werden.
 Das alles geschieht kabellos mittels &amp;ldquo;Wireless&amp;rdquo;- (Drahtlos-) Technologien wie WLAN (siehe nächste Seite) und natürlich den Telefon- und Datennetzen. Problematisch ist dabei, dass oft schwer festzustellen ist, wer bei einer drahtlosen Datenübertragung mithört und ob dieser Zugang gerade ausspioniert wird.</description>
     </item>
     <item>
       <title>WLAN - Wireless Local Area Network</title>
-      <link>/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/04.wlan-wireless-local-area-network/</guid>
       <description>Bei Wireless LAN (WLAN) handelt es sich um eine Funknetzwerktechnik, die – wenn einmal aufgebaut – als kabelloser Netzwerkzugang funktioniert. Oftmals werden WLAN-Techniken in Besprechungsräumen und in Außenbüros eingesetzt. WLANs stehen aber auch in Cafés, Hotels oder anderen öffentlichen Bereichen bereit - und zuhause.
 So verhalten Sie sich richtig, um ein Abhören zu vermeiden:  Wenn eine eigene drahtgebundene Netzwerkverbindung möglich ist, ist diese der WLAN-Technik vorzuziehen. Wenn WLAN eingesetzt wird, muss grundsätzlich der höchstmögliche Sicherheitsstandard zur Verschlüsselung des Zugangs gewählt werden (derzeit WPA3).</description>
     </item>
     <item>
       <title>Notebooks</title>
-      <link>/100-lektion-mobile-geraete/05.notebooks/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/05.notebooks/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/05.notebooks/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/05.notebooks/</guid>
       <description>So verhalten Sie sich richtig Viele Behörden und Einrichtungen stellen ihren Beschäftigten Smartphones oder Notebooks (Laptops, Tablets etc.) zur Verfügung, die oft bereits besondere Sicherheitseinstellungen enthalten. Folgendes sollten Sie beachten:
 Richtig  Das Notebook mindestens einmal pro Woche mit dem Dienstnetz verbinden, um Software-Updates und Konfigurationsänderungen zu ermöglichen. Dem Virenschutzprogramm des Notebooks muss die Aktualisierung ermöglicht werden. Bei Fehlermeldungen des Virenscanners oder der Verschlüsselungssoftware sofort die Ansprechperson benachrichtigen Den Verlust des Endgeräts unverzüglich der Ansprechperson und den Vorgesetzten melden.</description>
     </item>
     <item>
       <title>Mobiltelefone</title>
-      <link>/100-lektion-mobile-geraete/06.mobiltelefone/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/06.mobiltelefone/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/06.mobiltelefone/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/06.mobiltelefone/</guid>
       <description>So verhalten Sie sich richtig Heute haben Handys umfangreiche, computerähnliche Funktionen. Entsprechend ist auch hier Vorsicht geboten, vor allem beim Speichern von Informationen auf dem Mobiltelefon:
  Beim Einschalten sollte immer die PIN-Abfrage erfolgen Alle drahtlosen, nicht für die aktuelle Nutzung benötigten Kommunikationsmöglichkeiten ausschalten (Bluetooth, WLAN) Ist die Speicherung vertraulicher Daten erforderlich und von Ihrer Behörde oder Einrichtung erlaubt, so sind diese zu verschlüsseln Der Verlust eines Geräts mit vertraulichen Daten ist unverzüglich ihrer vorgesetzten Person und der Ansprechperson zu melden  </description>
     </item>
     <item>
       <title>Apps und &#34;Bring your own device&#34;</title>
-      <link>/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/07.apps-und-bring-your-own-device/</guid>
       <description>Stellt Ihnen Ihre Behörde oder Einrichtung ein Smartphone zur Verfügung, das Sie auch privat nutzen dürfen? Oder erlaubt sie die dienstliche Nutzung Ihres privaten Handys (&amp;ldquo;Bring your own device - BYOD&amp;rdquo;)? Dann müssen Sie sich an die internen Sicherheitsvorgaben halten!
 Insbesondere müssen Sie darauf achten, dass dienstliche und private Daten nicht vermischt werden. Außerdem kann über viele Apps (Anwendungen auf Ihrem Smartphone) Ihr Nutzungsverhalten ausgespäht werden. Viele Apps wollen mehr Rechte haben, als es für ihre Nutzung erforderlich ist.</description>
     </item>
     <item>
       <title>Mobile Datenträger</title>
-      <link>/100-lektion-mobile-geraete/08.mobile-datentraeger/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/08.mobile-datentraeger/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/08.mobile-datentraeger/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/08.mobile-datentraeger/</guid>
       <description>Schnell und flexibel! Trotz Vernetzung, E-Mail und Internet kann es notwendig sein, Daten zwischen zwei nicht verbundenen Rechnern auszutauschen. Zu diesem Zweck werden gelegentlich mobile Datenträger in Form von USB-Sticks verwendet. Aber auch das eigene Smartphone kann zum Datenaustausch verwendet werden.
 Dabei ist doppelte Vorsicht geboten:
  Zum einen können durch den Verlust des mobilen Datenträgers interne und vertrauliche Informationen an Unbefugte geraten. Zum anderen können durch mobile Datenträger leicht Viren und andere schädliche Programme in das dienstliche Netz gelangen.</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
-      <link>/100-lektion-mobile-geraete/09.zusammenfassung/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/09.zusammenfassung/</link>
       <pubDate>Wed, 10 Mar 2021 09:17:41 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/09.zusammenfassung/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/09.zusammenfassung/</guid>
       <description>Mobile Geräte stellen aufgrund ihrer Größe und Beweglichkeit ein besonderes Sicherheitsrisiko dar. Deshalb haben die meisten Behörden und Einrichtungen Regeln für den Umgang mit diesen Geräten aufgestellt, die hier sinngemäß zusammengefasst sind:
  Passwortschutz bzw. PIN-Abfrage aktivieren Mobile Datenträger immer zuerst auf Viren untersuchen Mobile Geräte sicher aufbewahren Für regelmäßige Software-Updates und Konfigurationsüberprüfungen sorgen Nicht benötigte drahtlose Kommunikationsmöglichkeiten möglichst deaktivieren Verlust von mobilen Geräten sofort der Ansprechperson und den Vorgesetzten melden Keine selbständigen Konfigurationsänderungen bei Dienstgeräten durchführen Keine vertraulichen oder geheimen Daten speichern, es sei denn sie sind verschlüsselt Dienstliche und private Daten nicht vermischen  </description>
     </item>
     <item>
       <title>Quiz - Mobile Geräte</title>
-      <link>/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</link>
       <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
-      <guid>/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/90.quiz-mobile-geraete/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
   Anleitung für das Quiz (hier klicken)   Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen.</description>
     </item>

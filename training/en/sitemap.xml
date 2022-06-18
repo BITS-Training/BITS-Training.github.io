@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>https://bits-training.github.io/training/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="https://bits-training.github.io/training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://bits-training.github.io/training/en/"
                 />
   </url>
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://bits-training.github.io/training/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="https://bits-training.github.io/training/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://bits-training.github.io/training/en/categories/"
                 />
   </url>
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://bits-training.github.io/training/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="https://bits-training.github.io/training/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://bits-training.github.io/training/en/tags/"
                 />
   </url>
 </urlset>

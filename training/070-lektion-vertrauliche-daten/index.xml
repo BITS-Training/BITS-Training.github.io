@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion Vertrauliche Daten on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/070-lektion-vertrauliche-daten/</link>
+    <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/</link>
     <description>Recent content in Lektion Vertrauliche Daten on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 09 Mar 2021 09:52:21 +0000</lastBuildDate><atom:link href="/070-lektion-vertrauliche-daten/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 09:52:21 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/070-lektion-vertrauliche-daten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vertrauliche Daten</title>
-      <link>/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</link>
       <pubDate>Tue, 09 Mar 2021 10:16:46 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/01.vertrauliche-daten/</guid>
       <description>Wann sind Daten vertraulich? Grundsätzlich dann, wenn ihre Veröffentlichung oder ein unberechtigter Zugang schutzwürdige Interessen verletzen würden. Beispielhaft sei der Eintrag im standesamtlichen Geburtenregister, dass ein Kind adoptiert ist, genannt.
 Die meisten von uns haben täglich mit Daten zu tun, die mehr oder weniger vertrauliche Inhalte haben. Oft fehlt das Bewusstsein, wie schnell vertrauliche Informationen in unbefugte Hände geraten können. Auslöser sind neben nicht vollständiger Kenntnis der rechtlichen Rahmenbedingungen (z.B. die jeweiligen Datenschutz- und ggf.</description>
     </item>
     <item>
       <title>Elektronische Datenverarbeitung</title>
-      <link>/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</link>
       <pubDate>Tue, 09 Mar 2021 10:17:12 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/</guid>
       <description>Mit der zunehmenden Digitalisierung von Daten sind wichtige und kritische Informationen auch elektronisch verfügbar. Dadurch können sie schneller verarbeitet, aber auch unkontrolliert weitergeleitet und kopiert werden.
 Dabei kann heute fast jede interne Information zum Nachteil Ihrer Behörde oder Einrichtung oder der Kund*innen ausgenutzt werden. Wie alle wichtigen Daten müssen deshalb auch digitale Informationen vor unberechtigtem Zugriff geschützt werden. Das Datenschutzrecht und die Informationssicherheit verpflichten uns, angemessene technische und organisatorische Schutzmaßnahmen zu treffen.</description>
     </item>
     <item>
       <title>Identifizierung vertraulicher Daten</title>
-      <link>/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</link>
       <pubDate>Tue, 09 Mar 2021 10:17:40 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/</guid>
       <description>Schlüsselfrage zur Bewertung: Sind die Daten durch gesetzliche oder behördliche Bestimmungen geschützt? Ihre Behörde oder Einrichtung unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u.a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.</description>
     </item>
     <item>
       <title>Betriebsgeheimnisse</title>
-      <link>/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</link>
       <pubDate>Tue, 09 Mar 2021 10:18:06 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/04.oeffentliche-informationen/</guid>
       <description>Betriebs- und Geschäftsgeheimnisse sind geschützt - selbst wenn ein Informationsfreiheitsgesetz Auskunftsansprüche gegenüber einer Behörde schafft.
 Nach den Informationsfreiheits- bzw. Transparenzgesetzen (im Herbst 2021 für den Bund und alle Länder mit Ausnahme Bayerns, Niedersachsens und Sachsens), ist ein Antrag auf Informationszugang zu einer Verwaltung abzulehnen, soweit durch die Übermittlung der Information ein Betriebs- oder Geschäftsgeheimnis offenbart wird und dadurch ein wirtschaftlicher Schaden entstehen würde.
 Anders als zum Beispiel Informationen, die allgemein zugänglich sind und durch deren Verlust kein Schaden oder kein Verstoß gegen Auflagen (z.</description>
     </item>
     <item>
       <title>Interne Informationen</title>
-      <link>/070-lektion-vertrauliche-daten/05.interne-informationen/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/05.interne-informationen/</link>
       <pubDate>Tue, 09 Mar 2021 10:18:19 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/05.interne-informationen/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/05.interne-informationen/</guid>
       <description>Unternehmens- und behördeninterne Daten sind grundsätzlich zu schützen!
 Beispiele:
 Telefonlisten, Informationen über interne Arbeitsabläufe
@@ -52,9 +52,9 @@ Verhaltensregeln:
     </item>
     <item>
       <title>Entscheidungsrelevante Informationen</title>
-      <link>/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</link>
       <pubDate>Tue, 09 Mar 2021 10:18:39 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/</guid>
       <description>Es gibt weitere interne Informationen, die insbesondere der Vorbereitung von Entscheidungen dienen oder diese dokumentieren.
 Beispiele:
 Bilanzen, Angebotsunterlagen, nichtöffentliche Verwaltungsunterlagen für Gremien, Protokolle des Verwaltungsvorstandes, aus Verwaltungsrat- und Aufsichtsratssitzungen, Informationen über die Struktur der internen IT-Anlagen
@@ -63,9 +63,9 @@ Verhaltensregeln:
     </item>
     <item>
       <title>Persönlich-vertrauliche Informationen</title>
-      <link>/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</link>
       <pubDate>Tue, 09 Mar 2021 10:18:52 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/</guid>
       <description>Persönlich-vertrauliche Informationen sind vor allem personenbezogene Daten nach dem Datenschutzrecht.
 Beispiele:
 Personalakten, Daten der Gehaltsabrechnung, personenbezogene Daten von Kund*innen( z.B. Anschrift, Geburtsdatum, beantragte Leistung).
@@ -74,25 +74,25 @@ Verhaltensregeln:
     </item>
     <item>
       <title>Datenschutzbeauftragte</title>
-      <link>/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</link>
       <pubDate>Tue, 09 Mar 2021 10:19:09 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/</guid>
       <description>Jede Behörde in der Europäischen Union ist nach dem Datenschutzrecht (Artikel 37 Datenschutz-Grundverordnung) verpflichtet, eine Person als Datenschutzbeauftragte*r zu benennen. Sie wacht über die Einhaltung der Datenschutzgesetze bei der Verarbeitung personenbezogener Daten. Sie ist zu besonderer Verschwiegenheit verpflichtet.
 In Unternehmen muss ein Datenschutzbeauftragter bzw. eine Datenschutzbeauftragte bestellt werden, soweit dort in der Regel mindestens 20 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigt sind (§ 38 Bundesdatenschutzgesetz).
 Der / die Datenschutzbeauftragte Ihrer Behörde oder Einrichtung kann Ihnen bei konkreten Fragen zum Datenschutz weiterhelfen.</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
-      <link>/070-lektion-vertrauliche-daten/09.zusammenfassung/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/09.zusammenfassung/</link>
       <pubDate>Tue, 09 Mar 2021 10:19:22 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/09.zusammenfassung/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/09.zusammenfassung/</guid>
       <description>Hier noch einmal die wichtigsten Regeln zur Vertraulichkeit von Daten:  Gesetzliche und ethische Gründe erfordern einen aktiven Daten- und Informationsschutz - und zwar von allen Beachten Sie die Regelungen und Vorschriften des Datenschutz- und Informationsfreiheitsrechts und interne Regelungen Vor der Weiterleitung von Informationen sind enthaltene Meta-Informationen, die Schutzwürdigkeit und die Empfängerliste zu prüfen Besondere Vorsicht gilt bei der Verarbeitung personenbezogener Daten Für Verschlusssachen (z.B. &amp;ldquo;VS-NfD&amp;rdquo;) gelten Spezialregelungen! Im Zweifel mit der Leitungsebene abstimmen!</description>
     </item>
     <item>
       <title>Quiz - Vertrauliche Daten</title>
-      <link>/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</link>
       <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
   Anleitung für das Quiz (hier klicken)   Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Wie heißen persönliche Verpflichtungserklärungen zum Datenschutz?</description>
     </item>

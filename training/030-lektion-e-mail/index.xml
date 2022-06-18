@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion Sicherer Umgang mit E-Mails on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/030-lektion-e-mail/</link>
+    <link>https://bits-training.github.io/training/030-lektion-e-mail/</link>
     <description>Recent content in Lektion Sicherer Umgang mit E-Mails on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="/030-lektion-e-mail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/030-lektion-e-mail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind E-Mails?</title>
-      <link>/030-lektion-e-mail/01.was-sind-emails/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/01.was-sind-emails/</link>
       <pubDate>Sat, 06 Mar 2021 09:10:22 +0000</pubDate>
-      <guid>/030-lektion-e-mail/01.was-sind-emails/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/01.was-sind-emails/</guid>
       <description>E-Mails sind elektronische Nachrichten, die innerhalb einer Behörde oder Einrichtung, aber auch weltweit über das Internet mit dem Computer, Smartphone, Laptop etc. versendet und empfangen werden. Auch wenn im privaten Bereich mittlerweile elektronische Nachrichten häufiger über Messenger-Programme wie Signal, WhatsApp oder Telegram per Smartphone versendet werden, haben E-Mails im Beruf weiter eine große praktische Bedeutung.
 Dabei besteht eine E-Mail im Allgemeinen aus einer oder mehreren Empfänger-Adressen, einem Betreff (&amp;ldquo;Subject&amp;rdquo;), einer Absender-Adresse, dem E-Mail-Text (&amp;ldquo;Body&amp;rdquo;) und eventuell Anlagen (&amp;ldquo;Attachments&amp;rdquo;).</description>
     </item>
     <item>
       <title>Übermittlung von E-Mails im Internet</title>
-      <link>/030-lektion-e-mail/02.uebermittlung-von-e-mails/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/02.uebermittlung-von-e-mails/</link>
       <pubDate>Sat, 06 Mar 2021 09:10:40 +0000</pubDate>
-      <guid>/030-lektion-e-mail/02.uebermittlung-von-e-mails/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/02.uebermittlung-von-e-mails/</guid>
       <description>Ähnlich wie bei der Briefpost werden E-Mails im Internet von einem &amp;ldquo;Briefzentrum&amp;rdquo; zum nächsten &amp;ldquo;Briefzentrum&amp;rdquo; in Form von Computerservern geschickt und schließlich den Adressat*innen zugestellt. Im Unterschied zur Briefpost gibt es jedoch beim E-Mail-Transport über das Internet keinen allein verantwortlichen Dienstleister, der die Beförderung und Zustellung übernimmt. Die E-Mail wird auf nicht vorhersagbaren Wegen über viele Rechner in unterschiedlichsten Firmen, Behörden und Ländern weitergeleitet. Außerdem wird die Identität der absendenden Person nicht überprüft.</description>
     </item>
     <item>
       <title>Spam-E-Mails</title>
-      <link>/030-lektion-e-mail/03.spam-e-mails/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/03.spam-e-mails/</link>
       <pubDate>Sat, 06 Mar 2021 09:10:56 +0000</pubDate>
-      <guid>/030-lektion-e-mail/03.spam-e-mails/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/03.spam-e-mails/</guid>
       <description>E-Mails kosten kein Porto. Das führt zu einem unschönen Problem:
 Es ist einfach, tausende von E-Mails zu verschicken. Das wird von Firmen für den Versand von Werbe-Mails ausgenutzt, die kostbare Ressourcen belegen und Ihr Postfach füllen. Diese Werbe-Mails werden auch als Spam-E-Mails, kurz &amp;ldquo;Spam&amp;rdquo; oder Junk-Mails bezeichnet.
 Ca. 60% der heute empfangenen E-Mails sind Spam. In vielen Behörden und Einrichtungen werden E-Mails beim Eingang automatisch zentral überprüft. Offensichtliche Spam-E-Mails werden dann entsprechend gekennzeichnet oder automatisch gelöscht.</description>
     </item>
     <item>
       <title>Computerviren per E-Mail</title>
-      <link>/030-lektion-e-mail/04.computerviren/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/04.computerviren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/04.computerviren/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/04.computerviren/</guid>
       <description>Computerviren stellen eine große Bedrohung für Computer und die dort gespeicherten Daten dar. Computerviren sind kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können. Häufig kommen sie als E-Mail-Anhang auf Ihren Computer.
 Von hier aus verbreiten sie sich weiter, verändern oder spionieren Daten aus oder führen andere zerstörerische Aktionen auf Ihrem Rechner oder in Ihrem Netzwerk durch.
 Schutz vor Computerviren In einer Behörde oder Einrichtung wird eine E-Mail normalerweise an zwei Stellen auf Viren untersucht (&amp;ldquo;gescannt&amp;rdquo;): zentral beim Empfang der E-Mail aus dem Internet und zusätzlich auf Ihrem Computer, wenn Sie die E-Mail öffnen.</description>
     </item>
     <item>
       <title>Phishing und Pharming</title>
-      <link>/030-lektion-e-mail/05.phishing-und-pharming/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/05.phishing-und-pharming/</link>
       <pubDate>Tue, 21 Jul 2020 15:25:02 +0200</pubDate>
-      <guid>/030-lektion-e-mail/05.phishing-und-pharming/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/05.phishing-und-pharming/</guid>
       <description>Typische Computerangriffe werden über Phishing und Pharming vorbereitet.
 Phishing meint den Passwortdiebstahl per Internet. Er erfolgt meist per E-Mail. Phishing-E-Mails sind als seriöse Nachricht z.B. einer Bank getarnt und fordern den Empfänger oder die Empfängerin auf, persönliche Daten, Passwörter oder PINs zu aktualisieren. Mit den Daten können die Betrügerinnen und Betrüger dann ungehindert die Konten plündern. Dies ist eine der häufigsten Spielarten der Online-Kriminalität. Jeder einzelne Vorstoß kann mehrere Millionen Internetnutzerinnen und -nutzer erreichen.</description>
     </item>
     <item>
       <title>Fehlgeleitete Informationen</title>
-      <link>/030-lektion-e-mail/06.fehlgeleitete-informationen/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/06.fehlgeleitete-informationen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/06.fehlgeleitete-informationen/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/06.fehlgeleitete-informationen/</guid>
       <description>Immer wieder führt menschliches Fehlverhalten dazu, dass Informationen fehlgeleitet werden und so in falsche Hände geraten. Dies kann unter Umständen erhebliche wirtschaftliche und rechtliche Folgen für Sie, Ihre Kolleginnen und Kollegen und Ihre Behörde oder Einrichtung haben.
 Falls Sie versehentlich eine E-Mail bekommen, die nicht für Sie bestimmt ist,
  geben Sie die E-Mail und deren Inhalt nicht weiter, informieren Sie den Absender oder die Absenderin, löschen Sie die E-Mail aus Ihrem Postfach.</description>
     </item>
     <item>
       <title>Erste Hilfe</title>
-      <link>/030-lektion-e-mail/07.erste-hilfe/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/07.erste-hilfe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/07.erste-hilfe/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/07.erste-hilfe/</guid>
       <description>Was tun, wenn man selbst einen Fehler gemacht hat? Wenn Sie eine E-Mail versehentlich an eine falsche Person gesendet haben, bewahren Sie Ruhe und gehen Sie wie folgt vor:
  Informieren Sie den Empfänger oder die Empfängerin über die fälschlich übermittelte E-Mail und bitten Sie um deren Löschung Informieren Sie unverzüglich Ihre vorgesetzte Person Leiten Sie gemeinsam mit Ihren Vorgesetzten und ggf. dem / der Datenschutzbeauftragten Ihrer Behörde oder Einrichtung alle notwendigen Maßnahmen zur Begrenzung des Schadens ein  </description>
     </item>
     <item>
       <title>Vertrauliche Informationen</title>
-      <link>/030-lektion-e-mail/08.vertrauliche-informationen/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/08.vertrauliche-informationen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/08.vertrauliche-informationen/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/08.vertrauliche-informationen/</guid>
       <description>Wir alle arbeiten heute mit mehr oder weniger vertraulichen Informationen. Gerade bei der Verwendung von E-Mails kann es leicht passieren, dass sensible Daten an die falschen oder an zu viele Empfänger oder Empfängerinnen geschickt werden.
 Der unverschlüsselte Versand vertraulicher Informationen über das Internet kommt dem Versand sensibler Daten per Postkarte gleich und ist daher zu unterlassen.
 Den Inhalt und Anhänge von E-Mails kann man verschlüsseln, so dass Texte, Fotos etc. nicht ohne weiteres lesbar sind.</description>
     </item>
     <item>
       <title>Dienstliche und private Nutzung</title>
-      <link>/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</guid>
       <description>In vielen Behörden und Einrichtungen ist die Nutzung der dienstlichen E-Mail-Adresse zum Versand privater E-Mails nicht erlaubt. Dieses Verbot ist rechtlich zulässig und muss von Ihnen beachtet werden. Genaueres regeln Dienstvereinbarungen oder anderen interne Vorgaben.
-AchtungIst in Ihrer Behörde oder Einrichtung die private Nutzung der dienstlichen E-Mail-Adresse erlaubt?
+ Achtung Ist in Ihrer Behörde oder Einrichtung die private Nutzung der dienstlichen E-Mail-Adresse erlaubt?
  Wenn nein - verzichten Sie darauf! Wenn ja - nutzen Sie diese nur im angemessenen Umfang und versenden und empfangen Sie allenfalls kleine Dateien!</description>
     </item>
     <item>
       <title>Net(t)ikette</title>
-      <link>/030-lektion-e-mail/10.net-t-ikette/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/10.net-t-ikette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/10.net-t-ikette/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/10.net-t-ikette/</guid>
       <description>Noch ein Wort zur &amp;ldquo;Net(t)ikette&amp;rdquo;, zum guten Ton beim Informationsaustausch per E-Mail:
 Auch bei der elektronischen Post sollte man sich gut ausdrücken und fair verhalten. Da Sie mit Ihren E-Mails Ihre Behörde oder Einrichtung nach außen vertreten, sollten Sie nicht nur auf den Inhalt, sondern auch die angemessene Anrede und die Darstellung achten.
 Hier ein paar Regeln für die richtige &amp;ldquo;Net(t)ikette&amp;rdquo;, den höflichen und korrekten Informationsaustausch per E-Mail:
@@ -96,16 +96,16 @@ Richtig
     </item>
     <item>
       <title>Zusammenfassung</title>
-      <link>/030-lektion-e-mail/11.zusammenfassung/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/11.zusammenfassung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/030-lektion-e-mail/11.zusammenfassung/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/11.zusammenfassung/</guid>
       <description>Hier noch einmal die wichtigsten Regeln:  Vertrauen Sie niemals ungeprüft E-Mail-Inhalten und Dateianhängen. Öffnen Sie keine Dokumente und Programme Ihnen unbekannter Personen. Informieren Sie bei Verdacht auf Virenbefall Ihre Ansprechperson. Geben Sie fehlgeleitete Informationen nicht weiter, sondern informieren Sie die absendende Person und löschen Sie die E-Mail. Falls Sie selber eine vertrauliche E-Mail falsch versendet haben: Bitten Sie um Löschung und informieren Sie Ihre vorgesetzte Person. Wenn Sie eine Phishing-Mail bekommen: nicht antworten, keinen Link anklicken, keine sensiblen Daten weitergeben, keine Anhänge öffnen.</description>
     </item>
     <item>
       <title>Quiz - E-Mails</title>
-      <link>/030-lektion-e-mail/90.quiz-e-mails/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/90.quiz-e-mails/</link>
       <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
-      <guid>/030-lektion-e-mail/90.quiz-e-mails/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/90.quiz-e-mails/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
   Anleitung für das Quiz (hier klicken)   Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true shuffle_answers: true --- ## Was sind Computerviren?</description>
     </item>

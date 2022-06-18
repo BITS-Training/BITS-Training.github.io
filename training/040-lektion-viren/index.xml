@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion Viren on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/040-lektion-viren/</link>
+    <link>https://bits-training.github.io/training/040-lektion-viren/</link>
     <description>Recent content in Lektion Viren on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 06 Mar 2021 09:14:35 +0000</lastBuildDate><atom:link href="/040-lektion-viren/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:14:35 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/040-lektion-viren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind Computerviren?</title>
-      <link>/040-lektion-viren/01.was-sind-computerviren/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/01.was-sind-computerviren/</link>
       <pubDate>Sat, 06 Mar 2021 09:15:44 +0000</pubDate>
-      <guid>/040-lektion-viren/01.was-sind-computerviren/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/01.was-sind-computerviren/</guid>
       <description>Viren (auch &amp;ldquo;Schadprogramm&amp;rdquo;, &amp;ldquo;Malware&amp;rdquo; etc. genannt) sind kleine Computer-Programme oder Programmteile, die unerwünschte Aktionen auslösen und verschiedenste Auswirkungen auf Ihr Computersystem haben können:
  In der harmlosesten Stufe sind Viren nur lästig oder stiften Verwirrung, z. B. durch ungewöhnliche Aktionen, die Ihre Daten aber nicht beschädigen. Andere Viren nutzen Ihr System, in dem sie Programme missbrauchen, z.B. Ihr E-Mail-Programm verwenden, um E-Mails an alle Adressen in Ihrem Adressbuch zu senden oder diese abzugreifen.</description>
     </item>
     <item>
       <title>Typen von Viren</title>
-      <link>/040-lektion-viren/02.typen-von-viren/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/02.typen-von-viren/</link>
       <pubDate>Sat, 06 Mar 2021 09:17:03 +0000</pubDate>
-      <guid>/040-lektion-viren/02.typen-von-viren/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/02.typen-von-viren/</guid>
       <description>Häufig wird der englische Oberbegriff &amp;ldquo;Malware&amp;rdquo; (&amp;ldquo;mal&amp;rdquo; = &amp;ldquo;schädigend&amp;rdquo;) für alle Arten von Computerviren verwendet. Man unterscheidet unterschiedliche Typen von Malware. Klicken Sie weiter auf die jeweilige Virenart, um Genaueres zu erfahren.
   Datei-Viren  Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
     Trojanische Pferde  &amp;ldquo;Trojanische Pferde&amp;rdquo; oder &amp;ldquo;Trojaner&amp;rdquo; werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z.</description>
     </item>
     <item>
       <title>Mögliche Schäden durch Virenbefall</title>
-      <link>/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</link>
       <pubDate>Sat, 06 Mar 2021 09:28:25 +0000</pubDate>
-      <guid>/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/03.moegliche-schaeden-durch-virenbefall/</guid>
       <description>Je nach Virus sehen die verursachten Schäden sehr unterschiedlich aus.
 Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
  Verbrauch von Systemressourcen wie Plattenplatz oder Leitungskapazitäten Verringerung der Systemleistung Verändern oder Löschen von Systemdateien  Heute sind die Ziele:
@@ -36,26 +36,26 @@ Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
     </item>
     <item>
       <title>Infektionswege</title>
-      <link>/040-lektion-viren/04.infektionswege/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/04.infektionswege/</link>
       <pubDate>Sat, 06 Mar 2021 09:20:10 +0000</pubDate>
-      <guid>/040-lektion-viren/04.infektionswege/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/04.infektionswege/</guid>
       <description>Viren erreichen auf verschiedenen Wegen ihr Ziel:
  Der Hauptinfektionsweg ist die E-Mail. Unter Umständen kann schon durch das bloße Lesen einer E-Mail ein Virus aktiv werden (etwa wenn die Auto-Vorschau aktiv ist). Besonders gefährlich ist es, mitgeschickte Dateien (Anhänge) unbedacht zu öffnen. Auch durch das Starten von Dateien, die Sie aus dem Internet herunterladen, kann ein Virus aktiv werden. Manchmal reicht sogar das Besuchen einer infizierten Web-Seite. Auch das interne Netz kann Ausgangspunkt von Viren sein.</description>
     </item>
     <item>
       <title>Risiken und Schäden</title>
-      <link>/040-lektion-viren/05.risiken-und-schaeden/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/05.risiken-und-schaeden/</link>
       <pubDate>Sat, 06 Mar 2021 09:19:53 +0000</pubDate>
-      <guid>/040-lektion-viren/05.risiken-und-schaeden/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/05.risiken-und-schaeden/</guid>
       <description>Gefahren steigen mit dem Anschluss ans Internet Bei jedem Computer, der Zugang zum Internet hat, besteht die Gefahr eines Virenbefalls. Mit der steigenden Nutzung von Rechnern als Kommunikationsmedium steigt auch die Virengefahr. Sobald ein Internetanschluss vorliegt, liegt die Wahrscheinlichkeit eines Virenangriffs bei 100%.
 Der drohende Schaden kann beträchtlich sein:
  Werden durch einen Virenbefall Daten zerstört, so entstehen Ihrer Behörde oder Einrichtung gegebenenfalls hohe Aufwände bei der Wiederherstellung. Gelangen ausspionierte Daten an die Öffentlichkeit, so können Ihrer Behörde oder Einrichtung Ansehens- und Vertrauensschäden entstehen, von Datenschutzverstößen ganz zu schweigen.</description>
     </item>
     <item>
       <title>Vorbeugemaßnahmen</title>
-      <link>/040-lektion-viren/06.vorbeugemassnahmen/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/06.vorbeugemassnahmen/</link>
       <pubDate>Sat, 06 Mar 2021 09:23:56 +0000</pubDate>
-      <guid>/040-lektion-viren/06.vorbeugemassnahmen/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/06.vorbeugemassnahmen/</guid>
       <description>Wie in der Medizin gilt: &amp;ldquo;Vorbeugen ist besser als Heilen&amp;rdquo; Um Dateien und Systeme vor Viren zu schützen und gegebenenfalls von diesen zu säubern, gibt es speziell dafür Computer-Programme, sogenannte Virenscanner.
 In den meisten Behörden und Einrichtungen werden alle Server und PCs mit einem Virenscanner ausgestattet, der eingehende E-Mails untersucht. Er darf nie ausgeschaltet werden.
 Auch jeder Privat-PC sollte immer durch einen aktuellen Virenscanner geschützt sein.
@@ -63,25 +63,25 @@ Der Virenscanner muss so außerdem eingestellt sein, dass alle Daten beim Öffne
     </item>
     <item>
       <title>Virenbefall - was tun?</title>
-      <link>/040-lektion-viren/07.virenbefall-was-tun/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/07.virenbefall-was-tun/</link>
       <pubDate>Sat, 06 Mar 2021 09:27:50 +0000</pubDate>
-      <guid>/040-lektion-viren/07.virenbefall-was-tun/</guid>
-      <description>Don&amp;rsquo;t panic – Ruhe bewahren ​	AchtungWenn Sie vermuten, dass sich ein Virus eingeschlichen hat, ist eine schnelle Reaktion gefragt, um größeren Schaden zu vermeiden. Wichtig ist dabei:
+      <guid>https://bits-training.github.io/training/040-lektion-viren/07.virenbefall-was-tun/</guid>
+      <description>Don&amp;rsquo;t panic – Ruhe bewahren ​	 Achtung Wenn Sie vermuten, dass sich ein Virus eingeschlichen hat, ist eine schnelle Reaktion gefragt, um größeren Schaden zu vermeiden. Wichtig ist dabei:
  Geraten Sie nicht in Panik! Computer vom Netzwerk trennen, also Kabel ziehen oder drahtlose Verbindung abschalten! Auf keinen Fall eigene Bereinigungsaktionen durchführen! Benachrichtigen Sie Ihre Ansprechperson. Sie kümmert sich um die weiteren Schritte zur Beseitigung des Virus und zur Wiederherstellung betroffener Daten.</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
-      <link>/040-lektion-viren/08.zusammenfassung/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/08.zusammenfassung/</link>
       <pubDate>Sat, 06 Mar 2021 09:25:50 +0000</pubDate>
-      <guid>/040-lektion-viren/08.zusammenfassung/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/08.zusammenfassung/</guid>
       <description>Computerviren: lästig - schädlich - gefährlich Der Virenschutz hat in den letzten Jahren durch die Vielfalt von Viren immer mehr an Bedeutung gewonnen. Man kann es nur als Leichtsinn bezeichnen, sich im Internet ohne Virenschutz zu bewegen.
 Täglich tauchen ca. 1.000 neue Viren auf. Deshalb kann kein aktueller Virenscanner 100%igen Schutz garantieren. Sollte einmal ein Virus nicht erkannt werden, können ein gut eingestelltes System und Ihre überlegte Reaktion den Schaden entscheidend eindämmen.</description>
     </item>
     <item>
       <title>Quiz - Viren</title>
-      <link>/040-lektion-viren/90.quiz-viren/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/90.quiz-viren/</link>
       <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
-      <guid>/040-lektion-viren/90.quiz-viren/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/90.quiz-viren/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
   Anleitung für das Quiz (hier klicken)   Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Welcher der folgenden Typen ist KEIN echter Computervirus?</description>
     </item>

@@ -9,6 +9,7 @@ function initLunr() {
             // Set up lunrjs by declaring the fields we use
             // Also provide their boost level for the ranking
             lunrIndex = lunr(function() {
+                this.use(lunr.multiLanguage.apply(null, contentLangs));
                 this.ref('index');
                 this.field('title', {
                     boost: 15
@@ -65,7 +66,8 @@ initLunr();
 $(function() {
     var searchList = new autoComplete({
         /* selector for the search box element */
-        selector: $('#search-by').get(0),
+        selectorToInsert: '#header-wrapper',
+        selector: '#search-by',
         /* source is the callback to perform the search */
         source: function(term, response) {
             response(search(term));

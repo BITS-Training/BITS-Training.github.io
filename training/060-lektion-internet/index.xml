@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion Surfen im Internet on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/060-lektion-internet/</link>
+    <link>https://bits-training.github.io/training/060-lektion-internet/</link>
     <description>Recent content in Lektion Surfen im Internet on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 09 Mar 2021 09:52:10 +0000</lastBuildDate><atom:link href="/060-lektion-internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 09:52:10 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/060-lektion-internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was ist das Internet?</title>
-      <link>/060-lektion-internet/01.was-ist-das-internet/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/01.was-ist-das-internet/</link>
       <pubDate>Tue, 09 Mar 2021 10:12:52 +0000</pubDate>
-      <guid>/060-lektion-internet/01.was-ist-das-internet/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/01.was-ist-das-internet/</guid>
       <description>Das Internet ist ein weltumspannendes Netz von Millionen von Rechnersystemen. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.
 Eine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.</description>
     </item>
     <item>
       <title>Gefahren im Internet</title>
-      <link>/060-lektion-internet/02.gefahren-im-internet/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/02.gefahren-im-internet/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:05 +0000</pubDate>
-      <guid>/060-lektion-internet/02.gefahren-im-internet/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/02.gefahren-im-internet/</guid>
       <description>So schnell und einfach wie Sie im Internet auf Daten zugreifen können, so leicht können Sie sich auch in Gefahr begeben:
  So können beim Surfen Schadprogramme auf Ihrem Computer unbemerkt ausgeführt werden. Auf diese Weise können Viren eingeschleust und Daten Ihres Rechners ausspioniert oder verändert werden. Sogar harmlos aussehende Bilder können schädliche Befehle enthalten.  Zwar werden Web-Zugriffe schon am Netzknoten Ihrer Einrichtung auf Viren und schädliche Programme untersucht. Dennoch ist beim Surfen Vorsicht geboten: Sie können nie sicher sein, welche Inhalte oder Befehle auf Ihrem Computer ausgeführt werden, wenn eine Web-Seite von Ihrem Browser aufgerufen wird.</description>
     </item>
     <item>
       <title>Vertrauenswürdigkeit von Webseiten</title>
-      <link>/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:12 +0000</pubDate>
-      <guid>/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/</guid>
       <description>Haben Sie sich schon mal Gedanken darüber gemacht, wer eine Web-Seite veröffentlicht und wer für den Inhalt verantwortlich ist?
 Diese Fragen sind mit letzter Sicherheit oft nur schwer zu beantworten. Viele Informationen erscheinen im Internet anonym und ungeprüft. Die technisch leicht mögliche automatische Weiterleitung auf andere Web-Server macht es Ihnen zudem schwer, die Kontrolle zu behalten.
 Stetig werden neue Technologien entwickelt, um Inhalte attraktiver, schneller und dynamischer zu präsentieren.
@@ -35,57 +35,57 @@ Dabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren.</de
     </item>
     <item>
       <title>Technische Webinhalte</title>
-      <link>/060-lektion-internet/04.technische-webinhalte/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/04.technische-webinhalte/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:25 +0000</pubDate>
-      <guid>/060-lektion-internet/04.technische-webinhalte/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/04.technische-webinhalte/</guid>
       <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:
   Cookies  sind Textdateien, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden.Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen eingesetzt. Ein Web-Server-Betreiber steuert z.</description>
     </item>
     <item>
       <title>Schutz vor technischen Webinhalten</title>
-      <link>/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:31 +0000</pubDate>
-      <guid>/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/05.schutz-vor-technischen-webinhalten/</guid>
       <description>In den meisten Behörden und Einrichtungen ist eine sichere Konfiguration des Browsers fest vorgegeben! Versuchen Sie nicht, diese zu ändern. Laden und starten Sie keine Programme von Webseiten, sofern Sie nicht dienstlich dazu angehalten werden.  Damit Zugangsdaten und Seiteninhalte bei der Übertragung im offenen Internet nicht von Dritten mitgelesen werden können, wird für die Übertragung das technische Protokoll &amp;ldquo;TLS&amp;rdquo; (Transport Layer Security) verwendet. Entsprechende Angebote erkennen Sie u.a. an der der Adresse vorangestellten Abkürzung &amp;ldquo;https&amp;rdquo;.</description>
     </item>
     <item>
       <title>Verschlüsselter Zugriff auf Webseiten</title>
-      <link>/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:49 +0000</pubDate>
-      <guid>/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/</guid>
       <description>Die meisten Webbrowser zeigen eine verschlüsselte Verbindung durch ein entsprechendes Symbol an, häufig durch ein kleines Vorhängeschloss in der Adresszeile.
 Verschlüsselte Verbindungen im Internet werden über Digitale Signaturen abgesichert. Die Ausstellung und Überprüfung Digitaler Signaturen sind technisch komplizierte Prozesse. Sie werden jedoch von den Web-Browsern automatisch erledigt, Sie können dies aber auch kontrollieren (siehe unten).
 Klicken Sie auf die folgenden Begriffe, wenn Sie weitere Informationen zu Digitalen Signaturen und den damit zusammenhängenden Gefahren wünschen:</description>
     </item>
     <item>
       <title>Blocken unerwünschter Seiten</title>
-      <link>/060-lektion-internet/07.blocken-unerwuenschter-seiten/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/07.blocken-unerwuenschter-seiten/</link>
       <pubDate>Tue, 09 Mar 2021 10:14:03 +0000</pubDate>
-      <guid>/060-lektion-internet/07.blocken-unerwuenschter-seiten/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/07.blocken-unerwuenschter-seiten/</guid>
       <description>Einige Behörden und Einrichtungen stellen mit Hilfe von zentralen Filtersystemen sicher, dass Webseiten mit extremistischen, pornografischen und vergleichbaren Inhalten automatisch geblockt werden. Davon unabhängig sollten Sie von sich aus Internetangebote meiden,
  die strafbare bzw. rechtswidrige Inhalte haben, die andere Personen am Arbeitsplatz belästigen oder - insbesondere minderjährige Kolleginnen und Kollegen - verstören können, die keinen dienstlichen Bezug haben, insbesondere wenn Ihnen die private Internetnutzung untersagt ist.  </description>
     </item>
     <item>
       <title>Richtlinien zur Internetnutzung</title>
-      <link>/060-lektion-internet/08.internet-richtlinien/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/08.internet-richtlinien/</link>
       <pubDate>Tue, 09 Mar 2021 10:14:08 +0000</pubDate>
-      <guid>/060-lektion-internet/08.internet-richtlinien/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/08.internet-richtlinien/</guid>
       <description>Viele Behörden und Einrichtungen legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z.B.
- die private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung.  Gut zu wissen Zur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation).</description>
+ die private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung.   Gut zu wissen  Zur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation).</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
-      <link>/060-lektion-internet/09.zusammenfassung/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/09.zusammenfassung/</link>
       <pubDate>Sat, 06 Mar 2021 09:25:50 +0000</pubDate>
-      <guid>/060-lektion-internet/09.zusammenfassung/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/09.zusammenfassung/</guid>
       <description>Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.
  Recherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden. Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können. Surfen Sie bewusst und bedenken Sie jeden &amp;ldquo;Klick&amp;rdquo;.</description>
     </item>
     <item>
       <title>Quiz - Internet</title>
-      <link>/060-lektion-internet/90.quiz-internet/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/90.quiz-internet/</link>
       <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
-      <guid>/060-lektion-internet/90.quiz-internet/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/90.quiz-internet/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
   Anleitung für das Quiz (hier klicken)   Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu    --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind aktive Webinhalte?</description>
     </item>

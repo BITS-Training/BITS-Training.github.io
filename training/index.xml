@@ -2,96 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/</link>
+    <link>https://bits-training.github.io/training/</link>
     <description>Recent content in Start on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 06 Mar 2021 09:11:59 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:11:59 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einleitung</title>
-      <link>/020-einleitung/</link>
+      <link>https://bits-training.github.io/training/020-einleitung/</link>
       <pubDate>Sat, 06 Mar 2021 09:12:20 +0000</pubDate>
-      <guid>/020-einleitung/</guid>
+      <guid>https://bits-training.github.io/training/020-einleitung/</guid>
       <description>Informationen sind wertvoll Ziele von BITS Informationen sind wertvoll. Sie werden immer bedeutender für Behörden und Einrichtungen, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt. Im Zentrum stehen die Schutzziele der Informationssicherheit.
 Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so den Staat und damit die Gesellschaft schädigen.</description>
     </item>
     <item>
       <title>Lektion Sicherer Umgang mit E-Mails</title>
-      <link>/030-lektion-e-mail/</link>
+      <link>https://bits-training.github.io/training/030-lektion-e-mail/</link>
       <pubDate>Sat, 06 Mar 2021 09:10:07 +0000</pubDate>
-      <guid>/030-lektion-e-mail/</guid>
+      <guid>https://bits-training.github.io/training/030-lektion-e-mail/</guid>
       <description>Lektion 1 Sicherer Umgang mit E-Mails In dieser Lektion lernen Sie,
  warum ein falscher Umgang mit E-Mails eine Gefahr für Sie und Ihre Behörde oder Einrichtung darstellt, wie man auf fehlgeleitete Informationen und Anfragen richtig reagiert, was Phishing und Pharming bedeuten und warum beide so gefährlich sind, was Spam-E-Mails sind und wie mit ihnen umzugehen ist, wie vertrauliche Informationen zu behandeln sind und was E-Mail-Verschlüsselung ist, und wie man E-Mails angemessen schreibt - &amp;ldquo;Net(t)ikette&amp;rdquo;  </description>
     </item>
     <item>
       <title>Lektion Viren</title>
-      <link>/040-lektion-viren/</link>
+      <link>https://bits-training.github.io/training/040-lektion-viren/</link>
       <pubDate>Sat, 06 Mar 2021 09:14:35 +0000</pubDate>
-      <guid>/040-lektion-viren/</guid>
+      <guid>https://bits-training.github.io/training/040-lektion-viren/</guid>
       <description>Lektion 2 Viren In dieser Lektion lernen Sie,
  was ein Computervirus eigentlich ist und welche Typen von Viren existieren, welche Infektionswege es gibt, welche Risiken bestehen und welche Schäden entstehen können, wie Sie Ihren PC und Ihre Behörde oder Einrichtung vor Viren schützen können, wie Sie einen Virenbefall erkennen und was Sie tun sollten, falls &amp;ldquo;es&amp;rdquo; doch passiert ist  </description>
     </item>
     <item>
       <title>Lektion Passwörter</title>
-      <link>/050-lektion-passwoerter/</link>
+      <link>https://bits-training.github.io/training/050-lektion-passwoerter/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:01 +0000</pubDate>
-      <guid>/050-lektion-passwoerter/</guid>
+      <guid>https://bits-training.github.io/training/050-lektion-passwoerter/</guid>
       <description>Lektion 3 Passwörter: Ihr Zugangscode zu Daten und Systemen In dieser Lektion lernen Sie,
  warum Passwörter sinnvoll und notwendig sind und wo sie verwendet werden, wie Sie ein sicheres Passwort erstellen können, wie Passwörter ausspioniert werden, wie Sie sicher mit Ihren Passwörtern umgehen und sie vor Missbrauch schützen können, welche Passwort-Regeln beachtet werden sollten und was man unter &amp;ldquo;Social Engineering&amp;rdquo; versteht und wie man sich davor schützt.  </description>
     </item>
     <item>
       <title>Lektion Surfen im Internet</title>
-      <link>/060-lektion-internet/</link>
+      <link>https://bits-training.github.io/training/060-lektion-internet/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:10 +0000</pubDate>
-      <guid>/060-lektion-internet/</guid>
+      <guid>https://bits-training.github.io/training/060-lektion-internet/</guid>
       <description>Lektion 4 Surfen in Internet In dieser Lektion lernen Sie,
  was der Zugang zum Internet bedeutet, welche Gefahren im Internet lauern und wie Sie diese erkennen, wie Sie sicher im Internet surfen können und welche allgemeinen Regeln Sie bei der Internetnutzung beachten sollten.  </description>
     </item>
     <item>
       <title>Lektion Vertrauliche Daten</title>
-      <link>/070-lektion-vertrauliche-daten/</link>
+      <link>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:21 +0000</pubDate>
-      <guid>/070-lektion-vertrauliche-daten/</guid>
+      <guid>https://bits-training.github.io/training/070-lektion-vertrauliche-daten/</guid>
       <description>Lektion 5 Vertrauliche Daten In dieser Lektion lernen Sie,
  wie wichtig es für Sie und Ihre Behörde oder Einrichtung ist, dass alle mit vertraulichen Daten richtig umzugehen wissen, wie Sie feststellen können, welche Daten als schützenswert gelten, wie Sie sicher mit vertraulichen Daten umgehen, wer Sie bei Fragen und Problemen zum Thema Vertraulichkeit unterstützen kann.  </description>
     </item>
     <item>
       <title>Lektion Social Media</title>
-      <link>/080-lektion-social-media/</link>
+      <link>https://bits-training.github.io/training/080-lektion-social-media/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:29 +0000</pubDate>
-      <guid>/080-lektion-social-media/</guid>
+      <guid>https://bits-training.github.io/training/080-lektion-social-media/</guid>
       <description>Lektion 6 Social Media In dieser Lektion lernen Sie,
  was man unter Social Media versteht, welche Social Media-Dienste es gibt, welche Probleme bei der Nutzung von Social Media entstehen können und wie Sie Social Media sicher nutzen können  </description>
     </item>
     <item>
       <title>Lektion Cloud</title>
-      <link>/090-lektion-cloud/</link>
+      <link>https://bits-training.github.io/training/090-lektion-cloud/</link>
       <pubDate>Wed, 10 Mar 2021 09:08:42 +0000</pubDate>
-      <guid>/090-lektion-cloud/</guid>
+      <guid>https://bits-training.github.io/training/090-lektion-cloud/</guid>
       <description>Lektion 7 Cloud In dieser Lektion lernen Sie,
  was man unter Cloud-Diensten versteht, welche Cloud-Dienste es gibt, wie sich öffentliche und private Cloud-Dienste unterscheiden und wie Sie Cloud-Dienste sicher nutzen können.  </description>
     </item>
     <item>
       <title>Lektion Mobile Geräte</title>
-      <link>/100-lektion-mobile-geraete/</link>
+      <link>https://bits-training.github.io/training/100-lektion-mobile-geraete/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:36 +0000</pubDate>
-      <guid>/100-lektion-mobile-geraete/</guid>
+      <guid>https://bits-training.github.io/training/100-lektion-mobile-geraete/</guid>
       <description>Lektion 8 Mobile Geräte In dieser Lektion lernen Sie,
  welche Geräte unter dem Begriff &amp;ldquo;mobile Geräte&amp;rdquo; zusammengefasst werden, welchen besonderen Gefahren und Risiken mobile Geräte ausgesetzt sind, was WLAN bedeutet und welche Gefahren Funknetze mit sich bringen und welche Sicherheitsregeln im Zusammenhang mit mobilen Geräten und WLAN beachtet werden sollten  </description>
     </item>
     <item>
       <title>Lektion Mein Arbeitsplatz</title>
-      <link>/110-lektion-mein-arbeitsplatz/</link>
+      <link>https://bits-training.github.io/training/110-lektion-mein-arbeitsplatz/</link>
       <pubDate>Sat, 06 Mar 2021 09:10:07 +0000</pubDate>
-      <guid>/110-lektion-mein-arbeitsplatz/</guid>
+      <guid>https://bits-training.github.io/training/110-lektion-mein-arbeitsplatz/</guid>
       <description>Lektion 9 Mein Arbeitsplatz Diese Lektion fasst zusammen,
- welche Gefahren an Ihrem Arbeitsplatz (im Büro, unterwegs oder im Home Office) hinsichtlich der IT-Sicherheit bestehen, welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können, wie Sie sich in einem Schadensfall verhalten sollten.  Achtung Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen. Arbeiten Sie daher umsichtig und sorgfältig! Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst!</description>
+ welche Gefahren an Ihrem Arbeitsplatz (im Büro, unterwegs oder im Home Office) hinsichtlich der IT-Sicherheit bestehen, welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können, wie Sie sich in einem Schadensfall verhalten sollten.   Achtung  Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen. Arbeiten Sie daher umsichtig und sorgfältig! Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst!</description>
     </item>
     <item>
       <title>Infos / Ansprechpersonen</title>
-      <link>/200-ansprechpersonen/</link>
+      <link>https://bits-training.github.io/training/200-ansprechpersonen/</link>
       <pubDate>Sat, 06 Mar 2021 09:14:35 +0000</pubDate>
-      <guid>/200-ansprechpersonen/</guid>
+      <guid>https://bits-training.github.io/training/200-ansprechpersonen/</guid>
       <description>Informationssicherheit Max Mustermann
 Markt 8, 48653 Musterstadt
 Telefon: (02541) 1234-5678

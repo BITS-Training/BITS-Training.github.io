@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BITS | IT security training for public authorities</title>
-    <link>/en/tags/</link>
+    <link>https://bits-training.github.io/training/en/tags/</link>
     <description>Recent content in Tags on BITS | IT security training for public authorities</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://bits-training.github.io/training/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
