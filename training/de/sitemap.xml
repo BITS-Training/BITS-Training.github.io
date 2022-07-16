@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bits-training.github.io/training/einleitung/</loc>
+    <lastmod>2021-03-06T09:12:20+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/</loc>
+    <lastmod>2021-03-06T09:10:07+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/050-lektion-passwoerter/01.erklaerung/</loc>
     <lastmod>2021-04-18T14:08:04+02:00</lastmod>
   </url>
@@ -47,7 +55,7 @@
                 />
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/01.was-sind-emails/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/01.was-sind-emails/</loc>
     <lastmod>2021-03-06T09:10:22+00:00</lastmod>
   </url>
   <url>
@@ -83,11 +91,7 @@
     <lastmod>2021-03-06T09:17:03+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/020-einleitung/</loc>
-    <lastmod>2021-03-06T09:12:20+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/02.uebermittlung-von-e-mails/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/02.uebermittlung-von-e-mails/</loc>
     <lastmod>2021-03-06T09:10:40+00:00</lastmod>
   </url>
   <url>
@@ -127,16 +131,12 @@
     <lastmod>2021-03-06T09:28:25+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/03.spam-e-mails/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/03.spam-e-mails/</loc>
     <lastmod>2021-03-06T09:10:56+00:00</lastmod>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/herausgeber-und-lizenz/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
-  </url>
-  <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/</loc>
-    <lastmod>2021-03-06T09:10:07+00:00</lastmod>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/050-lektion-passwoerter/04.zusammenfassung/</loc>
@@ -175,7 +175,7 @@
     <lastmod>2021-03-06T09:14:35+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/04.computerviren/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/04.computerviren/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/110-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/</loc>
@@ -210,7 +210,7 @@
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/05.phishing-und-pharming/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/05.phishing-und-pharming/</loc>
     <lastmod>2020-07-21T15:25:02+02:00</lastmod>
   </url>
   <url>
@@ -242,7 +242,7 @@
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/06.fehlgeleitete-informationen/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/06.fehlgeleitete-informationen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/110-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/</loc>
@@ -269,7 +269,7 @@
     <lastmod>2021-03-06T09:27:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/07.erste-hilfe/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/07.erste-hilfe/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/100-lektion-mobile-geraete/08.mobile-datentraeger/</loc>
@@ -292,7 +292,7 @@
     <lastmod>2021-03-06T09:25:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/08.vertrauliche-informationen/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/08.vertrauliche-informationen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/100-lektion-mobile-geraete/09.zusammenfassung/</loc>
@@ -311,21 +311,21 @@
     <lastmod>2021-03-06T09:25:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/09.dienstliche-und-private-nutzung/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/09.dienstliche-und-private-nutzung/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/100-lektion-mobile-geraete/</loc>
     <lastmod>2021-03-09T09:52:36+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/10.net-t-ikette/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/10.net-t-ikette/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/110-lektion-mein-arbeitsplatz/</loc>
     <lastmod>2021-03-06T09:10:07+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/11.zusammenfassung/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/11.zusammenfassung/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/200-ansprechpersonen/</loc>
@@ -356,7 +356,7 @@
     <lastmod>2021-04-18T14:18:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/030-lektion-e-mail/90.quiz-e-mails/</loc>
+    <loc>https://bits-training.github.io/training/lektion-1-e-mails/90.quiz-e-mails/</loc>
     <lastmod>2021-03-13T04:15:44+00:00</lastmod>
   </url>
   <url>

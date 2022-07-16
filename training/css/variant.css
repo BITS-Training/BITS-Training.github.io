@@ -142,6 +142,7 @@ a:hover,
     background-color: var(--INTERNAL-MENU-SECTIONS-ACTIVE-BG-color);
 }
 
+#sidebar ul.topics li.active > label:after,
 #sidebar ul.topics li.active > a {
     background-color: var(--INTERNAL-MENU-SECTION-ACTIVE-CATEGORY-BG-color);
     color: var(--INTERNAL-MENU-SECTION-ACTIVE-CATEGORY-color);
@@ -173,7 +174,7 @@ h2 {
     font-family: var(--INTERNAL-MAIN-TITLES-H2-font);
 }
 
-h3 {
+h3, .article-subheading {
     color: var(--INTERNAL-MAIN-TITLES-H3-color);
     font-family: var(--INTERNAL-MAIN-TITLES-H3-font);
 }

@@ -13,14 +13,32 @@ var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) 
 
 var formelements = 'button, datalist, fieldset, input, label, legend, meter, optgroup, option, output, progress, select, textarea';
 
+// rapidoc: #280 disable broad document syntax highlightning
+window.Prism = window.Prism || {};
+Prism.manual = true;
+
 // PerfectScrollbar
 var psc;
 var psm;
 var pst;
 
+function scrollbarWidth(){
+    // https://davidwalsh.name/detect-scrollbar-width
+    // Create the measurement node
+    var scrollDiv = document.createElement("div");
+    scrollDiv.className = "scrollbar-measure";
+    document.body.appendChild(scrollDiv);
+    // Get the scrollbar width
+    var scrollbarWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
+    // Delete the DIV
+    document.body.removeChild(scrollDiv);
+    return scrollbarWidth;
+}
+
 function switchTab(tabGroup, tabId) {
-    allTabItems = jQuery("[data-tab-group='"+tabGroup+"']");
-    targetTabItems = jQuery("[data-tab-group='"+tabGroup+"'][data-tab-item='"+tabId+"']");
+    var tabs = jQuery(".tab-panel").has("[data-tab-group='"+tabGroup+"'][data-tab-item='"+tabId+"']");
+    var allTabItems = tabs.find("[data-tab-group='"+tabGroup+"']");
+    var targetTabItems = tabs.find("[data-tab-group='"+tabGroup+"'][data-tab-item='"+tabId+"']");
 
     // if event is undefined then switchTab was called from restoreTabSelection
     // so it's not a button event and we don't need to safe the selction or
@@ -72,7 +90,7 @@ function restoreTabSelections() {
 function initMermaid( update ) {
     // we are either in update or initialization mode;
     // during initialization, we want to edit the DOM;
-    // during update we only want to execute if something chanegd
+    // during update we only want to execute if something changed
     var decodeHTML = function( html ){
         var txt = document.createElement( 'textarea' );
         txt.innerHTML = html;
@@ -224,10 +242,12 @@ function initCodeClipboard(){
     }
 
     $('code').each(function() {
-        var code = $(this),
-            text = code.text();
+        var code = $(this);
+        var text = code.text();
+        var parent = code.parent();
+        var inPre = parent.prop('tagName') == 'PRE';
 
-        if (text.length > 5) {
+        if (inPre || text.length > 5) {
             var clip = new ClipboardJS('.copy-to-clipboard-button', {
                 text: function(trigger) {
                     var text = $(trigger).prev('code').text();
@@ -254,8 +274,6 @@ function initCodeClipboard(){
                 });
             });
 
-            var parent = code.parent();
-            var inPre = parent.prop('tagName') == 'PRE';
             code.addClass('copy-to-clipboard-code');
             if( inPre ){
                 parent.addClass( 'copy-to-clipboard' );
@@ -273,6 +291,10 @@ function initCodeClipboard(){
 }
 
 function initArrowNav(){
+    if( isPrint ){
+        return;
+    }
+
     // button navigation
     jQuery(function() {
         jQuery('a.nav-prev').click(function(){
@@ -375,6 +397,20 @@ function initMenuScrollbar(){
             psm && psm.update();
         });
     });
+
+    // finally, we want to adjust the contents right padding if there is a scrollbar visible
+    var scrollbarSize = scrollbarWidth();
+    function adjustContentWidth(){
+        var left = parseFloat( getComputedStyle( elc ).getPropertyValue( 'padding-left' ) );
+        var right = left;
+        if( elc.scrollHeight > elc.clientHeight ){
+            // if we have a scrollbar reduce the right margin by the scrollbar width
+            right = Math.max( 0, left - scrollbarSize );
+        }
+        elc.style[ 'padding-right' ] = '' + right + 'px';
+    }
+    window.addEventListener('resize', adjustContentWidth );
+    adjustContentWidth();
 }
 
 function initLightbox(){
@@ -612,6 +648,36 @@ function initSwipeHandler(){
     document.querySelectorAll( '#sidebar *' ).forEach( function(e){ e.addEventListener("touchend", handleEndX); }, false);
 }
 
+function clearHistory() {
+    var visitedItem = baseUriFull + 'visited-url/'
+    for( var item in sessionStorage ){
+        if( item.substring( 0, visitedItem.length ) === visitedItem ){
+            sessionStorage.removeItem( item );
+            var url = item.substring( visitedItem.length );
+            // in case we have `relativeURLs=true` we have to strip the
+            // relative path to root
+            url = url.replace( /\.\.\//g, '/' ).replace( /^\/+\//, '/' );
+            jQuery('[data-nav-id="' + url + '"]').removeClass('visited');
+        }
+    }
+}
+
+function initHistory() {
+    var visitedItem = baseUriFull + 'visited-url/'
+    sessionStorage.setItem(visitedItem+jQuery('body').data('url'), 1);
+
+    // loop through the sessionStorage and see if something should be marked as visited
+    for( var item in sessionStorage ){
+        if( item.substring( 0, visitedItem.length ) === visitedItem && sessionStorage.getItem( item ) == 1 ){
+            var url = item.substring( visitedItem.length );
+            // in case we have `relativeURLs=true` we have to strip the
+            // relative path to root
+            url = url.replace( /\.\.\//g, '/' ).replace( /^\/+\//, '/' );
+            jQuery('[data-nav-id="' + url + '"]').addClass('visited');
+        }
+    }
+}
+
 function scrollToActiveMenu() {
     window.setTimeout(function(){
         var e = document.querySelector( '#sidebar ul.topics li.active a' );
@@ -696,16 +762,7 @@ jQuery(function() {
     initCodeClipboard();
     restoreTabSelections();
     initSwipeHandler();
-
-    jQuery('[data-clear-history-toggle]').on('click', function() {
-        for( var item in sessionStorage ){
-          if( item.substring( 0, baseUriFull.length ) === baseUriFull ){
-            sessionStorage.removeItem( item );
-          }
-        }
-        location.reload();
-        return false;
-    });
+    initHistory();
 
     var ajax;
     jQuery('[data-search-input]').on('input', function() {
@@ -762,20 +819,6 @@ jQuery(function() {
 
     $('#topbar a:not(:has(img)):not(.btn)').addClass('highlight');
     $('#body-inner a:not(:has(img)):not(.btn):not(a[rel="footnote"])').addClass('highlight');
-
-    var visitedItem = baseUriFull + 'visited-url/'
-    sessionStorage.setItem(visitedItem+jQuery('body').data('url'), 1);
-
-    // loop through the sessionStorage and see if something should be marked as visited
-    for( var item in sessionStorage ){
-        if( item.substring( 0, visitedItem.length ) === visitedItem && sessionStorage.getItem( item ) == 1 ){
-            var url = item.substring( visitedItem.length );
-            // in case we have `relativeURLs=true` we have to strip the
-            // relative path to root
-            url = url.replace( /\.\.\//g, '/' ).replace( /^\/+\//, '/' );
-            jQuery('[data-nav-id="' + url + '"]').addClass('visited');
-        }
-    }
 });
 
 jQuery.extend({
