@@ -3,25 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.0.3">
+    <meta name="generator" content="Hugo 0.104.0">
+    <meta name="generator" content="Relearn 5.2.3">
     <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
     <meta name="author" content="Dr. Lutz Gollan">
     <title>Tags :: BITS | IT security training for public authorities</title>
     <link href="../../en/tags/index.xml" rel="alternate" type="application/rss+xml" title="BITS | IT security training for public authorities">
     <link href="../../images/favicon.png" rel="icon" type="image/png">
-    
-    <link href="../../css/fontawesome-all.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
-    <link href="../../css/featherlight.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
-    <link href="../../css/auto-complete.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
-    <noscript>
-      <link href="../../css/fontawesome-all.min.css" rel="stylesheet">
-      <link href="../../css/featherlight.min.css" rel="stylesheet">
-      <link href="../../css/auto-complete.css" rel="stylesheet">
-    </noscript>
+    <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
+    <link href="../../css/fontawesome-all.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fontawesome-all.min.css" rel="stylesheet"></noscript>
+    <link href="../../css/featherlight.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/featherlight.min.css" rel="stylesheet"></noscript>
+    <link href="../../css/auto-complete.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/auto-complete.css" rel="stylesheet"></noscript>
     <link href="../../css/perfect-scrollbar.min.css" rel="stylesheet">
     <link href="../../css/nucleus.css" rel="stylesheet">
-    <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css" rel="stylesheet"></noscript>
     <link href="../../css/theme.css" rel="stylesheet">
     <link href="../../css/theme-bits.css" rel="stylesheet" id="variant-style">
     <link href="../../css/ie.css" rel="stylesheet">
@@ -41,13 +36,13 @@
       window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
       // some further base stuff
       var baseUriFull='https:\/\/bits-training.github.io\/training/';
-      variants.init( [ 'bits' ] );
+      window.variants && variants.init( [ 'bits' ] );
     </script>
     <script src="../../js/jquery.min.js" defer></script>
-	<meta name="date" content="16 Jul 22 22:53 CEST">
+	<meta name="date" content="30 Sep 22 19:01 CEST">
 
   </head>
-  <body class="mobile-support" data-url="../../en/tags/">
+  <body class="mobile-support html" data-url="../../en/tags/">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
       <div id="toc-overlay"></div>
@@ -83,15 +78,14 @@
 
             <footer class="footline">
             </footer>
-          </article>
-        </div>
+          </article>        </div>
       </main>
     </div>
     <aside id="sidebar" class="default-animation showVisitedLinks">
       <div id="header-wrapper" class="default-animation">
         <div id="header" class="default-animation">
 <a id="logo" href="../../en/">
-  <img src="../../images/logo.jpg" alt="BITS Logo" title="BITS Logo">
+  <img src="../../images/logo.jpg" alt="BITS Logo" title="BITS | Behörden-IT-Sicherheitstraining">
 </a>
 
         </div>
@@ -145,13 +139,13 @@
                 <i class="fas fa-paint-brush fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
-                  <select id="select-variant" onchange="variants.changeVariant( this.value );">
+                  <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
                     <option id="bits" value="bits" selected>Bits</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>
               </a>
-              <script>variants.markSelectedVariant();</script>
+              <script>window.variants && variants.markSelectedVariant();</script>
             </li>
             <li class="footerVisitedLinks showVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Clear History</a></li>
           </ul>
