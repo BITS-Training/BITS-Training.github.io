@@ -36,10 +36,10 @@
       window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
       // some further base stuff
       var baseUriFull='https:\/\/bits-training.github.io\/training/';
-      window.variants && variants.init( [ 'bits' ] );
+      window.variants && variants.init( [ 'bits', 'bits-dark', 'bits-highcontrast' ] );
     </script>
     <script src="../js/jquery.min.js" defer></script>
-	<meta name="date" content="30 Sep 22 19:01 CEST">
+	<meta name="date" content="30 Sep 22 21:53 CEST">
 
   </head>
   <body class="mobile-support html" data-url="../tags/">
@@ -202,9 +202,9 @@
             <li><a class="padding" href="../datenschutz/"><i class='fas fa-fw fa-user-shield'></i> Datenschutz</a></li>
           </ul>
         </div>
-        <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVisitedLinks"></div>
-        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVisitedLinks"/>
-        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVisitedLinks">
+        <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"></div>
+        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"/>
+        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch showVisitedLinks">
           <ul>
             <li id="select-language-container" class="footerLangSwitch">
               <a class="padding select-container">
@@ -219,13 +219,15 @@
                 <div class="select-clear"></div>
               </a>
             </li>
-            <li id="select-variant-container" class="footerVariantSwitch">
+            <li id="select-variant-container" class="footerVariantSwitch showVariantSwitch">
               <a class="padding select-container">
                 <i class="fas fa-paint-brush fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
                   <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
                     <option id="bits" value="bits" selected>Bits</option>
+                    <option id="bits-dark" value="bits-dark">Bits Dark</option>
+                    <option id="bits-highcontrast" value="bits-highcontrast">Bits Highcontrast</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>

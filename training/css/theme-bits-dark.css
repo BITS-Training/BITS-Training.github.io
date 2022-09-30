@@ -9,10 +9,10 @@
     --PRIMARY-color: #1C90F3; /* brand primary color */
     --SECONDARY-color: #33a1ff; /* brand secondary color */
 
-    --MAIN-TEXT-color: #323232; /* text color of content and h1 titles */
-    --MAIN-LINK-HOVER-color: #0d4373; /* hoverd link color of content */
-    --MAIN-BG-color: #ffffff; /* background color of content */
-    --MAIN-TITLES-TEXT-color: #5e5e5e; /* text color of h2-h6 titles and transparent box titles */
+    --MAIN-TEXT-color: #d9d9d9; /* text color of content and h1 titles */
+    --MAIN-LINK-HOVER-color: #486ac9; /* hoverd link color of content */
+    --MAIN-BG-color: #222222; /* background color of content */
+    --MAIN-TITLES-TEXT-color: #e9e9e9; /* text color of h2-h6 titles and transparent box titles */
 
     /* adjusted to relearn-light chroma style */
     --CODE-BLOCK-color: #000000; /* fallback text color of block code; should be adjusted to your selected chroma style */
@@ -34,17 +34,18 @@
     --MENU-SEARCH-BORDER-color: #33a1ff; /* border color of search box */
 
     --MENU-SECTIONS-BG-color: #252c31; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
-    --MENU-SECTIONS-ACTIVE-BG-color: rgba( 0, 0, 0, .166 ); /* background color of the active menu section */
+    --MENU-SECTIONS-ACTIVE-BG-color: rgba( 255, 255, 255, .166 ); /* background color of the active menu section */
     --MENU-SECTIONS-LINK-color: #ccc; /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6; /* hoverd link color of menu topics */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #595959; /* text color of the displayed menu topic */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #ffffff; /* text color of the displayed menu topic */
     --MENU-SECTION-HR-color: #20272b; /* separator color of menu footer */
 
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
 
     --BOX-CAPTION-color: rgba( 255, 255, 255, 1 ); /* text color of colored box titles */
-    --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
-    --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
+    --BOX-BG-color: rgba( 255, 255, 255, .3	); /* background color of colored boxes */
+    --BOX-TEXT-color: rgba( 255, 255, 255, 1 ); /* text color of colored box content */
+
 }
 
 /* BITS specific overrites for layout changes */
