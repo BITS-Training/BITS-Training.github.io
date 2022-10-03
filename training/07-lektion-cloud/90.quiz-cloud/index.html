@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.104.0">
-    <meta name="generator" content="Relearn 5.2.3">
+    <meta name="generator" content="Relearn 5.2.4">
     <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
     <meta name="author" content="Dr. Lutz Gollan">
     <title>Quiz - Cloud :: TEST BITS | Behörden-IT-Sicherheitstraining</title>
@@ -17,7 +17,7 @@
     <link href="../../css/nucleus.css" rel="stylesheet">
     <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css" rel="stylesheet"></noscript>
     <link href="../../css/theme.css" rel="stylesheet">
-    <link href="../../css/theme-bits.css" rel="stylesheet" id="variant-style">
+    <link href="../../css/theme-bits-normal.css" rel="stylesheet" id="variant-style">
     <link href="../../css/ie.css" rel="stylesheet">
     <link href="../../css/variant.css" rel="stylesheet">
     <link href="../../css/print.css" rel="stylesheet" media="print">
@@ -35,10 +35,10 @@
       window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
       // some further base stuff
       var baseUriFull='https:\/\/bits-training.github.io\/training/';
-      window.variants && variants.init( [ 'bits', 'bits-dark', 'bits-highcontrast' ] );
+      window.variants && variants.init( [ 'bits-normal', 'bits-dark-mode', 'bits-high-contrast' ] );
     </script>
     <script src="../../js/jquery.min.js" defer></script>
-	<meta name="date" content="30 Sep 22 21:53 CEST">
+	<meta name="date" content="03 Oct 22 11:35 CEST">
 
     <script src=../../quizdown/quizdown.js></script>
     <script src=../../quizdown/extensions/quizdownKatex.js></script>
@@ -62,10 +62,9 @@
               <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+m)'><i class="fas fa-bars fa-fw"></i></a>
             </span>
             <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
-              <meta itemprop="itemListOrder" content="Descending" />
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="3" /><a itemprop="item" href="../../"><span itemprop="name">Start</span></a> > </li>
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="../../07-lektion-cloud/"><span itemprop="name">Cloud</span></a> > </li>
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="../../07-lektion-cloud/90.quiz-cloud/" aria-disabled="true"><span itemprop="name">Quiz - Cloud</span></a></li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../"><span itemprop="name">Start</span></a><meta itemprop="position" content="1"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../07-lektion-cloud/"><span itemprop="name">Cloud</span></a><meta itemprop="position" content="2"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Quiz - Cloud</span><meta itemprop="position" content="3"></li>
             </ol>
           </div>
         </div>
@@ -183,7 +182,7 @@ shuffle_answers: true
       <div id="header-wrapper" class="default-animation">
         <div id="header" class="default-animation">
 <a id="logo" href="../../">
-  <img src="../../images/logo.jpg" alt="BITS Logo" title="BITS | Behörden-IT-Sicherheitstraining">
+  <img src="../../images/logo.jpg" width="220" height="140" alt="BITS Logo" title="BITS | Behörden-IT-Sicherheitstraining">
 </a>
 
         </div>
@@ -205,7 +204,7 @@ shuffle_answers: true
       <div id="content-wrapper" class="highlightable">
         <ul class="topics">
           <li data-nav-id="/einleitung/" title="Einleitung" class="dd-item"><a href="../../einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/" title="E-Mails" class="dd-item"><input type="checkbox" id="section-c086ac896b3ee5509d006b237df7eb0d" class="toggle"/><label for="section-c086ac896b3ee5509d006b237df7eb0d" ></label><a href="../../01-lektion-e-mails/">1. Lektion E-Mails<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/01-lektion-e-mails/" title="E-Mails" class="dd-item"><input type="checkbox" id="section-c086ac896b3ee5509d006b237df7eb0d" class="toggle"><label for="section-c086ac896b3ee5509d006b237df7eb0d" ></label><a href="../../01-lektion-e-mails/">1. Lektion E-Mails<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/01-lektion-e-mails/01.was-sind-emails/" title="Was sind E-Mails?" class="dd-item"><a href="../../01-lektion-e-mails/01.was-sind-emails/">Was sind E-Mails?<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/01-lektion-e-mails/02.uebermittlung-von-e-mails/" title="Übermittlung von E-Mails im Internet" class="dd-item"><a href="../../01-lektion-e-mails/02.uebermittlung-von-e-mails/">Übermittlung von E-Mails im Internet<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/01-lektion-e-mails/03.spam-e-mails/" title="Spam-E-Mails" class="dd-item"><a href="../../01-lektion-e-mails/03.spam-e-mails/">Spam-E-Mails<i class="fas fa-check read-icon"></i></a></li>
@@ -218,7 +217,7 @@ shuffle_answers: true
           <li data-nav-id="/01-lektion-e-mails/10.netiquette/" title="Netiquette" class="dd-item"><a href="../../01-lektion-e-mails/10.netiquette/">Netiquette<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/01-lektion-e-mails/11.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../01-lektion-e-mails/11.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/01-lektion-e-mails/90.quiz-e-mails/" title="Quiz - E-Mails" class="dd-item"><a href="../../01-lektion-e-mails/90.quiz-e-mails/">Quiz - E-Mails<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/02-lektion-viren/" title="Viren" class="dd-item"><input type="checkbox" id="section-d17bb9556d8e63a32c5dce29f729f275" class="toggle"/><label for="section-d17bb9556d8e63a32c5dce29f729f275" ></label><a href="../../02-lektion-viren/">2. Lektion Viren<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/02-lektion-viren/" title="Viren" class="dd-item"><input type="checkbox" id="section-d17bb9556d8e63a32c5dce29f729f275" class="toggle"><label for="section-d17bb9556d8e63a32c5dce29f729f275" ></label><a href="../../02-lektion-viren/">2. Lektion Viren<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/02-lektion-viren/01.was-sind-computerviren/" title="Was sind Computerviren?" class="dd-item"><a href="../../02-lektion-viren/01.was-sind-computerviren/">Was sind Computerviren?<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/02-lektion-viren/02.typen-von-viren/" title="Typen von Viren" class="dd-item"><a href="../../02-lektion-viren/02.typen-von-viren/">Typen von Viren<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/" title="Mögliche Schäden durch Virenbefall" class="dd-item"><a href="../../02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/">Mögliche Schäden durch Virenbefall<i class="fas fa-check read-icon"></i></a></li>
@@ -228,14 +227,14 @@ shuffle_answers: true
           <li data-nav-id="/02-lektion-viren/07.virenbefall-was-tun/" title="Virenbefall - was tun?" class="dd-item"><a href="../../02-lektion-viren/07.virenbefall-was-tun/">Virenbefall - was tun?<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/02-lektion-viren/08.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../02-lektion-viren/08.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/02-lektion-viren/90.quiz-viren/" title="Quiz - Viren" class="dd-item"><a href="../../02-lektion-viren/90.quiz-viren/">Quiz - Viren<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/03-lektion-passwoerter/" title="Passwörter" class="dd-item"><input type="checkbox" id="section-ca409e2b4cb5e26079deffb2f40f407a" class="toggle"/><label for="section-ca409e2b4cb5e26079deffb2f40f407a" ></label><a href="../../03-lektion-passwoerter/">3. Lektion Passwörter<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/03-lektion-passwoerter/" title="Passwörter" class="dd-item"><input type="checkbox" id="section-ca409e2b4cb5e26079deffb2f40f407a" class="toggle"><label for="section-ca409e2b4cb5e26079deffb2f40f407a" ></label><a href="../../03-lektion-passwoerter/">3. Lektion Passwörter<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/03-lektion-passwoerter/01.erklaerung/" title="Erklärung" class="dd-item"><a href="../../03-lektion-passwoerter/01.erklaerung/">Erklärung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/03-lektion-passwoerter/02.gefahren/" title="Gefahren" class="dd-item"><a href="../../03-lektion-passwoerter/02.gefahren/">Gefahren<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/03-lektion-passwoerter/03.der-richtige-umgang/" title="Der richtige Umgang" class="dd-item"><a href="../../03-lektion-passwoerter/03.der-richtige-umgang/">Der richtige Umgang<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/03-lektion-passwoerter/04.werkzeuge-f%C3%BCr-passw%C3%B6rter/" title="Werkzeuge für Passwörter" class="dd-item"><a href="../../03-lektion-passwoerter/04.werkzeuge-f%C3%BCr-passw%C3%B6rter/">Werkzeuge für Passwörter<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/03-lektion-passwoerter/05.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../03-lektion-passwoerter/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/03-lektion-passwoerter/90.quiz-passwoerter/" title="Quiz - Passwörter" class="dd-item"><a href="../../03-lektion-passwoerter/90.quiz-passwoerter/">Quiz - Passwörter<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/04-lektion-internet/" title="Surfen im Internet" class="dd-item"><input type="checkbox" id="section-911c81fe2e5d5f812c0fca36c69f8bdf" class="toggle"/><label for="section-911c81fe2e5d5f812c0fca36c69f8bdf" ></label><a href="../../04-lektion-internet/">4. Lektion Surfen im Internet<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/04-lektion-internet/" title="Surfen im Internet" class="dd-item"><input type="checkbox" id="section-911c81fe2e5d5f812c0fca36c69f8bdf" class="toggle"><label for="section-911c81fe2e5d5f812c0fca36c69f8bdf" ></label><a href="../../04-lektion-internet/">4. Lektion Surfen im Internet<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/04-lektion-internet/01.was-ist-das-internet/" title="Was ist das Internet?" class="dd-item"><a href="../../04-lektion-internet/01.was-ist-das-internet/">Was ist das Internet?<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/04-lektion-internet/02.gefahren-im-internet/" title="Gefahren im Internet" class="dd-item"><a href="../../04-lektion-internet/02.gefahren-im-internet/">Gefahren im Internet<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/" title="Vertrauenswürdigkeit von Webseiten" class="dd-item"><a href="../../04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/">Vertrauenswürdigkeit von Webseiten<i class="fas fa-check read-icon"></i></a></li>
@@ -246,7 +245,7 @@ shuffle_answers: true
           <li data-nav-id="/04-lektion-internet/08.internet-richtlinien/" title="Richtlinien zur Internetnutzung" class="dd-item"><a href="../../04-lektion-internet/08.internet-richtlinien/">Richtlinien zur Internetnutzung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/04-lektion-internet/09.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../04-lektion-internet/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/04-lektion-internet/90.quiz-internet/" title="Quiz - Internet" class="dd-item"><a href="../../04-lektion-internet/90.quiz-internet/">Quiz - Internet<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/" title="Vertrauliche Daten" class="dd-item"><input type="checkbox" id="section-8574f37cb9b73a543c3e0995f6d96b4a" class="toggle"/><label for="section-8574f37cb9b73a543c3e0995f6d96b4a" ></label><a href="../../05-lektion-vertrauliche-daten/">5. Lektion Vertrauliche Daten<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/" title="Vertrauliche Daten" class="dd-item"><input type="checkbox" id="section-8574f37cb9b73a543c3e0995f6d96b4a" class="toggle"><label for="section-8574f37cb9b73a543c3e0995f6d96b4a" ></label><a href="../../05-lektion-vertrauliche-daten/">5. Lektion Vertrauliche Daten<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/05-lektion-vertrauliche-daten/01.vertrauliche-daten/" title="Vertrauliche Daten" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/01.vertrauliche-daten/">Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/" title="Elektronische Datenverarbeitung" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/">Elektronische Datenverarbeitung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/" title="Identifizierung vertraulicher Daten" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/">Identifizierung vertraulicher Daten<i class="fas fa-check read-icon"></i></a></li>
@@ -257,19 +256,19 @@ shuffle_answers: true
           <li data-nav-id="/05-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/" title="Datenschutzbeauftragte" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/08.datenschutzbeauftragte-r/">Datenschutzbeauftragte<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/05-lektion-vertrauliche-daten/09.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/" title="Quiz - Vertrauliche Daten" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/">Quiz - Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/06-lektion-social-media/" title="Social Media" class="dd-item"><input type="checkbox" id="section-165e1ba5c5785dd7976d9834642ffec7" class="toggle"/><label for="section-165e1ba5c5785dd7976d9834642ffec7" ></label><a href="../../06-lektion-social-media/">6. Lektion Social Media<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/06-lektion-social-media/" title="Social Media" class="dd-item"><input type="checkbox" id="section-165e1ba5c5785dd7976d9834642ffec7" class="toggle"><label for="section-165e1ba5c5785dd7976d9834642ffec7" ></label><a href="../../06-lektion-social-media/">6. Lektion Social Media<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/06-lektion-social-media/01.einleitung/" title="Social Media-Dienste" class="dd-item"><a href="../../06-lektion-social-media/01.einleitung/">Social Media-Dienste<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/06-lektion-social-media/02.geschaeftsmodell/" title="Geschäftsmodell" class="dd-item"><a href="../../06-lektion-social-media/02.geschaeftsmodell/">Geschäftsmodell<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/06-lektion-social-media/03.social-media-sicher-nutzen/" title="Social Media sicher nutzen" class="dd-item"><a href="../../06-lektion-social-media/03.social-media-sicher-nutzen/">Social Media sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/06-lektion-social-media/90.quiz-social-media/" title="Quiz - Social Media" class="dd-item"><a href="../../06-lektion-social-media/90.quiz-social-media/">Quiz - Social Media<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/07-lektion-cloud/" title="Cloud" class="dd-item parent"><input type="checkbox" id="section-34918d1cd94a60ac0b2441e8b9ec5827" class="toggle" checked/><label for="section-34918d1cd94a60ac0b2441e8b9ec5827" ></label><a href="../../07-lektion-cloud/">7. Lektion Cloud<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/07-lektion-cloud/" title="Cloud" class="dd-item parent"><input type="checkbox" id="section-34918d1cd94a60ac0b2441e8b9ec5827" class="toggle" checked><label for="section-34918d1cd94a60ac0b2441e8b9ec5827" ></label><a href="../../07-lektion-cloud/">7. Lektion Cloud<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/07-lektion-cloud/01.einleitung/" title="Cloud-Dienste" class="dd-item"><a href="../../07-lektion-cloud/01.einleitung/">Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/07-lektion-cloud/02.ueberblick-cloud-dienste/" title="Überblick Cloud-Dienste" class="dd-item"><a href="../../07-lektion-cloud/02.ueberblick-cloud-dienste/">Überblick Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/07-lektion-cloud/03.vorteile-und-gefahren/" title="Vorteile und Gefahren" class="dd-item"><a href="../../07-lektion-cloud/03.vorteile-und-gefahren/">Vorteile und Gefahren<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/07-lektion-cloud/04.cloud-dienste-sicher-nutzen/" title="Cloud-Dienste sicher nutzen" class="dd-item"><a href="../../07-lektion-cloud/04.cloud-dienste-sicher-nutzen/">Cloud-Dienste sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/07-lektion-cloud/05.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../07-lektion-cloud/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/07-lektion-cloud/90.quiz-cloud/" title="Quiz - Cloud" class="dd-item active"><a href="../../07-lektion-cloud/90.quiz-cloud/">Quiz - Cloud<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/" title="Mobile Geräte" class="dd-item"><input type="checkbox" id="section-6e49a72e993d6de5173dd8cf540c0e8f" class="toggle"/><label for="section-6e49a72e993d6de5173dd8cf540c0e8f" ></label><a href="../../08-lektion-mobile-geraete/">8. Lektion Mobile Geräte<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/08-lektion-mobile-geraete/" title="Mobile Geräte" class="dd-item"><input type="checkbox" id="section-6e49a72e993d6de5173dd8cf540c0e8f" class="toggle"><label for="section-6e49a72e993d6de5173dd8cf540c0e8f" ></label><a href="../../08-lektion-mobile-geraete/">8. Lektion Mobile Geräte<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/08-lektion-mobile-geraete/01.einleitung/" title="Einleitung" class="dd-item"><a href="../../08-lektion-mobile-geraete/01.einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/08-lektion-mobile-geraete/02.besondere-gefahren/" title="Besondere Gefahren" class="dd-item"><a href="../../08-lektion-mobile-geraete/02.besondere-gefahren/">Besondere Gefahren<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/" title="Heutige Kommunikationstechnologien" class="dd-item"><a href="../../08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/">Heutige Kommunikationstechnologien<i class="fas fa-check read-icon"></i></a></li>
@@ -280,7 +279,7 @@ shuffle_answers: true
           <li data-nav-id="/08-lektion-mobile-geraete/08.mobile-datentraeger/" title="Mobile Datenträger" class="dd-item"><a href="../../08-lektion-mobile-geraete/08.mobile-datentraeger/">Mobile Datenträger<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/08-lektion-mobile-geraete/09.zusammenfassung/" title="Zusammenfassung" class="dd-item"><a href="../../08-lektion-mobile-geraete/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/08-lektion-mobile-geraete/90.quiz-mobile-geraete/" title="Quiz - Mobile Geräte" class="dd-item"><a href="../../08-lektion-mobile-geraete/90.quiz-mobile-geraete/">Quiz - Mobile Geräte<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/" title="Mein Arbeitsplatz" class="dd-item"><input type="checkbox" id="section-6db172a1665b7651aa25232915030c8a" class="toggle"/><label for="section-6db172a1665b7651aa25232915030c8a" ></label><a href="../../09-lektion-mein-arbeitsplatz/">9. Lektion Mein Arbeitsplatz<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/" title="Mein Arbeitsplatz" class="dd-item"><input type="checkbox" id="section-6db172a1665b7651aa25232915030c8a" class="toggle"><label for="section-6db172a1665b7651aa25232915030c8a" ></label><a href="../../09-lektion-mein-arbeitsplatz/">9. Lektion Mein Arbeitsplatz<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/" title="Sicherer Arbeitsplatz" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/">Sicherer Arbeitsplatz<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/" title="Passwörter nicht weitergeben" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/">Passwörter nicht weitergeben<i class="fas fa-check read-icon"></i></a></li>
           <li data-nav-id="/09-lektion-mein-arbeitsplatz/03.zugang-sichern/" title="Zugang sichern" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/03.zugang-sichern/">Zugang sichern<i class="fas fa-check read-icon"></i></a></li>
@@ -301,11 +300,11 @@ shuffle_answers: true
           </ul>
         </div>
         <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"></div>
-        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"/>
+        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks">
         <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch showVisitedLinks">
           <ul>
             <li id="select-language-container" class="footerLangSwitch">
-              <a class="padding select-container">
+              <div class="padding select-container">
                 <i class="fas fa-language fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
@@ -314,21 +313,21 @@ shuffle_answers: true
                   </select>
                 </div>
                 <div class="select-clear"></div>
-              </a>
+              </div>
             </li>
             <li id="select-variant-container" class="footerVariantSwitch showVariantSwitch">
-              <a class="padding select-container">
+              <div class="padding select-container">
                 <i class="fas fa-paint-brush fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
                   <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
-                    <option id="bits" value="bits" selected>Bits</option>
-                    <option id="bits-dark" value="bits-dark">Bits Dark</option>
-                    <option id="bits-highcontrast" value="bits-highcontrast">Bits Highcontrast</option>
+                    <option id="bits-normal" value="bits-normal" selected>Bits Normal</option>
+                    <option id="bits-dark-mode" value="bits-dark-mode">Bits Dark Mode</option>
+                    <option id="bits-high-contrast" value="bits-high-contrast">Bits High Contrast</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>
-              </a>
+              </div>
               <script>window.variants && variants.markSelectedVariant();</script>
             </li>
             <li class="footerVisitedLinks showVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Verlauf löschen</a></li>
