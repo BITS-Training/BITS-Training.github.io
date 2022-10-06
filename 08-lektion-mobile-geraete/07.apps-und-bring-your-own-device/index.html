@@ -17,7 +17,7 @@
     <link href="../../css/nucleus.css" rel="stylesheet">
     <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css" rel="stylesheet"></noscript>
     <link href="../../css/theme.css" rel="stylesheet">
-    <link href="../../css/theme-bits-normal.css" rel="stylesheet" id="variant-style">
+    <link href="../../css/theme-normal.css" rel="stylesheet" id="variant-style">
     <link href="../../css/ie.css" rel="stylesheet">
     <link href="../../css/variant.css" rel="stylesheet">
     <link href="../../css/print.css" rel="stylesheet" media="print">
@@ -35,10 +35,10 @@
       window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
       // some further base stuff
       var baseUriFull='https:\/\/bits-training.github.io\/training/';
-      window.variants && variants.init( [ 'bits-normal', 'bits-dark-mode', 'bits-high-contrast' ] );
+      window.variants && variants.init( [ 'normal', 'dark-mode', 'high-contrast' ] );
     </script>
     <script src="../../js/jquery.min.js" defer></script>
-	<meta name="date" content="04 Oct 22 13:54 CEST">
+	<meta name="date" content="06 Oct 22 09:44 CEST">
 
   </head>
   <body class="mobile-support default" data-url="../../08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/">
@@ -244,9 +244,9 @@
                 <span>&nbsp;</span>
                 <div class="select-style">
                   <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
-                    <option id="bits-normal" value="bits-normal" selected>Bits Normal</option>
-                    <option id="bits-dark-mode" value="bits-dark-mode">Bits Dark Mode</option>
-                    <option id="bits-high-contrast" value="bits-high-contrast">Bits High Contrast</option>
+                    <option id="normal" value="normal" selected>Normal</option>
+                    <option id="dark-mode" value="dark-mode">Dark Mode</option>
+                    <option id="high-contrast" value="high-contrast">High Contrast</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>
