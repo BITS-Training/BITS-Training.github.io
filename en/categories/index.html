@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.2.4">
+    <meta name="generator" content="Hugo 0.104.3">
+    <meta name="generator" content="Relearn 5.3.0">
     <meta name="description" content="BITS, the free IT security training for public authorities, was created by the Information Technology Working Group of the Association of Towns and Municipalities in North Rhine-Westphalia as a web-based learning course for employees in public authorities and other institutions. It serves to inform and sensitize colleagues at IT workstations with regard to relevant security topics.">
     <meta name="author" content="Dr. Lutz Gollan">
     <title>Categories :: TEST BITS | IT security training for public authorities</title>
@@ -39,7 +39,7 @@
       window.variants && variants.init( [ 'normal', 'dark-mode', 'high-contrast' ] );
     </script>
     <script src="../../js/jquery.min.js" defer></script>
-	<meta name="date" content="06 Oct 22 09:44 CEST">
+	<meta name="date" content="08 Oct 22 22:06 CEST">
 
   </head>
   <body class="mobile-support html" data-url="../../en/categories/">
@@ -88,7 +88,8 @@
 
         </div>
         <div class="searchbox default-animation">
-          <label for="search-by"><i class="fas fa-search"></i></label>
+          <label class="a11y-only" for="search-by">Search</label>
+          <i class="fas fa-search"></i>
           <input data-search-input id="search-by" type="search" placeholder="Search...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
@@ -124,9 +125,10 @@
                 <i class="fas fa-language fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
+                  <label class="a11y-only" for="select-language">Language</label>
                   <select id="select-language" onchange="location = baseUri + this.value;">
-                    <option id="de" value="/categories/">Deutsch</option>
-                    <option id="en" value="/en/categories/" selected>English</option>
+                    <option lang="de" id="de" value="/categories/">Deutsch</option>
+                    <option lang="en" id="en" value="/en/categories/" selected>English</option>
                   </select>
                 </div>
                 <div class="select-clear"></div>
@@ -137,6 +139,7 @@
                 <i class="fas fa-paint-brush fa-fw"></i>
                 <span>&nbsp;</span>
                 <div class="select-style">
+                  <label class="a11y-only" for="select-variant">Theme</label>
                   <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
                     <option id="normal" value="normal" selected>Normal</option>
                     <option id="dark-mode" value="dark-mode">Dark Mode</option>
