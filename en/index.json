@@ -3,6 +3,13 @@
     "content": "",
     "description": "",
     "tags": null,
+    "title": "BITS | IT security training for public authorities",
+    "uri": "/en/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
     "title": "Categories",
     "uri": "/en/categories/"
   },
@@ -12,12 +19,5 @@
     "tags": null,
     "title": "Tags",
     "uri": "/en/tags/"
-  },
-  {
-    "content": "",
-    "description": "",
-    "tags": null,
-    "title": "TEST BITS | IT security training for public authorities",
-    "uri": "/en/"
   }
 ]
