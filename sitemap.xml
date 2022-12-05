@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>/de/sitemap.xml</loc>
-    
-      <lastmod>2021-04-18T14:18:09+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bits-training.de/lizenz/</loc>
+  </url><url>
+    <loc>https://bits-training.de/impressum/</loc>
+  </url><url>
+    <loc>https://bits-training.de/datenschutz/</loc>
+  </url><url>
+    <loc>https://bits-training.de/</loc>
+  </url><url>
+    <loc>https://bits-training.de/categories/</loc>
+  </url><url>
+    <loc>https://bits-training.de/tags/</loc>
+  </url>
+</urlset>

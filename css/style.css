@@ -1,0 +1,392 @@
+:root {
+    --container-bg-color: #333;
+    --left-bg-color: rgba(45, 175, 45, 0.7);
+    --left-button-hover-color: rgba(0, 114, 255, 0.3);
+    --right-bg-color: rgba(43, 43, 43, 0.8);
+    --right-button-hover-color: rgba(92, 92, 92, 0.3);
+    --hover-width: 60%;
+    --other-width: 40%;
+    --speed: 1000ms;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* split landing styles */
+@font-face {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/WorkSans-Medium.woff2") format("woff2"), url("../fonts/WorkSans-Medium.woff") format("woff");
+}
+
+html, body {
+    padding:0;
+    margin:0;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	font-weight: 500;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.centerH1 {
+    color: #fff;
+    font-size: 3rem;
+    z-index: 90;
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.centerLogo {
+    z-index: 89;
+    position: relative;
+    display:block;
+    top: 60px;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logoHolder {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 20px;
+    height:auto;
+}
+
+.h-box {
+	width: 515px;
+    position: absolute;
+	left: 50%;
+	top: 35%;
+    transform: translateX(-50%);
+	text-align: center;
+}
+
+.h1 {
+    font-size: 4rem;
+    color: #fff;
+	white-space: nowrap;
+	margin: 0 10px;
+}
+
+.h2 {
+    font-size: 2rem;
+    color: #fff;
+    white-space: nowrap;
+    padding-top: 1rem;
+	margin: 0;	
+}
+
+.button {
+    display: block;
+    left: 50%;
+    height: 2.5rem;
+    padding-top: 1.3rem;
+    width: 15rem;
+    color: #fff;
+    border: #fff solid 0.2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+	margin: 70px auto;
+}
+
+.split.left .button:hover {
+    background-color: var(--left-button-hover-color);
+    border-color: var(--left-button-hover-color);
+}
+
+.split.right .button:hover {
+    background-color: var(--right-button-hover-color);
+    border-color: var(--right-button-hover-color);
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: var(--container-bg-color);
+}
+
+.split {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.split.left {
+    left:0;
+}
+
+.split.left:before {
+    position:absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: var(--left-bg-color);
+}
+
+.split.right {
+    right:0;
+}
+
+.split.right:before {
+    position:absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: var(--right-bg-color);
+}
+
+.split.left, .split.right, .split.right:before, .split.left:before {
+    transition: var(--speed) all ease-in-out;
+}
+
+.hover-left .left {
+    width: var(--hover-width);
+}
+
+.hover-left .right {
+    width: var(--other-width);
+}
+
+.hover-left .right:before {
+    z-index: 2;
+}
+
+
+.hover-right .right {
+    width: var(--hover-width);
+}
+
+.hover-right .left {
+    width: var(--other-width);
+}
+
+.hover-right .left:before {
+    z-index: 2;
+}
+
+.imprint {
+	color: #fff;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	text-align: right;
+	font-size: 0.8rem;
+	z-index: 50;
+}
+
+.imprint ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.imprint li {
+  float: left;
+}
+
+.imprint li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.imprint li a:hover {
+  background-color: #111111;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;	
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #fff;
+}
+
+.imptext {
+	color: #fff;
+    background: var(--right-bg-color);
+	overflow: auto;
+	min-height: 100%;
+	font-family: "Arial", sans-serif;
+	line-height: 110%;
+}
+
+.imptext .imprint {
+	line-height: 1;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	right: 25px;
+}
+
+.impcontainer {
+	position:relative;
+	max-width: 800px;
+	max-height: 100%;
+	margin: 0 auto;
+}
+
+.impcontent {
+	padding: 10px;
+}
+
+.impcontainer h1 {
+	font-size: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.impcontent h1 {
+	font-size: 1.8rem;
+	margin-bottom: 1.8rem;
+}
+
+.impcontent h2 {
+	font-size: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+.impcontent h3 {
+	font-size: 1.3rem;
+	margin-bottom: 1.3rem;
+}
+.impcontent h4 {
+	font-size: 1.1rem;
+	margin-bottom: 1.1rem;
+}
+
+.impcontent p {
+	margin-bottom: 1rem;
+}
+
+.impcontent a {
+	text-decoration: underline;
+}
+
+.impcontent ul {
+	list-style-type: circle;
+	margin-bottom: 1rem;
+}
+
+.impcontent ul li {
+	margin-left: 50px;
+}
+
+@media(max-width: 920px), (max-height:620px) {
+    .centerH1 {
+        font-size: 1.5rem;
+    }
+
+    .centerLogo {
+		top: 30px;
+        max-width: 100px;
+    }
+
+	.h-box {
+		width: 205px;
+		top: 25%;
+	}
+	
+    .h1 {
+        font-size: 2rem;
+        white-space: normal;
+	}
+
+    .h2 {
+        font-size: 1rem;
+        white-space: normal;
+        padding-top: 1.5rem;
+    }
+
+    .button {
+		height: 2rem;
+        width: 10rem;
+		font-size: 0.8rem;
+    }
+
+}
+
+@media(max-width: 458px) {
+	.centerLogo {
+		top: 50px;
+	}
+
+    .button {
+		height: 1.8rem;
+        width: 8rem;
+		font-size: 0.8rem;
+    }
+
+}
+	
+@media(max-height: 825px) {
+    .button {
+        top: 70%;
+		margin: 20px auto;
+    }
+}
