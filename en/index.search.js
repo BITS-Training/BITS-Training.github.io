@@ -1,6 +1,6 @@
 var relearn_search_index = [
   {
-    "breadcrumb": "TEST BITS | IT security training for public authorities",
+    "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": null,
@@ -8,7 +8,7 @@ var relearn_search_index = [
     "uri": "/en/categories/"
   },
   {
-    "breadcrumb": "TEST BITS | IT security training for public authorities",
+    "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": null,
