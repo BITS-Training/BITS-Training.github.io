@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infos / Ansprechpersonen on BITS | Behörden-IT-Sicherheitstraining</title>
-    <link>/ansprechpersonen/</link>
-    <description>Recent content in Infos / Ansprechpersonen on BITS | Behörden-IT-Sicherheitstraining</description>
+    <title>Infos / Ansprechpersonen on TEST BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>https://bits-training.github.io/training/ansprechpersonen/</link>
+    <description>Recent content in Infos / Ansprechpersonen on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sat, 06 Mar 2021 09:14:35 +0000</lastBuildDate>
-    <atom:link href="/ansprechpersonen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bits-training.github.io/training/ansprechpersonen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

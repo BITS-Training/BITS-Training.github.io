@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/mehr/weitere-informationen/</loc>
+    <loc>https://bits-training.github.io/training/mehr/weitere-informationen/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>/mehr/herausgeber-und-lizenz/</loc>
+    <loc>https://bits-training.github.io/training/mehr/herausgeber-und-lizenz/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>/mehr/barrierefreiheit/</loc>
+    <loc>https://bits-training.github.io/training/mehr/barrierefreiheit/</loc>
     <lastmod>2021-03-12T11:14:35+00:00</lastmod>
   </url>
   <url>
-    <loc>/mehr/impressum/</loc>
+    <loc>https://bits-training.github.io/training/mehr/impressum/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>/mehr/datenschutz/</loc>
+    <loc>https://bits-training.github.io/training/mehr/datenschutz/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>/categories/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="/categories/" />
-    <xhtml:link rel="alternate" hreflang="de" href="/categories/" />
-    <xhtml:link rel="alternate" hreflang="en" href="/en/categories/" />
+    <loc>https://bits-training.github.io/training/categories/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bits-training.github.io/training/categories/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bits-training.github.io/training/categories/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bits-training.github.io/training/en/categories/" />
   </url>
   <url>
-    <loc>/tags/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="/tags/" />
-    <xhtml:link rel="alternate" hreflang="de" href="/tags/" />
-    <xhtml:link rel="alternate" hreflang="en" href="/en/tags/" />
+    <loc>https://bits-training.github.io/training/tags/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bits-training.github.io/training/tags/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://bits-training.github.io/training/tags/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bits-training.github.io/training/en/tags/" />
   </url>
 </urlset>

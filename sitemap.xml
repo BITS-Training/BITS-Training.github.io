@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/de/sitemap.xml</loc>
+    <loc>https://bits-training.github.io/training/de/sitemap.xml</loc>
     
       <lastmod>2021-04-18T14:18:09+02:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>/en/sitemap.xml</loc>
+    <loc>https://bits-training.github.io/training/en/sitemap.xml</loc>
     
   </sitemap>
   
