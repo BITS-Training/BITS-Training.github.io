@@ -75,9 +75,16 @@
   <url>
     <loc>https://bits-training.github.io/training/</loc>
     <lastmod>2021-03-06T09:11:59+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bits-training.github.io/training/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://bits-training.github.io/training/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bits-training.github.io/training/en/" />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bits-training.github.io/training/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://bits-training.github.io/training/"
+                />
   </url>
   <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/01.was-sind-emails/</loc>
@@ -124,7 +131,7 @@
     <lastmod>2021-03-06T09:10:40+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/weitere-informationen/</loc>
+    <loc>https://bits-training.github.io/training/weitere-informationen/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
@@ -160,7 +167,7 @@
     <lastmod>2021-03-06T09:10:56+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/herausgeber-und-lizenz/</loc>
+    <loc>https://bits-training.github.io/training/herausgeber-und-lizenz/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
@@ -168,7 +175,7 @@
     <lastmod>2021-04-18T14:13:26+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/barrierefreiheit/</loc>
+    <loc>https://bits-training.github.io/training/barrierefreiheit/</loc>
     <lastmod>2021-03-12T11:14:35+00:00</lastmod>
   </url>
   <url>
@@ -227,7 +234,7 @@
     <lastmod>2021-03-06T09:19:53+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/impressum/</loc>
+    <loc>https://bits-training.github.io/training/impressum/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
@@ -255,7 +262,7 @@
     <lastmod>2021-03-06T09:23:56+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/datenschutz/</loc>
+    <loc>https://bits-training.github.io/training/datenschutz/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
@@ -362,14 +369,28 @@
   </url>
   <url>
     <loc>https://bits-training.github.io/training/categories/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bits-training.github.io/training/categories/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://bits-training.github.io/training/categories/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bits-training.github.io/training/en/categories/" />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bits-training.github.io/training/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://bits-training.github.io/training/categories/"
+                />
   </url>
   <url>
     <loc>https://bits-training.github.io/training/tags/</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bits-training.github.io/training/tags/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://bits-training.github.io/training/tags/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://bits-training.github.io/training/en/tags/" />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bits-training.github.io/training/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://bits-training.github.io/training/tags/"
+                />
   </url>
 </urlset>

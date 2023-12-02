@@ -5,7 +5,6 @@
     <link>https://bits-training.github.io/training/categories/</link>
     <description>Recent content in Categories on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <atom:link href="https://bits-training.github.io/training/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="https://bits-training.github.io/training/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

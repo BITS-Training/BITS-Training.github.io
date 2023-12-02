@@ -1,44 +1,31 @@
 <!DOCTYPE html>
-<html lang="de" dir="ltr">
+<html lang="de">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.120.3">
-    <meta name="generator" content="Relearn 5.23.2">
+    <meta name="generator" content="Relearn 5.3.3">
     <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
     <meta name="author" content="Dr. Lutz Gollan">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Messenger-Apps :: TEST BITS | Behörden-IT-Sicherheitstraining">
-    <meta name="twitter:description" content="Malware über Messenger-Apps Viele Behörden und Einrichtungen verwenden Messenger-Dienste wie Slack, MS Teams oder Matrix, um den Beschäftigten eine mobile Anwendung für die schnelle Kommunikation bereit zu stellen. Diese Dienste stellen zunächst eine vertrauliche Umgebung für die interne Kommunikation dar.
-Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach einem erfolgreichen Eindringen in das Netzwerk versuchen diese z.B. Benutzerinformationen zu erbeuten, um unter Ihrem Namen schadhafte Links zu verteilen.">
-    <meta property="og:title" content="Messenger-Apps :: TEST BITS | Behörden-IT-Sicherheitstraining">
-    <meta property="og:description" content="Malware über Messenger-Apps Viele Behörden und Einrichtungen verwenden Messenger-Dienste wie Slack, MS Teams oder Matrix, um den Beschäftigten eine mobile Anwendung für die schnelle Kommunikation bereit zu stellen. Diese Dienste stellen zunächst eine vertrauliche Umgebung für die interne Kommunikation dar.
-Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach einem erfolgreichen Eindringen in das Netzwerk versuchen diese z.B. Benutzerinformationen zu erbeuten, um unter Ihrem Namen schadhafte Links zu verteilen.">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/06.messenger/">
-    <meta property="article:section" content="Mein Arbeitsplatz :: TEST BITS | Behörden-IT-Sicherheitstraining">
-    <meta property="article:published_time" content="2021-03-10T09:24:45+00:00">
-    <meta property="article:modified_time" content="2021-03-10T09:24:45+00:00">
-    <meta property="og:site_name" content="TEST BITS | Behörden-IT-Sicherheitstraining">
     <title>Messenger-Apps :: TEST BITS | Behörden-IT-Sicherheitstraining</title>
     <link href="../../images/favicon.png" rel="icon" type="image/png">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
     <link href="../../css/fontawesome-all.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fontawesome-all.min.css" rel="stylesheet"></noscript>
-    <link href="../../css/nucleus.css" rel="stylesheet">
+    <link href="../../css/featherlight.min.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/featherlight.min.css" rel="stylesheet"></noscript>
     <link href="../../css/auto-complete.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/auto-complete.css" rel="stylesheet"></noscript>
     <link href="../../css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="../../css/nucleus.css" rel="stylesheet">
     <link href="../../css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../css/fonts.css" rel="stylesheet"></noscript>
     <link href="../../css/theme.css" rel="stylesheet">
-    <link href="../../css/theme-normal.css" rel="stylesheet" id="R-variant-style">
+    <link href="../../css/theme-normal.css" rel="stylesheet" id="variant-style">
+    <link href="../../css/ie.css" rel="stylesheet">
     <link href="../../css/variant.css" rel="stylesheet">
     <link href="../../css/print.css" rel="stylesheet" media="print">
-    <link href="../../css/ie.css" rel="stylesheet">
-    <script src="../../js/url.js"></script>
     <script src="../../js/variant.js"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      window.index_js_url="../../index.search.js";
+      var index_url="../../index.json";
       var root_url="../../";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
@@ -46,68 +33,46 @@ Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach ein
       window.T_Copied_to_clipboard = 'In Zwischenablage kopiert!';
       window.T_Copy_link_to_clipboard = 'Link in Zwischenablage kopieren';
       window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
-      window.T_Reset_view = 'Ansicht zurücksetzen';
-      window.T_View_reset = 'Ansicht zurückgesetzt!';
-      window.T_No_results_found = 'Keine Ergebnisse gefunden für \u0022{0}\u0022';
-      window.T_N_results_found = '{1} Ergebnisse gefunden für \u0022{0}\u0022';
       // some further base stuff
       var baseUriFull='https:\/\/bits-training.github.io\/training/';
       window.variants && variants.init( [ 'normal', 'dark-mode', 'high-contrast' ] );
     </script>
-	<meta name="date" content="02 Dec 23 00:17 CET">
+    <script src="../../js/jquery.min.js" defer></script>
+	<meta name="date" content="02 Dec 23 19:18 CET">
 
   </head>
-  <body class="mobile-support html" data-url="../../09-lektion-mein-arbeitsplatz/06.messenger/">
-    <div id="R-body" class="default-animation">
-      <div id="R-body-overlay"></div>
-      <nav id="R-topbar">
-        <div class="topbar-wrapper">
-          <div class="topbar-sidebar-divider"></div>
-          <div class="topbar-area topbar-area-start" data-area="start">
-            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
-              <button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)">
-                <i class="fa-fw fas fa-bars"></i>
-              </button>
-            </div>
+  <body class="mobile-support default" data-url="../../09-lektion-mein-arbeitsplatz/06.messenger/">
+    <div id="body" class="default-animation">
+      <div id="sidebar-overlay"></div>
+      <div id="toc-overlay"></div>
+      <nav id="topbar" class="highlightable">
+        <div>
+          <div class="navigation">
+             <a class="nav nav-next" href="../../09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/" title="Verhalten im Schadensfall (&#129106;)"><i class="fas fa-chevron-right fa-fw"></i></a>
           </div>
-          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
-            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../09-lektion-mein-arbeitsplatz/"><span itemprop="name">Mein Arbeitsplatz</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
-            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Messenger-Apps</span><meta itemprop="position" content="2"></li>
-          </ol>
-          <div class="topbar-area topbar-area-end" data-area="end">
-            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
-              <a class="topbar-control" href="../../09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/" title="Vorsicht bei mobilen Datenträgern (🡐)">
-                <i class="fa-fw fas fa-chevron-left"></i>
-              </a>
-            </div>
-            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
-              <a class="topbar-control" href="../../09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/" title="Verhalten im Schadensfall (🡒)">
-                <i class="fa-fw fas fa-chevron-right"></i>
-              </a>
-            </div>
-            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
-              <button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Mehr">
-                <i class="fa-fw fas fa-ellipsis-v"></i>
-              </button>
-              <div class="topbar-content">
-                <div class="topbar-content-wrapper">
-                  <div class="topbar-area topbar-area-more" data-area="more">
-                  </div>
-                </div>
-              </div>
-            </div>
+          <div class="navigation">
+             <a class="nav nav-prev" href="../../09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/" title="Vorsicht bei mobilen Datenträgern (&#129104;)"><i class="fas fa-chevron-left fa-fw"></i></a>
+          </div>
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
+            </span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../"><span itemprop="name">Start</span></a><meta itemprop="position" content="1"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../09-lektion-mein-arbeitsplatz/"><span itemprop="name">Mein Arbeitsplatz</span></a><meta itemprop="position" content="2"> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Messenger-Apps</span><meta itemprop="position" content="3"></li>
+            </ol>
           </div>
         </div>
       </nav>
-      <div id="R-main-overlay"></div>
-      <main id="R-body-inner" class="highlightable default" tabindex="-1">
+      <main id="body-inner" class="highlightable default" tabindex="-1">
         <div class="flex-block-wrapper">
+          <div id="head-tags">
+          </div>
           <article class="default">
-            <header class="headline">
-            </header>
 
 <div id="site-icon-wrap"><div id="site-icon-pre"></div><div id="site-icon-h1">
-<h1 id="messenger-apps">Messenger-Apps</h1>
+<h1>Messenger-Apps</h1>
 </div><div id="site-icon-post"><div id="site-icon" class="site-icon-page"><i class="fas fa-laptop"></i></div></div></div>
 
 
@@ -116,15 +81,14 @@ Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach ein
 <p>Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach einem erfolgreichen Eindringen in das Netzwerk versuchen diese z.B. Benutzerinformationen zu erbeuten, um unter Ihrem Namen schadhafte Links zu verteilen.</p>
 
 <div class="box notices cstyle note">
-  <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Achtung</div>
-  <div class="box-content">
-
+    <div class="box-label"><i class="fa-fw fas fa-exclamation-circle"></i> Achtung</div>
+    <div class="box-content">
 <ul>
 <li>Links und Dateianhängen auch in internen Foren oder Arbeitsbereichen nicht ungeprüft vertrauen</li>
 <li>Grundsätzlich keine unbekannten oder merkwürdig erscheinenden Links öffnen</li>
 <li>Keine Dokumente und Programme auch von bekannten Absender*innen öffnen, sie Ihnen verdächtig oder überraschend erscheinen</li>
 </ul>
-</div>
+    </div>
 </div>
 
             <footer class="footline">
@@ -133,187 +97,171 @@ Aber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach ein
         </div>
       </main>
     </div>
-    <aside id="R-sidebar" class="default-animation showVisitedLinks">
-      <div id="R-header-topbar" class="default-animation"></div>
-      <div id="R-header-wrapper" class="default-animation">
-        <div id="R-header" class="default-animation">
+    <aside id="sidebar" class="default-animation showVisitedLinks">
+      <div id="header-wrapper" class="default-animation">
+        <div id="header" class="default-animation">
 <a id="logo" href="../../">
   <img src="../../images/logo.jpg" width="220" height="140" alt="BITS Logo" title="BITS | Behörden-IT-Sicherheitstraining">
 </a>
 
         </div>
-        <form action="../../search.html" method="get"><div class="searchbox default-animation">
-          <button class="search-detail" type="submit" title="Suchen (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
-          <label class="a11y-only" for="R-search-by">Suchen</label>
-          <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Suchen...">
-          <button class="search-clear" type="button" data-search-clear="" title="Suche löschen"><i class="fas fa-times" title="Suche löschen"></i></button>
-        </div></form>
+        <div class="searchbox default-animation">
+          <label class="a11y-only" for="search-by">Suchen</label>
+          <i class="fas fa-search"></i>
+          <input data-search-input id="search-by" type="search" placeholder="Suchen...">
+          <span data-search-clear=""><i class="fas fa-times"></i></span>
+        </div>
         <script>
           var contentLangs=['de'];
         </script>
         <script src="../../js/auto-complete.js" defer></script>
-        <script src="../../js/lunr/lunr.min.js" defer></script>
-        <script src="../../js/lunr/lunr.stemmer.support.min.js" defer></script>
-        <script src="../../js/lunr/lunr.multi.min.js" defer></script>
-        <script src="../../js/lunr/lunr.de.min.js" defer></script>
+        <script src="../../js/lunr.min.js" defer></script>
+        <script src="../../js/lunr.stemmer.support.min.js" defer></script>
+        <script src="../../js/lunr.multi.min.js" defer></script>
+        <script src="../../js/lunr.de.min.js" defer></script>
         <script src="../../js/search.js" defer></script>
       </div>
-      <div id="R-homelinks" class="default-animation">
-        <hr class="padding">
-      </div>
-      <div id="R-content-wrapper" class="highlightable">
-        <div id="R-topics">
-          <ul class="enlarge morespace collapsible-menu">
-          <li data-nav-id="/einleitung/" class=""><a class="padding" href="../../einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/" class=""><a class="padding" href="../../01-lektion-e-mails/">1. Lektion E-Mails<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-c086ac896b3ee5509d006b237df7eb0d" class="morespace collapsible-menu">
-          <li data-nav-id="/01-lektion-e-mails/01.was-sind-emails/" class=""><a class="padding" href="../../01-lektion-e-mails/01.was-sind-emails/">Was sind E-Mails?<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/02.uebermittlung-von-e-mails/" class=""><a class="padding" href="../../01-lektion-e-mails/02.uebermittlung-von-e-mails/">Übermittlung von E-Mails im Internet<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/03.spam-e-mails/" class=""><a class="padding" href="../../01-lektion-e-mails/03.spam-e-mails/">Spam-E-Mails<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/04.computerviren/" class=""><a class="padding" href="../../01-lektion-e-mails/04.computerviren/">Computerviren per E-Mail<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/05.phishing-und-pharming/" class=""><a class="padding" href="../../01-lektion-e-mails/05.phishing-und-pharming/">Phishing und Pharming<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/06.fehlgeleitete-informationen/" class=""><a class="padding" href="../../01-lektion-e-mails/06.fehlgeleitete-informationen/">Fehlgeleitete Informationen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/07.erste-hilfe/" class=""><a class="padding" href="../../01-lektion-e-mails/07.erste-hilfe/">Erste Hilfe<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/08.vertrauliche-informationen/" class=""><a class="padding" href="../../01-lektion-e-mails/08.vertrauliche-informationen/">Vertrauliche Informationen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/09.dienstliche-und-private-nutzung/" class=""><a class="padding" href="../../01-lektion-e-mails/09.dienstliche-und-private-nutzung/">Dienstliche und private Nutzung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/10.netiquette/" class=""><a class="padding" href="../../01-lektion-e-mails/10.netiquette/">Netiquette<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/11.zusammenfassung/" class=""><a class="padding" href="../../01-lektion-e-mails/11.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/01-lektion-e-mails/90.quiz-e-mails/" class=""><a class="padding" href="../../01-lektion-e-mails/90.quiz-e-mails/">Quiz - E-Mails<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/02-lektion-viren/" class=""><a class="padding" href="../../02-lektion-viren/">2. Lektion Viren<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-d17bb9556d8e63a32c5dce29f729f275" class="morespace collapsible-menu">
-          <li data-nav-id="/02-lektion-viren/01.was-sind-computerviren/" class=""><a class="padding" href="../../02-lektion-viren/01.was-sind-computerviren/">Was sind Computerviren?<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/02.typen-von-viren/" class=""><a class="padding" href="../../02-lektion-viren/02.typen-von-viren/">Typen von Viren<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/" class=""><a class="padding" href="../../02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/">Mögliche Schäden durch Virenbefall<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/04.infektionswege/" class=""><a class="padding" href="../../02-lektion-viren/04.infektionswege/">Infektionswege<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/05.risiken-und-schaeden/" class=""><a class="padding" href="../../02-lektion-viren/05.risiken-und-schaeden/">Risiken und Schäden<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/06.vorbeugung/" class=""><a class="padding" href="../../02-lektion-viren/06.vorbeugung/">Vorbeugung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/07.virenbefall-was-tun/" class=""><a class="padding" href="../../02-lektion-viren/07.virenbefall-was-tun/">Virenbefall - was tun?<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/08.zusammenfassung/" class=""><a class="padding" href="../../02-lektion-viren/08.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/02-lektion-viren/90.quiz-viren/" class=""><a class="padding" href="../../02-lektion-viren/90.quiz-viren/">Quiz - Viren<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/03-lektion-passwoerter/" class=""><a class="padding" href="../../03-lektion-passwoerter/">3. Lektion Passwörter<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-ca409e2b4cb5e26079deffb2f40f407a" class="morespace collapsible-menu">
-          <li data-nav-id="/03-lektion-passwoerter/01.erklaerung/" class=""><a class="padding" href="../../03-lektion-passwoerter/01.erklaerung/">Erklärung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/03-lektion-passwoerter/02.gefahren/" class=""><a class="padding" href="../../03-lektion-passwoerter/02.gefahren/">Gefahren<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/03-lektion-passwoerter/03.der-richtige-umgang/" class=""><a class="padding" href="../../03-lektion-passwoerter/03.der-richtige-umgang/">Der richtige Umgang<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/03-lektion-passwoerter/04.werkzeuge-fuer-passwoerter/" class=""><a class="padding" href="../../03-lektion-passwoerter/04.werkzeuge-fuer-passwoerter/">Werkzeuge für Passwörter<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/03-lektion-passwoerter/05.zusammenfassung/" class=""><a class="padding" href="../../03-lektion-passwoerter/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/03-lektion-passwoerter/90.quiz-passwoerter/" class=""><a class="padding" href="../../03-lektion-passwoerter/90.quiz-passwoerter/">Quiz - Passwörter<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/04-lektion-internet/" class=""><a class="padding" href="../../04-lektion-internet/">4. Lektion Surfen im Internet<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-911c81fe2e5d5f812c0fca36c69f8bdf" class="morespace collapsible-menu">
-          <li data-nav-id="/04-lektion-internet/01.was-ist-das-internet/" class=""><a class="padding" href="../../04-lektion-internet/01.was-ist-das-internet/">Was ist das Internet?<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/02.gefahren-im-internet/" class=""><a class="padding" href="../../04-lektion-internet/02.gefahren-im-internet/">Gefahren im Internet<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/" class=""><a class="padding" href="../../04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/">Vertrauenswürdigkeit von Webseiten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/04.technische-webinhalte/" class=""><a class="padding" href="../../04-lektion-internet/04.technische-webinhalte/">Technische Webinhalte<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/05.schutz-vor-technischen-webinhalten/" class=""><a class="padding" href="../../04-lektion-internet/05.schutz-vor-technischen-webinhalten/">Schutz vor technischen Webinhalten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/" class=""><a class="padding" href="../../04-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/">Verschlüsselter Zugriff auf Webseiten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/07.blocken-unerwuenschter-seiten/" class=""><a class="padding" href="../../04-lektion-internet/07.blocken-unerwuenschter-seiten/">Blocken unerwünschter Seiten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/08.internet-richtlinien/" class=""><a class="padding" href="../../04-lektion-internet/08.internet-richtlinien/">Richtlinien zur Internetnutzung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/09.zusammenfassung/" class=""><a class="padding" href="../../04-lektion-internet/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/04-lektion-internet/90.quiz-internet/" class=""><a class="padding" href="../../04-lektion-internet/90.quiz-internet/">Quiz - Internet<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/">5. Lektion Vertrauliche Daten<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-8574f37cb9b73a543c3e0995f6d96b4a" class="morespace collapsible-menu">
-          <li data-nav-id="/05-lektion-vertrauliche-daten/01.vertrauliche-daten/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/01.vertrauliche-daten/">Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/">Elektronische Datenverarbeitung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/">Identifizierung vertraulicher Daten<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/04.betriebsgeheimnisse/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/04.betriebsgeheimnisse/">Betriebsgeheimnisse<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/05.interne-informationen/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/05.interne-informationen/">Interne Informationen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/">Entscheidungsrelevante Informationen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/">Persönlich-vertrauliche Informationen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/08.datenschutzbeauftragte/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/08.datenschutzbeauftragte/">Datenschutzbeauftragte<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/09.zusammenfassung/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/" class=""><a class="padding" href="../../05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/">Quiz - Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/06-lektion-social-media/" class=""><a class="padding" href="../../06-lektion-social-media/">6. Lektion Social Media<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-165e1ba5c5785dd7976d9834642ffec7" class="morespace collapsible-menu">
-          <li data-nav-id="/06-lektion-social-media/01.einleitung/" class=""><a class="padding" href="../../06-lektion-social-media/01.einleitung/">Social Media-Dienste<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/06-lektion-social-media/02.geschaeftsmodell/" class=""><a class="padding" href="../../06-lektion-social-media/02.geschaeftsmodell/">Geschäftsmodell<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/06-lektion-social-media/03.social-media-sicher-nutzen/" class=""><a class="padding" href="../../06-lektion-social-media/03.social-media-sicher-nutzen/">Social Media sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/06-lektion-social-media/90.quiz-social-media/" class=""><a class="padding" href="../../06-lektion-social-media/90.quiz-social-media/">Quiz - Social Media<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/07-lektion-cloud/" class=""><a class="padding" href="../../07-lektion-cloud/">7. Lektion Cloud<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-34918d1cd94a60ac0b2441e8b9ec5827" class="morespace collapsible-menu">
-          <li data-nav-id="/07-lektion-cloud/01.einleitung/" class=""><a class="padding" href="../../07-lektion-cloud/01.einleitung/">Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/07-lektion-cloud/02.ueberblick-cloud-dienste/" class=""><a class="padding" href="../../07-lektion-cloud/02.ueberblick-cloud-dienste/">Überblick Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/07-lektion-cloud/03.vorteile-und-gefahren/" class=""><a class="padding" href="../../07-lektion-cloud/03.vorteile-und-gefahren/">Vorteile und Gefahren<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/07-lektion-cloud/04.cloud-dienste-sicher-nutzen/" class=""><a class="padding" href="../../07-lektion-cloud/04.cloud-dienste-sicher-nutzen/">Cloud-Dienste sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/07-lektion-cloud/05.zusammenfassung/" class=""><a class="padding" href="../../07-lektion-cloud/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/07-lektion-cloud/90.quiz-cloud/" class=""><a class="padding" href="../../07-lektion-cloud/90.quiz-cloud/">Quiz - Cloud<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/">8. Lektion Mobile Geräte<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-6e49a72e993d6de5173dd8cf540c0e8f" class="morespace collapsible-menu">
-          <li data-nav-id="/08-lektion-mobile-geraete/01.einleitung/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/01.einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/02.besondere-gefahren/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/02.besondere-gefahren/">Besondere Gefahren<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/">Heutige Kommunikationstechnologien<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/04.wlan-wireless-local-area-network/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/04.wlan-wireless-local-area-network/">WLAN - Wireless Local Area Network<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/05.notebooks/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/05.notebooks/">Notebooks<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/06.mobiltelefone/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/06.mobiltelefone/">Mobiltelefone<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/">Apps und &#34;Bring your own device&#34;<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/08.mobile-datentraeger/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/08.mobile-datentraeger/">Mobile Datenträger<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/09.zusammenfassung/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/08-lektion-mobile-geraete/90.quiz-mobile-geraete/" class=""><a class="padding" href="../../08-lektion-mobile-geraete/90.quiz-mobile-geraete/">Quiz - Mobile Geräte<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/" class="parent "><a class="padding" href="../../09-lektion-mein-arbeitsplatz/">9. Lektion Mein Arbeitsplatz<i class="fas fa-check read-icon"></i></a><ul id="R-subsections-6db172a1665b7651aa25232915030c8a" class="morespace collapsible-menu">
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/">Sicherer Arbeitsplatz<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/">Passwörter nicht weitergeben<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/03.zugang-sichern/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/03.zugang-sichern/">Zugang sichern<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/">Social Engineering-Angriffe abwehren<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/">Vorsicht bei mobilen Datenträgern<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/06.messenger/" class="active"><a class="padding" href="../../09-lektion-mein-arbeitsplatz/06.messenger/">Messenger-Apps<i class="fas fa-check read-icon"></i></a></li>
-          <li data-nav-id="/09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/" class=""><a class="padding" href="../../09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/">Verhalten im Schadensfall<i class="fas fa-check read-icon"></i></a></li></ul></li>
-          <li data-nav-id="/ansprechpersonen/" class=""><a class="padding" href="../../ansprechpersonen/">Infos / Ansprechpersonen<i class="fas fa-check read-icon"></i></a></li>
+      <div id="content-wrapper" class="highlightable">
+        <ul class="topics">
+          <li data-nav-id="/einleitung/" class="dd-item"><a href="../../einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/" class="dd-item"><a href="../../01-lektion-e-mails/">1. Lektion E-Mails<i class="fas fa-check read-icon"></i></a><ul id="subsections-c086ac896b3ee5509d006b237df7eb0d">
+          <li data-nav-id="/01-lektion-e-mails/01.was-sind-emails/" class="dd-item"><a href="../../01-lektion-e-mails/01.was-sind-emails/">Was sind E-Mails?<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/02.uebermittlung-von-e-mails/" class="dd-item"><a href="../../01-lektion-e-mails/02.uebermittlung-von-e-mails/">Übermittlung von E-Mails im Internet<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/03.spam-e-mails/" class="dd-item"><a href="../../01-lektion-e-mails/03.spam-e-mails/">Spam-E-Mails<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/04.computerviren/" class="dd-item"><a href="../../01-lektion-e-mails/04.computerviren/">Computerviren per E-Mail<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/05.phishing-und-pharming/" class="dd-item"><a href="../../01-lektion-e-mails/05.phishing-und-pharming/">Phishing und Pharming<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/06.fehlgeleitete-informationen/" class="dd-item"><a href="../../01-lektion-e-mails/06.fehlgeleitete-informationen/">Fehlgeleitete Informationen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/07.erste-hilfe/" class="dd-item"><a href="../../01-lektion-e-mails/07.erste-hilfe/">Erste Hilfe<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/08.vertrauliche-informationen/" class="dd-item"><a href="../../01-lektion-e-mails/08.vertrauliche-informationen/">Vertrauliche Informationen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/09.dienstliche-und-private-nutzung/" class="dd-item"><a href="../../01-lektion-e-mails/09.dienstliche-und-private-nutzung/">Dienstliche und private Nutzung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/10.netiquette/" class="dd-item"><a href="../../01-lektion-e-mails/10.netiquette/">Netiquette<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/11.zusammenfassung/" class="dd-item"><a href="../../01-lektion-e-mails/11.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/01-lektion-e-mails/90.quiz-e-mails/" class="dd-item"><a href="../../01-lektion-e-mails/90.quiz-e-mails/">Quiz - E-Mails<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/02-lektion-viren/" class="dd-item"><a href="../../02-lektion-viren/">2. Lektion Viren<i class="fas fa-check read-icon"></i></a><ul id="subsections-d17bb9556d8e63a32c5dce29f729f275">
+          <li data-nav-id="/02-lektion-viren/01.was-sind-computerviren/" class="dd-item"><a href="../../02-lektion-viren/01.was-sind-computerviren/">Was sind Computerviren?<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/02.typen-von-viren/" class="dd-item"><a href="../../02-lektion-viren/02.typen-von-viren/">Typen von Viren<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/" class="dd-item"><a href="../../02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/">Mögliche Schäden durch Virenbefall<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/04.infektionswege/" class="dd-item"><a href="../../02-lektion-viren/04.infektionswege/">Infektionswege<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/05.risiken-und-schaeden/" class="dd-item"><a href="../../02-lektion-viren/05.risiken-und-schaeden/">Risiken und Schäden<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/06.vorbeugung/" class="dd-item"><a href="../../02-lektion-viren/06.vorbeugung/">Vorbeugung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/07.virenbefall-was-tun/" class="dd-item"><a href="../../02-lektion-viren/07.virenbefall-was-tun/">Virenbefall - was tun?<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/08.zusammenfassung/" class="dd-item"><a href="../../02-lektion-viren/08.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/02-lektion-viren/90.quiz-viren/" class="dd-item"><a href="../../02-lektion-viren/90.quiz-viren/">Quiz - Viren<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/03-lektion-passwoerter/" class="dd-item"><a href="../../03-lektion-passwoerter/">3. Lektion Passwörter<i class="fas fa-check read-icon"></i></a><ul id="subsections-ca409e2b4cb5e26079deffb2f40f407a">
+          <li data-nav-id="/03-lektion-passwoerter/01.erklaerung/" class="dd-item"><a href="../../03-lektion-passwoerter/01.erklaerung/">Erklärung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/03-lektion-passwoerter/02.gefahren/" class="dd-item"><a href="../../03-lektion-passwoerter/02.gefahren/">Gefahren<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/03-lektion-passwoerter/03.der-richtige-umgang/" class="dd-item"><a href="../../03-lektion-passwoerter/03.der-richtige-umgang/">Der richtige Umgang<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/03-lektion-passwoerter/04.werkzeuge-fuer-passwoerter/" class="dd-item"><a href="../../03-lektion-passwoerter/04.werkzeuge-fuer-passwoerter/">Werkzeuge für Passwörter<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/03-lektion-passwoerter/05.zusammenfassung/" class="dd-item"><a href="../../03-lektion-passwoerter/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/03-lektion-passwoerter/90.quiz-passwoerter/" class="dd-item"><a href="../../03-lektion-passwoerter/90.quiz-passwoerter/">Quiz - Passwörter<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/04-lektion-internet/" class="dd-item"><a href="../../04-lektion-internet/">4. Lektion Surfen im Internet<i class="fas fa-check read-icon"></i></a><ul id="subsections-911c81fe2e5d5f812c0fca36c69f8bdf">
+          <li data-nav-id="/04-lektion-internet/01.was-ist-das-internet/" class="dd-item"><a href="../../04-lektion-internet/01.was-ist-das-internet/">Was ist das Internet?<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/02.gefahren-im-internet/" class="dd-item"><a href="../../04-lektion-internet/02.gefahren-im-internet/">Gefahren im Internet<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/" class="dd-item"><a href="../../04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/">Vertrauenswürdigkeit von Webseiten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/04.technische-webinhalte/" class="dd-item"><a href="../../04-lektion-internet/04.technische-webinhalte/">Technische Webinhalte<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/05.schutz-vor-technischen-webinhalten/" class="dd-item"><a href="../../04-lektion-internet/05.schutz-vor-technischen-webinhalten/">Schutz vor technischen Webinhalten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/" class="dd-item"><a href="../../04-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/">Verschlüsselter Zugriff auf Webseiten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/07.blocken-unerwuenschter-seiten/" class="dd-item"><a href="../../04-lektion-internet/07.blocken-unerwuenschter-seiten/">Blocken unerwünschter Seiten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/08.internet-richtlinien/" class="dd-item"><a href="../../04-lektion-internet/08.internet-richtlinien/">Richtlinien zur Internetnutzung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/09.zusammenfassung/" class="dd-item"><a href="../../04-lektion-internet/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/04-lektion-internet/90.quiz-internet/" class="dd-item"><a href="../../04-lektion-internet/90.quiz-internet/">Quiz - Internet<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/">5. Lektion Vertrauliche Daten<i class="fas fa-check read-icon"></i></a><ul id="subsections-8574f37cb9b73a543c3e0995f6d96b4a">
+          <li data-nav-id="/05-lektion-vertrauliche-daten/01.vertrauliche-daten/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/01.vertrauliche-daten/">Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/">Elektronische Datenverarbeitung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/">Identifizierung vertraulicher Daten<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/04.betriebsgeheimnisse/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/04.betriebsgeheimnisse/">Betriebsgeheimnisse<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/05.interne-informationen/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/05.interne-informationen/">Interne Informationen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/">Entscheidungsrelevante Informationen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/">Persönlich-vertrauliche Informationen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/08.datenschutzbeauftragte/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/08.datenschutzbeauftragte/">Datenschutzbeauftragte<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/09.zusammenfassung/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/" class="dd-item"><a href="../../05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/">Quiz - Vertrauliche Daten<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/06-lektion-social-media/" class="dd-item"><a href="../../06-lektion-social-media/">6. Lektion Social Media<i class="fas fa-check read-icon"></i></a><ul id="subsections-165e1ba5c5785dd7976d9834642ffec7">
+          <li data-nav-id="/06-lektion-social-media/01.einleitung/" class="dd-item"><a href="../../06-lektion-social-media/01.einleitung/">Social Media-Dienste<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/06-lektion-social-media/02.geschaeftsmodell/" class="dd-item"><a href="../../06-lektion-social-media/02.geschaeftsmodell/">Geschäftsmodell<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/06-lektion-social-media/03.social-media-sicher-nutzen/" class="dd-item"><a href="../../06-lektion-social-media/03.social-media-sicher-nutzen/">Social Media sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/06-lektion-social-media/90.quiz-social-media/" class="dd-item"><a href="../../06-lektion-social-media/90.quiz-social-media/">Quiz - Social Media<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/07-lektion-cloud/" class="dd-item"><a href="../../07-lektion-cloud/">7. Lektion Cloud<i class="fas fa-check read-icon"></i></a><ul id="subsections-34918d1cd94a60ac0b2441e8b9ec5827">
+          <li data-nav-id="/07-lektion-cloud/01.einleitung/" class="dd-item"><a href="../../07-lektion-cloud/01.einleitung/">Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/07-lektion-cloud/02.ueberblick-cloud-dienste/" class="dd-item"><a href="../../07-lektion-cloud/02.ueberblick-cloud-dienste/">Überblick Cloud-Dienste<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/07-lektion-cloud/03.vorteile-und-gefahren/" class="dd-item"><a href="../../07-lektion-cloud/03.vorteile-und-gefahren/">Vorteile und Gefahren<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/07-lektion-cloud/04.cloud-dienste-sicher-nutzen/" class="dd-item"><a href="../../07-lektion-cloud/04.cloud-dienste-sicher-nutzen/">Cloud-Dienste sicher nutzen<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/07-lektion-cloud/05.zusammenfassung/" class="dd-item"><a href="../../07-lektion-cloud/05.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/07-lektion-cloud/90.quiz-cloud/" class="dd-item"><a href="../../07-lektion-cloud/90.quiz-cloud/">Quiz - Cloud<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/" class="dd-item"><a href="../../08-lektion-mobile-geraete/">8. Lektion Mobile Geräte<i class="fas fa-check read-icon"></i></a><ul id="subsections-6e49a72e993d6de5173dd8cf540c0e8f">
+          <li data-nav-id="/08-lektion-mobile-geraete/01.einleitung/" class="dd-item"><a href="../../08-lektion-mobile-geraete/01.einleitung/">Einleitung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/02.besondere-gefahren/" class="dd-item"><a href="../../08-lektion-mobile-geraete/02.besondere-gefahren/">Besondere Gefahren<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/" class="dd-item"><a href="../../08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/">Heutige Kommunikationstechnologien<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/04.wlan-wireless-local-area-network/" class="dd-item"><a href="../../08-lektion-mobile-geraete/04.wlan-wireless-local-area-network/">WLAN - Wireless Local Area Network<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/05.notebooks/" class="dd-item"><a href="../../08-lektion-mobile-geraete/05.notebooks/">Notebooks<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/06.mobiltelefone/" class="dd-item"><a href="../../08-lektion-mobile-geraete/06.mobiltelefone/">Mobiltelefone<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/" class="dd-item"><a href="../../08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/">Apps und &#34;Bring your own device&#34;<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/08.mobile-datentraeger/" class="dd-item"><a href="../../08-lektion-mobile-geraete/08.mobile-datentraeger/">Mobile Datenträger<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/09.zusammenfassung/" class="dd-item"><a href="../../08-lektion-mobile-geraete/09.zusammenfassung/">Zusammenfassung<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/08-lektion-mobile-geraete/90.quiz-mobile-geraete/" class="dd-item"><a href="../../08-lektion-mobile-geraete/90.quiz-mobile-geraete/">Quiz - Mobile Geräte<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/" class="dd-item parent"><a href="../../09-lektion-mein-arbeitsplatz/">9. Lektion Mein Arbeitsplatz<i class="fas fa-check read-icon"></i></a><ul id="subsections-6db172a1665b7651aa25232915030c8a">
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/">Sicherer Arbeitsplatz<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/">Passwörter nicht weitergeben<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/03.zugang-sichern/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/03.zugang-sichern/">Zugang sichern<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/">Social Engineering-Angriffe abwehren<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/">Vorsicht bei mobilen Datenträgern<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/06.messenger/" class="dd-item active"><a href="../../09-lektion-mein-arbeitsplatz/06.messenger/">Messenger-Apps<i class="fas fa-check read-icon"></i></a></li>
+          <li data-nav-id="/09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/" class="dd-item"><a href="../../09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/">Verhalten im Schadensfall<i class="fas fa-check read-icon"></i></a></li></ul></li>
+          <li data-nav-id="/ansprechpersonen/" class="dd-item"><a href="../../ansprechpersonen/">Infos / Ansprechpersonen<i class="fas fa-check read-icon"></i></a></li>
+        </ul>
+        <div id="shortcuts">
+          <div class="nav-title">Mehr</div>
+          <ul>
+            <li><a class="padding" href="../../weitere-informationen/"><i class='fas fa-fw fa-info-circle'></i> Weitere Informationen</a></li>
+            <li><a class="padding" href="../../herausgeber-und-lizenz/"><i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz</a></li>
+            <li><a class="padding" href="../../barrierefreiheit/"><i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit</a></li>
+            <li><a class="padding" href="../../impressum/"><i class='fas fa-fw fa-file-contract'></i> Impressum</a></li>
+            <li><a class="padding" href="../../datenschutz/"><i class='fas fa-fw fa-user-shield'></i> Datenschutz</a></li>
           </ul>
         </div>
-        <div id="R-shortcuts">
-          <div class="nav-title padding">Mehr</div>
-          <ul class="space">
-            <li><a class="padding" href="../../mehr/weitere-informationen/"><i class='fas fa-fw fa-info-circle'></i> Weitere Informationen</a></li>
-            <li><a class="padding" href="../../mehr/herausgeber-und-lizenz/"><i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz</a></li>
-            <li><a class="padding" href="../../mehr/barrierefreiheit/"><i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit</a></li>
-            <li><a class="padding" href="../../mehr/impressum/"><i class='fas fa-fw fa-file-contract'></i> Impressum</a></li>
-            <li><a class="padding" href="../../mehr/datenschutz/"><i class='fas fa-fw fa-user-shield'></i> Datenschutz</a></li>
+        <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"></div>
+        <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks">
+        <div id="prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch showVisitedLinks">
+          <ul>
+            <li id="select-language-container" class="footerLangSwitch">
+              <div class="padding select-container">
+                <i class="fas fa-language fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <label class="a11y-only" for="select-language">Sprache</label>
+                  <select id="select-language" onchange="location = baseUri + this.value;">
+                    <option lang="de" id="de" value="/09-lektion-mein-arbeitsplatz/06.messenger/" selected>Deutsch</option>
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </div>
+            </li>
+            <li id="select-variant-container" class="footerVariantSwitch showVariantSwitch">
+              <div class="padding select-container">
+                <i class="fas fa-paint-brush fa-fw"></i>
+                <span>&nbsp;</span>
+                <div class="select-style">
+                  <label class="a11y-only" for="select-variant">Theme</label>
+                  <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                    <option id="normal" value="normal" selected>Normal</option>
+                    <option id="dark-mode" value="dark-mode">Dark Mode</option>
+                    <option id="high-contrast" value="high-contrast">High Contrast</option>
+                  </select>
+                </div>
+                <div class="select-clear"></div>
+              </div>
+              <script>window.variants && variants.markSelectedVariant();</script>
+            </li>
+            <li class="footerVisitedLinks showVisitedLinks"><a class="padding" onclick="clearHistory();"><i class="fas fa-history fa-fw"></i> Verlauf löschen</a></li>
           </ul>
         </div>
-        <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks"></div>
-        <div id="R-menu-footer">
-          <hr class="padding default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showVariantSwitch showVisitedLinks">
-          <div id="R-prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks showVariantSwitch showVisitedLinks">
-            <ul>
-              <li id="R-select-language-container" class="footerLangSwitch">
-                <div class="padding menu-control">
-                  <i class="fas fa-language fa-fw"></i>
-                  <span>&nbsp;</span>
-                  <div class="control-style">
-                    <label class="a11y-only" for="R-select-language">Sprache</label>
-                    <select id="R-select-language" onchange="location = baseUri + this.value;">
-                      <option id="R-de" value="/09-lektion-mein-arbeitsplatz/06.messenger/" lang="de" selected>Deutsch</option>
-                    </select>
-                  </div>
-                  <div class="clear"></div>
-                </div>
-              </li>
-              <li id="R-select-variant-container" class="footerVariantSwitch showVariantSwitch">
-                <div class="padding menu-control">
-                  <i class="fas fa-paint-brush fa-fw"></i>
-                  <span>&nbsp;</span>
-                  <div class="control-style">
-                    <label class="a11y-only" for="R-select-variant">Theme</label>
-                    <select id="R-select-variant" onchange="window.variants && variants.changeVariant( this.value );">
-                      <option id="R-normal" value="normal" selected>Normal</option>
-                      <option id="R-dark-mode" value="dark-mode">Dark Mode</option>
-                      <option id="R-high-contrast" value="high-contrast">High Contrast</option>
-                    </select>
-                  </div>
-                  <div class="clear"></div>
-                </div>
-                <script>window.variants && variants.markSelectedVariant();</script>
-              </li>
-              <li class="footerVisitedLinks showVisitedLinks">
-                <div class="padding menu-control">
-                  <i class="fas fa-history fa-fw"></i>
-                  <span>&nbsp;</span>
-                  <div class="control-style">
-                    <button onclick="clearHistory();">Verlauf löschen</button>
-                  </div>
-                  <div class="clear"></div>
-                </div>
-              </li>
-            </ul>
-          </div>
-          <div id="R-footer" class="footerFooter">
-          </div>
+        <div id="footer" class="footerFooter">
         </div>
       </div>
     </aside>
     <script src="../../js/clipboard.min.js" defer></script>
     <script src="../../js/perfect-scrollbar.min.js" defer></script>
+    <script src="../../js/featherlight.min.js" defer></script>
     <script src="../../js/theme.js" defer></script>
   </body>
 </html>

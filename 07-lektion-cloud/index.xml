@@ -6,8 +6,7 @@
     <description>Recent content in Cloud on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Mar 2021 09:08:42 +0000</lastBuildDate>
-    <atom:link href="https://bits-training.github.io/training/07-lektion-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Mar 2021 09:08:42 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/07-lektion-cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud-Dienste</title>
       <link>https://bits-training.github.io/training/07-lektion-cloud/01.einleitung/</link>
@@ -22,7 +21,7 @@ Diese Angebote reichen von Speicherplatz für Fotos oder Videos bis hin zur Mög
       <pubDate>Wed, 10 Mar 2021 09:12:20 +0000</pubDate>
       <guid>https://bits-training.github.io/training/07-lektion-cloud/02.ueberblick-cloud-dienste/</guid>
       <description>Zu den typischen Cloud-Diensten zählen u.a.
-Speicher (z.B. für Fotos) Anwendungen (z.B. Bildbearbeitungsprogramme) Rechenleistungen (z.B. Internet-Server für eine eigene Homepage) Bei einigen dieser Dienste ist es den Anbieter*innen gleich, für welchen konkreten Zweck sie genutzt werden - die freie Nutzbarkeit ist dann Teil des Geschäftsmodells.
+Speicher (z.B. für Fotos) und Datenaustausch Anwendungen (z.B. Bildbearbeitungsprogramme) Rechenleistungen (z.B. Internet-Server für eine eigene Homepage) Bei einigen dieser Dienste ist es den Anbieter*innen gleich, für welchen konkreten Zweck sie genutzt werden - die freie Nutzbarkeit ist dann Teil des Geschäftsmodells.
 Cloud-Dienste werden sowohl kostenpflichtig als auch kostenfrei angeboten. Bei den kostenfreien Angeboten teilt man sich die Dienste mit Dritten, bei den kostenpflichtigen werden - je nach Vertrag - die erforderlichen Betriebsmittel exklusiv zur Verfügung gestellt.</description>
     </item>
     <item>

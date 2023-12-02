@@ -6,8 +6,7 @@
     <description>Recent content in Viren on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 06 Mar 2021 09:14:35 +0000</lastBuildDate>
-    <atom:link href="https://bits-training.github.io/training/02-lektion-viren/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:14:35 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/02-lektion-viren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind Computerviren?</title>
       <link>https://bits-training.github.io/training/02-lektion-viren/01.was-sind-computerviren/</link>
@@ -33,7 +32,7 @@ Trojanische Pferde „Trojanische Pferde“ oder „Trojaner“ werden genutzt, 
       <description>Je nach Virus sehen die verursachten Schäden sehr unterschiedlich aus.
 Früher war das Hauptangriffsziel die Störung der Systemfunktionen, z.B. durch:
 Verbrauch von Systemressourcen wie Plattenplatz oder Leitungskapazitäten Verringerung der Systemleistung Verändern oder Löschen von Systemdateien Heute sind die Ziele:
-Versand von Spam-Nachrichten über Ihren Rechner Verschlüsselung und anschließende Erpressung („Ransom-Ware“) Heimliches Ausnutzung der Rechenleistung („Crypto-Jacking“) Einbindung Ihres Rechners in ein Netzwerk für Angriffe auf Dritte (z.B. für „Denial of Service-Angriffe“) Besonders gefährlich werden Viren, wenn sie sich unbemerkt einschleichen und z.</description>
+Versand von Spam-Nachrichten über Ihren Rechner Verschlüsselung und anschließende Erpressung („Ransom-Ware“) Heimliches Ausnutzung der Rechenleistung („Crypto-Jacking“) Einbindung Ihres Rechners in ein Netzwerk für Angriffe auf Dritte (z.B. für „Denial of Service-Angriffe“) Besonders gefährlich werden Viren, wenn sie sich einschleichen und z.</description>
     </item>
     <item>
       <title>Infektionswege</title>
@@ -41,7 +40,7 @@ Versand von Spam-Nachrichten über Ihren Rechner Verschlüsselung und anschließ
       <pubDate>Sat, 06 Mar 2021 09:20:10 +0000</pubDate>
       <guid>https://bits-training.github.io/training/02-lektion-viren/04.infektionswege/</guid>
       <description>Viren erreichen auf verschiedenen Wegen ihr Ziel:
-Der Hauptinfektionsweg ist die E-Mail. Unter Umständen kann schon durch das bloße Lesen einer E-Mail ein Virus aktiv werden (etwa wenn die Auto-Vorschau aktiv ist). Besonders gefährlich ist es, mitgeschickte Dateien (Anhänge) unbedacht zu öffnen. Auch durch das Öffnen von Dateien, die Sie aus dem Internet herunterladen, kann ein Virus aktiv werden. Manchmal reicht sogar das Besuchen einer infizierten Web-Seite. Auch das interne Netz kann Ausgangspunkt von Viren sein.</description>
+Der Hauptinfektionsweg ist die E-Mail. Unter Umständen kann schon durch das bloße Lesen einer E-Mail ein Virus aktiv werden (etwa wenn die Auto-Vorschau aktiv ist). Besonders gefährlich ist es, mitgeschickte Dateien (Anhänge) unbedacht zu öffnen oder Links unbedacht anzuklicken. Auch durch das Öffnen von Dateien, die Sie aus dem Internet herunterladen, kann ein Virus aktiv werden. Manchmal reicht sogar das Besuchen einer infizierten Web-Seite.</description>
     </item>
     <item>
       <title>Risiken und Schäden</title>
@@ -57,10 +56,10 @@ Werden durch einen Virenbefall Daten zerstört, so entstehen Ihrer Behörde oder
       <link>https://bits-training.github.io/training/02-lektion-viren/06.vorbeugung/</link>
       <pubDate>Sat, 06 Mar 2021 09:23:56 +0000</pubDate>
       <guid>https://bits-training.github.io/training/02-lektion-viren/06.vorbeugung/</guid>
-      <description>Wie in der Medizin gilt: „Vorbeugen ist besser als Heilen“ Um Dateien und Systeme vor Viren zu schützen und gegebenenfalls von diesen zu säubern, gibt es speziell dafür Computer-Programme, sogenannte Virenscanner.
+      <description>Wie in der Medizin gilt: „Vorbeugen ist besser als Heilen“ Um Dateien und Systeme vor Viren zu schützen und gegebenenfalls von diesen zu säubern, gibt es dafür spezielle Computer-Programme, sogenannte Virenscanner.
 In den meisten Behörden und Einrichtungen werden alle Server und PCs mit einem Virenscanner ausgestattet, der eingehende E-Mails untersucht. Er darf nie ausgeschaltet werden.
 Auch jeder Privat-PC sollte immer durch einen aktuellen Virenscanner geschützt sein.
-Der Virenscanner muss so außerdem eingestellt sein, dass alle Daten beim Öffnen auf Viren überprüft werden („On Access“).</description>
+Der Virenscanner muss so eingestellt sein, dass alle Daten beim Öffnen auf Viren überprüft werden („On Access“).</description>
     </item>
     <item>
       <title>Virenbefall - was tun?</title>
