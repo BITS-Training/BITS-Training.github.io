@@ -6,7 +6,8 @@
     <description>Recent content in Mein Arbeitsplatz on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate>
+    <atom:link href="https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sicherer Arbeitsplatz</title>
       <link>https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</link>
@@ -14,7 +15,7 @@
       <guid>https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/</guid>
       <description>Der Schutz von Informationen der durch Ihre Behörde oder Einrichtung verarbeiteten Daten ist Aufgabe aller Beschäftigten. Durch falsches Verhalten können nicht nur die Daten in Ihrem Geschäftsbereich, sondern auch die Ihrer Kolleginnen und Kollegen gefährdet werden.
 Bitte sorgen Sie auch für eine sichere Arbeitsumgebung, egal ob im Büro, Home Office oder unterwegs:
-Verhindern Sie, dass Dritte, dazu zählen auch Familienangehörige, Daten und Akten einsehen können Verwenden Sie bestenfalls ein Netzwerkkabel oder aber ein sicheres, verschlüsseltes WLAN (Hinweise hierzu in der Lektion Mobile Geräte Verwenden Sie, falls dienstlich gestellt, das Programm für den Aufbau eines Virtuellen Privaten Netzwerks (VPN) (siehe unten) Bei Video- oder Telefonkonferenzen darf keine unberechtigte Person mithören.</description>
+Verhindern Sie, dass Dritte, dazu zählen auch Familienangehörige, Daten und Akten einsehen können Verwenden Sie bestenfalls ein Netzwerkkabel oder aber ein sicheres, verschlüsseltes WLAN (Hinweise hierzu in der Lektion [Mobile Geräte](/08 lektion mobile geraete) Verwenden Sie, falls dienstlich gestellt, das Programm für den Aufbau eines Virtuellen Privaten Netzwerks (VPN) (siehe unten) Bei Video- oder Telefonkonferenzen darf keine unberechtigte Person mithören.</description>
     </item>
     <item>
       <title>Passwörter nicht weitergeben</title>
