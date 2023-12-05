@@ -5,7 +5,7 @@
     <link>/01-lektion-e-mails/</link>
     <description>Recent content in E-Mails on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
+    <language>de</language>
     <lastBuildDate>Sat, 06 Mar 2021 09:10:07 +0000</lastBuildDate><atom:link href="/01-lektion-e-mails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was sind E-Mails?</title>
@@ -37,7 +37,7 @@ Ca. 60% der heute empfangenen E-Mails sind Spam. In vielen Behörden und Einrich
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/01-lektion-e-mails/04.computerviren/</guid>
       <description>Computerviren stellen eine große Bedrohung für Computer und die dort gespeicherten Daten dar. Computerviren sind kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können. Häufig kommen sie als E-Mail-Anhang auf Ihren Computer.
-Von hier aus verbreiten sie sich weiter, verändern oder spionieren Daten aus oder führen andere zerstörerische Aktionen auf Ihrem Rechner oder in Ihrem Netzwerk durch.
+Von hier aus verbreiten sie sich weiter, verändern, verschlüssseln oder spionieren Daten aus oder führen andere zerstörerische Aktionen auf Ihrem Rechner oder in Ihrem Netzwerk durch.
 Schutz vor Computerviren In einer Behörde oder Einrichtung wird eine E-Mail normalerweise an zwei Stellen auf Viren untersucht („gescannt“): zentral beim Empfang der E-Mail aus dem Internet und zusätzlich auf Ihrem Computer, wenn Sie die E-Mail öffnen.</description>
     </item>
     <item>

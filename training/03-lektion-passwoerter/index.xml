@@ -5,7 +5,7 @@
     <link>/03-lektion-passwoerter/</link>
     <description>Recent content in Passwörter on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
+    <language>de</language>
     <lastBuildDate>Tue, 09 Mar 2021 09:52:01 +0000</lastBuildDate><atom:link href="/03-lektion-passwoerter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erklärung</title>
@@ -22,7 +22,7 @@ Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern,
       <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
       <guid>/03-lektion-passwoerter/02.gefahren/</guid>
       <description>Ausspionieren von Passwörtern Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?
-Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
+Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
     </item>
     <item>
       <title>Der richtige Umgang</title>

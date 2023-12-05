@@ -5,7 +5,7 @@
     <link>/04-lektion-internet/</link>
     <description>Recent content in Surfen im Internet on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
+    <language>de</language>
     <lastBuildDate>Tue, 09 Mar 2021 09:52:10 +0000</lastBuildDate><atom:link href="/04-lektion-internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was ist das Internet?</title>
@@ -39,7 +39,7 @@ Dabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren.</de
       <pubDate>Tue, 09 Mar 2021 10:13:25 +0000</pubDate>
       <guid>/04-lektion-internet/04.technische-webinhalte/</guid>
       <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:
-Cookies sind Textdateien, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden.Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen eingesetzt. Ein Web-Server-Betreiber steuert z.B. über Cookies, welche Werbe- oder Anzeigenseiten Sie zu sehen bekommen.</description>
+Cookies waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen.</description>
     </item>
     <item>
       <title>Schutz vor technischen Webinhalten</title>

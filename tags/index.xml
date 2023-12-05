@@ -5,6 +5,7 @@
     <link>https://bits-training.de/tags/</link>
     <description>Recent content in Tags on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://bits-training.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <atom:link href="https://bits-training.de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

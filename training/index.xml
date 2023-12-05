@@ -5,15 +5,16 @@
     <link>/</link>
     <description>Recent content in Start on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
+    <language>de</language>
     <lastBuildDate>Sat, 06 Mar 2021 09:11:59 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einleitung</title>
       <link>/einleitung/</link>
       <pubDate>Sat, 06 Mar 2021 09:12:20 +0000</pubDate>
       <guid>/einleitung/</guid>
-      <description>Informationen sind wertvoll Ziele von BITS Informationen sind wertvoll. Sie werden immer bedeutender für Behörden und Einrichtungen, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt. Im Zentrum stehen die Schutzziele der Informationssicherheit.
-Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so den Staat und damit die Gesellschaft schädigen.</description>
+      <description>Informationen sind wertvoll Ziele von BITS Informationen sind wertvoll. Sie werden immer bedeutender für Behörden und Einrichtungen, aber auch für Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt.
+Im Zentrum stehen die Schutzziele der Informationssicherheit:
+Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so dem Staat und damit der Gesellschaft Schaden zufügen.</description>
     </item>
     <item>
       <title>E-Mails</title>
@@ -29,7 +30,7 @@ warum ein falscher Umgang mit E-Mails eine Gefahr für Sie und Ihre Behörde ode
       <pubDate>Sat, 06 Mar 2021 09:14:35 +0000</pubDate>
       <guid>/02-lektion-viren/</guid>
       <description>Schutz vor schadhaften Programmen In dieser Lektion lernen Sie,
-was ein Computervirus eigentlich ist und welche Typen von Viren existieren, welche Infektionswege es gibt, welche Risiken bestehen und welche Schäden entstehen können, wie Sie Ihren PC und Ihre Behörde oder Einrichtung vor Viren schützen können, wie Sie einen Virenbefall erkennen und was Sie tun sollten, falls „es“ doch passiert ist </description>
+was ein Computervirus ist und welche Typen von Viren existieren, welche Infektionswege es gibt, welche Risiken bestehen und welche Schäden entstehen können, wie Sie Ihren Computer und Ihre Behörde oder Einrichtung vor Viren schützen können, wie Sie einen Virenbefall erkennen und was Sie tun sollten, falls „es“ doch passiert ist </description>
     </item>
     <item>
       <title>Passwörter</title>
@@ -60,7 +61,7 @@ wie wichtig es für Sie und Ihre Behörde oder Einrichtung ist, dass alle mit ve
       <link>/06-lektion-social-media/</link>
       <pubDate>Tue, 09 Mar 2021 09:52:29 +0000</pubDate>
       <guid>/06-lektion-social-media/</guid>
-      <description>Sicherer Umgang mit Soziale Medien In dieser Lektion lernen Sie,
+      <description>Sicherer Umgang mit Sozialen Medien In dieser Lektion lernen Sie,
 was man unter Social Media versteht, welche Social Media-Dienste es gibt, welche Probleme bei der Nutzung von Social Media entstehen können und wie Sie Social Media sicher nutzen können </description>
     </item>
     <item>
