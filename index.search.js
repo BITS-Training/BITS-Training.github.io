@@ -80,12 +80,20 @@ var relearn_search_index = [
     "uri": "/09-lektion-mein-arbeitsplatz/"
   },
   {
+    "breadcrumb": "",
+    "content": "Künstliche Intelligenz Diese Lektion erläutert,\nwas Künstliche Intelligenz (KI) ist, welche Gefahren von ihr ausgehen, wie Sie sich, Ihre Behörde oder Einrichtung und die von Ihnen verarbeiteten Daten vor diesen Gefahren schützen können. ",
+    "description": "",
+    "tags": null,
+    "title": "KI",
+    "uri": "/10-lektion-kuenstliche-intelligenz/"
+  },
+  {
     "breadcrumb": "Passwörter",
     "content": "Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.\nSie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.\nWo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.\nAuch der Zugang zu einzelnen Programmen wird häufig durch Passwörter geschützt. Zum Beispiel können nur Sie mit Ihrem Anmeldenamen und Ihrem Passwort Ihre E-Mails lesen.\nWie sieht ein sicheres Passwort aus? Der Name Ihres Lebenspartners oder Ihrer Lebenspartnerin, Ihr Autokennzeichen, Ihr Geburtsdatum oder Ihre Telefonnummer stellen keine guten Passwörter dar. Sie könnten leicht erraten oder abgeleitet werden. Auch Fremdwörter oder Wörter einer anderen Sprache sind keine gute Wahl, da diese mit automatisierten Verfahren über Wörterbuch- oder Brute-Force-Angriffe durch Erraten geknackt werden können.\nEin sicheres Passwort ist mindestens acht Zeichen lang und besteht aus einer Kombination von großen und kleinen Buchstaben, Zahlen und Sonderzeichen wie z.B. Ausrufezeichen oder Fragezeichen. Außerdem sollten keine Buchstaben genutzt werden, die auf der Tastatur direkt nebeneinander liegen. Idealerweise sollte das Passwort einmalig sein.\nIn den meisten Behörden und Einrichtungen müssen Passwörter regelmäßig geändert werden, wobei die zuletzt gewählten Passwörter nicht wiederverwendet werden dürfen.\nPasskeys - das Ende von Passwörtern? Über eine Sicherheitstechnologie namens “Passkeys” sollen nach und nach Passwörter ersetzt werden. Bei Passkeys werden auf den Endgeräten der Nutzenden die Authentifizierungsinformationen so hinterlegt, dass sie nur über ein PIN, den Fingerabdruck oder einen Gesichtsscan der Berechtigten und auch nur für eine bestimmte Internetseite oder einen bestimmte Anwendung genutzt werden können. Mittelfristig dürfte dies zumindest bei der Anmeldung im Internet die Nutzung von Passwörtern überflüssig machen.\n",
     "description": "",
     "tags": null,
     "title": "Erklärung",
-    "uri": "/03-lektion-passwoerter/01.erklaerung/"
+    "uri": "/03-lektion-passwoerter/01-erklaerung/"
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
@@ -93,7 +101,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Sicherer Arbeitsplatz",
-    "uri": "/09-lektion-mein-arbeitsplatz/01.sicherer-arbeitsplatz/"
+    "uri": "/09-lektion-mein-arbeitsplatz/01-sicherer-arbeitsplatz/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -101,7 +109,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Einleitung",
-    "uri": "/08-lektion-mobile-geraete/01.einleitung/"
+    "uri": "/08-lektion-mobile-geraete/01-einleitung/"
   },
   {
     "breadcrumb": "Cloud",
@@ -109,7 +117,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Cloud-Dienste",
-    "uri": "/07-lektion-cloud/01.einleitung/"
+    "uri": "/07-lektion-cloud/01-einleitung/"
   },
   {
     "breadcrumb": "Social Media",
@@ -117,7 +125,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Social Media-Dienste",
-    "uri": "/06-lektion-social-media/01.einleitung/"
+    "uri": "/06-lektion-social-media/01-einleitung/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -125,7 +133,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vertrauliche Daten",
-    "uri": "/05-lektion-vertrauliche-daten/01.vertrauliche-daten/"
+    "uri": "/05-lektion-vertrauliche-daten/01-vertrauliche-daten/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -133,7 +141,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Was ist das Internet?",
-    "uri": "/04-lektion-internet/01.was-ist-das-internet/"
+    "uri": "/04-lektion-internet/01-was-ist-das-internet/"
   },
   {
     "breadcrumb": "Viren",
@@ -141,7 +149,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Was sind Computerviren?",
-    "uri": "/02-lektion-viren/01.was-sind-computerviren/"
+    "uri": "/02-lektion-viren/01-was-sind-computerviren/"
   },
   {
     "breadcrumb": "",
@@ -157,7 +165,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Was sind E-Mails?",
-    "uri": "/01-lektion-e-mails/01.was-sind-emails/"
+    "uri": "/01-lektion-e-mails/01-was-sind-emails/"
+  },
+  {
+    "breadcrumb": "KI",
+    "content": "Künstliche Intelligenz, abgekürzt “KI” (oder englisch “AI” für “Artificial Intelligence”), ist die Fähigkeit eines Computers, menschliche Kompetenzen wie logisches Denken, Lernen, Planen und Kreativität nach zu machen (so das Europäische Parlament auf seiner Homepage).\nIm dienstlichen Alltag kann KI in verschiedenen Bereichen und mit unterschiedlichen Funktionen eingesetzt werden. Am bekanntesten sind Programme, die Texte oder Bilder (bis hin zu Filmen) oder Töne (bis hin zu Liedern mit Gesang) künstlich erzeugen. Ein Beispiel für ein solches Progamm ist ChatGPT. Dieses oder ähnliche Programme können in Ihrer Behörde oder Einrichtung verwendet werden, um Texte zu erstellen oder umzuformulieren (z.B. Briefentwürfe, Programmcode) oder bestehende Daten auszuwerten (z.B. Berichte zusammenzufassen), nach außen können sie z.B. Anfragen von Kundinnen und Kunden live beantworten (Chat-Bots).\nAndere KI-Anwendungen werten große Mengen von Daten in kürzester Zeit aus oder machen Entscheidungsvorschläge. Im Gesundheitswesen kann KI z.B. die Diagnostik und Medikamentenforschung beschleunigen, in Wirtschaft und Verwaltung Datenanalysen, Vorhersagen und Prozessoptimierungen liefern, und im Verkehrsbereich und in der Logistik über Echtzeitbeobachtungen die Sicherheit und die Genauigkeit von Transporten verbessern etc.\nAll dem liegt zugrunde, dass Künstliche Intelligenz Unmengen von Daten in hoher Geschwindigkeit auswerten und selbstlernend Erkenntnisse daraus ziehen kann. Je genauer, aktueller und größer die Datenbestände zum “Trainieren” ihrer Fähigkeiten sind, desto besser ist regelmäßig die Qualität der Ergebnisse.\nGut zu wissen Chat-Bots sind nur ein Anwendungsbereich von KI KI greift regelmäßig auf große Datenbestände zurück, um zu lernen ",
+    "description": "",
+    "tags": null,
+    "title": "Was ist KI?",
+    "uri": "/10-lektion-kuenstliche-intelligenz/01-was-ist-ki/"
   },
   {
     "breadcrumb": "Passwörter",
@@ -165,7 +181,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Gefahren",
-    "uri": "/03-lektion-passwoerter/02.gefahren/"
+    "uri": "/03-lektion-passwoerter/02-gefahren/"
   },
   {
     "breadcrumb": "Passwörter",
@@ -173,15 +189,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Der richtige Umgang",
-    "uri": "/03-lektion-passwoerter/03.der-richtige-umgang/"
+    "uri": "/03-lektion-passwoerter/03-der-richtige-umgang/"
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
-    "content": "Ihnen anvertraute oder von Ihnen erzeugte Passwörter dürfen Sie keinesfalls weitergeben. Es ist auch verboten, sie auf Zettel aufzuschreiben und in Schubladen, unter Schreibtischunterlagen o.ä. – also letztlich für Dritte zugänglich – aufzubewahren!\nPasswörter sind personengebunden. Das heißt: Alle berechtigten Personen können über die zuständige Organisationseinheit ein eigenes Passwort erhalten. Sie benötigen nicht das Ihrige!\nFalls Sie Schwierigkeiten mit der Bedienung passwortgeschützter Daten oder Anwendungen haben, kann die zuständige Einheit auch ohne Kenntnis Ihres persönlichen Passworts Hilfe leisten.\nFalls Sie befürchten, dass eine andere Person Ihr Passwort kennt, ändern Sie es unverzüglich ab.\nMehr Informationen finden Sie in der Lektion [Passwörter](/03 lektion passwoerter).\nAchtung Geben Sie nie ein Passwort weiter! Bewahren Sie Ihr Passwort nur an einem Ort auf: In Ihrem Kopf, allenfalls noch in einem [Passwort-Manager](/03 lektion passwoerter/04.Werkzeuge-fuer-Passwoerter.de.md#passwort-manager) Geben Sie Kennungen zu Ihren Fachanwendungen nicht an Kolleginnen oder Kollegen weiter! Und nutzen Sie sichere Passwörter und die Zwei-Faktoren-Authentisierung (wenn angeboten), ",
+    "content": "Ihnen anvertraute oder von Ihnen erzeugte Passwörter dürfen Sie keinesfalls weitergeben. Es ist auch verboten, sie auf Zettel aufzuschreiben und in Schubladen, unter Schreibtischunterlagen o.ä. – also letztlich für Dritte zugänglich – aufzubewahren!\nPasswörter sind personengebunden. Das heißt: Alle berechtigten Personen können über die zuständige Organisationseinheit ein eigenes Passwort erhalten. Sie benötigen nicht das Ihrige!\nFalls Sie Schwierigkeiten mit der Bedienung passwortgeschützter Daten oder Anwendungen haben, kann die zuständige Einheit auch ohne Kenntnis Ihres persönlichen Passworts Hilfe leisten.\nFalls Sie befürchten, dass eine andere Person Ihr Passwort kennt, ändern Sie es unverzüglich ab.\nMehr Informationen finden Sie in der Lektion [Passwörter](/03 lektion passwoerter).\nAchtung Geben Sie nie ein Passwort weiter! Bewahren Sie Ihr Passwort nur an einem Ort auf: In Ihrem Kopf, allenfalls noch in einem Passwort-Manager Geben Sie Kennungen zu Ihren Fachanwendungen nicht an Kolleginnen oder Kollegen weiter! Und nutzen Sie sichere Passwörter und die Zwei-Faktoren-Authentisierung (wenn angeboten), ",
     "description": "",
     "tags": null,
     "title": "Passwörter nicht weitergeben",
-    "uri": "/09-lektion-mein-arbeitsplatz/02.passwoerter-nicht-weitergeben/"
+    "uri": "/09-lektion-mein-arbeitsplatz/02-passwoerter-nicht-weitergeben/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -189,7 +205,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Besondere Gefahren",
-    "uri": "/08-lektion-mobile-geraete/02.besondere-gefahren/"
+    "uri": "/08-lektion-mobile-geraete/02-besondere-gefahren/"
   },
   {
     "breadcrumb": "Cloud",
@@ -197,15 +213,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Überblick Cloud-Dienste",
-    "uri": "/07-lektion-cloud/02.ueberblick-cloud-dienste/"
-  },
-  {
-    "breadcrumb": "Social Media",
-    "content": "Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit allgemeine Werbung zu platzieren meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.\nProbleme bei Social Media Bei der Nutzung von Social Media-Diensten fällt eine Vielzahl von nutzungsbezogenen Daten an, die Personen oder Personengruppen zugeordnet werden können und für die Werbung interessant sind.\nBeim Besuch von Social Media-Angeboten Dritter wird häufig auf Ihrem Computer oder Smartphone ein [Cookie](/04 lektion internet/04.Technische-Webinhalte.de.md) (eine kleine Textdatei) hinterlassen, der vom Betreiber der Seite, aber auch von Dritten, wieder ausgelesen werden kann. Über Cookies, die manchmal jahrelang gespeichert werden, ist es leicht möglich, das Surfverhalten der Besucherinnen und Besucher nachzuvollziehen.\nBei geschickter Nutzung der Cookies und anderer Daten, die Sie im Internet veröffentlichen oder unbewusst hinterlassen, besteht so die Gefahr, dass Dritte erkennen, wo Sie wie lange gesurft haben, was Sie kaufen möchten, wo Sie wohnen oder welche Hobbys Sie haben. Dies kann wiederum auch dafür genutzt werden, Sie als Angriffsziel für das sog. [Social Engineering](/03 lektion passwoerter/02.Gefahren.de.md#social-engineering) auszuwählen. Wer viel über Sie weiß, dem werden Sie auch schneller vertrauen!\nDas Datenschutzrecht schreibt vor, dass Internetangebote klare Hinweise darauf enthalten müssen, welche Daten von Ihnen wie verarbeitet und an Dritte weitergegeben werden. Dies wird nicht von allen Social Media-Diensten umgesetzt. Falls Sie keine verständliche Erklärung zum Datenschutz bei dem Angebot finden, sollten Sie doppelt vorsichtig sein, ob Sie den Dienst nutzen wollen und welche Daten Sie dort hinterlassen.\nAchtung Die Finanzierung erfolgt durch Werbung oder Spenden Die Daten der Kund*innen (also die Ihrigen) sind oft der „Preis“ für kostenlose Angebote ",
-    "description": "",
-    "tags": null,
-    "title": "Geschäftsmodell",
-    "uri": "/06-lektion-social-media/02.geschaeftsmodell/"
+    "uri": "/07-lektion-cloud/02-ueberblick-cloud-dienste/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -213,7 +221,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Elektronische Datenverarbeitung",
-    "uri": "/05-lektion-vertrauliche-daten/02.elektronische-datenverarbeitung/"
+    "uri": "/05-lektion-vertrauliche-daten/02-elektronische-datenverarbeitung/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -221,7 +229,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Gefahren im Internet",
-    "uri": "/04-lektion-internet/02.gefahren-im-internet/"
+    "uri": "/04-lektion-internet/02-gefahren-im-internet/"
   },
   {
     "breadcrumb": "Viren",
@@ -229,7 +237,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Typen von Viren",
-    "uri": "/02-lektion-viren/02.typen-von-viren/"
+    "uri": "/02-lektion-viren/02-typen-von-viren/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -237,7 +245,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Übermittlung von E-Mails im Internet",
-    "uri": "/01-lektion-e-mails/02.uebermittlung-von-e-mails/"
+    "uri": "/01-lektion-e-mails/02-uebermittlung-von-e-mails/"
   },
   {
     "breadcrumb": "",
@@ -248,12 +256,28 @@ var relearn_search_index = [
     "uri": "/mehr/weitere-informationen/"
   },
   {
+    "breadcrumb": "KI",
+    "content": "Beim Einsatz von KI-Anwendungen besteht zunächst die Gefahr, dass sensible Daten verarbeitet werden und die Verarbeitung unkontrolliert erfolgt.\nDavon betroffen sein können z.B. personenbezogene Daten, aber auch sicherheitsrelevante Daten wie interne Computer-Adressen, aber auch interne Finanzzahlen. Bei der Bedienung von Chat-Bots können Namen und Anschriften, aber auch Gesundheitsdaten mit Personenbezug der KI-Anwendung übergeben werden. Wo die Verarbeitung durch die KI-Anwendung erfolgt, ob die Daten bei der Verarbeitung sicher sind und nicht auch Dritten zugänglich gemacht werden, ist nicht immer garantiert. Kostenfreie Angebote, aber auch kostenpflichtige, verlangen in ihren Nutzungsbedingungen häufig, dass die eingebenen Daten auch für Zwecke des Anbieters genutzt werden dürfen. Hier bestehen erhebliche Missbrauchsrisiken, die manchmal nur schwer zu beherrschen sind.\nDazu kommt die Gefahr, dass für das Trainieren der KI-Anwendung Daten verwendet werden, die für diese Zwecke nicht zugelassen sind. Auch hier können personenbezogene Daten oder sicherheitssensible Informationen betroffen sein. Schließlich darf urheberrechtlich geschütztes Material ebenfalls regelmäßig nicht für Trainingszwecke der KI verwendet werden.\nAchtung Nicht alle KI-Anwendungen dürfen mit allen Daten genutzt werden. KI-Anwendungen dürfen nicht mit beliebigen Daten “trainiert” werden. ",
+    "description": "",
+    "tags": null,
+    "title": "Gefahren von KI I",
+    "uri": "/10-lektion-kuenstliche-intelligenz/02-gefahren-von-ki-i/"
+  },
+  {
+    "breadcrumb": "Social Media",
+    "content": "Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit allgemeine Werbung zu platzieren meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.\nProbleme bei Social Media Bei der Nutzung von Social Media-Diensten fällt eine Vielzahl von nutzungsbezogenen Daten an, die Personen zugeordnet werden können und für die Werbung interessant sind.\nBeim Besuch von Social Media-Angeboten Dritter wird häufig auf Ihrem Computer oder Smartphone ein Cookie hinterlassen, der vom Betreiber der Seite, aber auch von Dritten, wieder ausgelesen werden kann. Über Cookies, die manchmal jahrelang gespeichert werden, ist es leicht möglich, das Surfverhalten der Besucherinnen und Besucher nachzuvollziehen.\nBei geschickter Nutzung der Cookies und anderer Daten, die Sie im Internet veröffentlichen oder unbewusst hinterlassen, besteht so die Gefahr, dass Dritte erkennen, wo Sie wie lange gesurft haben, was Sie kaufen möchten, wo Sie wohnen oder welche Hobbys Sie haben. Dies kann wiederum auch dafür genutzt werden, Sie als Angriffsziel für das sog. Social Engineering auszuwählen. Wer viel über Sie weiß, dem werden Sie auch schneller vertrauen!\nDas Datenschutzrecht schreibt vor, dass Internetangebote klare Hinweise darauf enthalten müssen, welche Daten von Ihnen wie verarbeitet und an Dritte weitergegeben werden. Dies wird nicht von allen Social Media-Diensten umgesetzt. Falls Sie keine verständliche Erklärung zum Datenschutz bei dem Angebot finden, sollten Sie doppelt vorsichtig sein, ob Sie den Dienst nutzen wollen und welche Daten Sie dort hinterlassen.\nMittlerweile werden Inhalte in Social Media oder auch die angeblichen Nutzerinnen und Nutzer durch Künstliche Intelligenz (siehe dazu die Lektion KI) erzeugt. Wenn dies nicht erwähnt wird, besteht die Gefahr der Täuschung und auch kriminieller Betrugsversuche.\nAchtung Die Finanzierung erfolgt durch Werbung oder Spenden. Die Daten der Kund*innen (also die Ihrigen) sind oft der „Preis“ für kostenlose Angebote. Über Künstliche Intelligenz können Texte, Stimmen, Bilder und Filme in Social Media (und anderswo) gefälscht werden, um Sie zu täuaschen. ",
+    "description": "",
+    "tags": null,
+    "title": "Herausforderungen",
+    "uri": "/06-lektion-social-media/02-herausforderungen/"
+  },
+  {
     "breadcrumb": "Mein Arbeitsplatz",
     "content": "Der Computer an Ihrem Arbeitsplatz ist das Tor zu den auf diesem Rechner gespeicherten Daten, aber auch zu Daten auf anderen Computern Ihrer Behörde oder Einrichtung und oft auch zum Internet.\nWenn Sie Ihren Arbeitsplatz verlassen, sollten Sie immer den Zugang zum Computersystem sperren. Dies geschieht mit einem einfachen Handgriff und verhindert, dass Dritte Zugriff auf Daten haben oder in Ihrem Namen Nachrichten schreiben.\nEs reicht nicht aus, Ihr Zimmer abzuschließen. Ein geübter Dieb schafft es innerhalb von Sekunden, ein normales Schloss zu öffnen.\nUnter Microsoft Windows sperrt z.B. die Tastenkombination „Windows-Taste + L“ das System so, dass es nur durch Eingabe Ihres Passwortes oder durch eine Person mit Administratorrechten wieder benutzt werden kann.\nBitte achten Sie auch darauf, dass keine Familienangehörige oder Dritte im Home Office Zugang zum Computer oder Ihren Daten erhalten.\nAchtung Mit der Tastenkombination „Windows-Taste + L“ sichern Sie Ihr System schnell beim Verlassen Ihres Arbeitsplatzes Das Arbeitszimmer abzuschließen reicht nicht! ",
     "description": "",
     "tags": null,
     "title": "Zugang sichern",
-    "uri": "/09-lektion-mein-arbeitsplatz/03.zugang-sichern/"
+    "uri": "/09-lektion-mein-arbeitsplatz/03-zugang-sichern/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -261,7 +285,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Heutige Kommunikationstechnologien",
-    "uri": "/08-lektion-mobile-geraete/03.heutige-kommunikationstechnologien/"
+    "uri": "/08-lektion-mobile-geraete/03-heutige-kommunikationstechnologien/"
   },
   {
     "breadcrumb": "Cloud",
@@ -269,15 +293,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vorteile und Gefahren",
-    "uri": "/07-lektion-cloud/03.vorteile-und-gefahren/"
+    "uri": "/07-lektion-cloud/03-vorteile-und-gefahren/"
   },
   {
     "breadcrumb": "Social Media",
-    "content": "Social Media bieten eine Vielzahl von Möglichkeiten, schnell und einfach Informationen mitzuteilen. Der besondere Reiz liegt darin, dass alle mitmachen können und die Dienste oft kostenlos sind.\nWerden die Social Media-Dienste kostenlos von Unternehmen angeboten, besteht der Preis oft in der (ungefragten) Übermittlung von Nutzerdaten. Man darf nie vergessen, dass einmal im Internet preisgegebene Informationen nicht mehr zu löschen sind. Außerdem können Informationen zu Ihrer Person genutzt werden, um über Sie Angriffe auf Ihre Behörde oder Einrichtung vorzubereiten (über das so genannte [Social Engineering](/03 lektion passwoerter/02.gefahren.md#social-engineering\"\u003e}})).\nWenn Sie persönliche Daten wie Fotos oder Kommentare ins Internet stellen, müssen Sie davon ausgehen, dass Sie deren Verbreitung nicht mehr kontrollieren können.\nDie Möglichkeiten, Social Media so zu nutzen, dass möglichst wenig personenbezogene Daten übertragen werden, sind eingeschränkt. Viele der Dienste leben davon, dass die Nutzerinnen und Nutzer persönliche Daten offenbaren.\nFalls Sie nicht auf Social Media verzichten wollen:\nVerwenden Sie nicht Ihren echten Namen (dies lassen allerdings nicht alle Anbieter zu) Ändern Sie die Einstellungen so ab, dass nicht alle, sondern nur Ihre Bekannten Ihre Daten einsehen können Stellen Sie nur Informationen ein, die Sie auch einer völlig fremden Person erzählen würden und die Sie nie mehr löschen wollen - auch nicht in zehn Jahren Löschen Sie regelmäßig die Cookies in Ihrem Browser Die meisten Browser erlauben „privates Surfen“, bei dem z.B. Cookies beim Schließen gelöscht werden - nutzen Sie diese Funktion! Nehmen Sie nur Freundschaftsanfragen an, wenn Sie sicher sind, wer anfragt Verwenden Sie ein sicheres Passwort (Informationen hierzu in der Lektion [Passwörter](/03 lektion passwoerter\"\u003e}})) Gut zu wissen Freud und Leid\nSo hilfreich viele der Social Media-Dienste auch sind - die kommerziellen Anbieter wollen mit Ihren Daten Geld verdienen. Außerdem besteht die Gefahr, dass Ihre Informationen für gezielte Angriffe missbraucht werden. ",
+    "content": "Social Media bieten eine Vielzahl von Möglichkeiten, schnell und einfach Informationen mitzuteilen. Der besondere Reiz liegt darin, dass alle mitmachen können und die Dienste oft kostenlos sind.\nWerden die Social Media-Dienste kostenlos von Unternehmen angeboten, besteht der Preis oft in der (ungefragten) Übermittlung von Nutzerdaten. Man darf nie vergessen, dass einmal im Internet preisgegebene Informationen nicht mehr zu löschen sind. Außerdem können Informationen zu Ihrer Person genutzt werden, um über Sie Angriffe auf Ihre Behörde oder Einrichtung vorzubereiten (über das so genannte Social Engineering).\nWenn Sie persönliche Daten wie Fotos oder Kommentare ins Internet stellen, müssen Sie davon ausgehen, dass Sie deren Verbreitung nicht mehr kontrollieren können.\nDie Möglichkeiten, Social Media so zu nutzen, dass möglichst wenig personenbezogene Daten übertragen werden, sind eingeschränkt. Viele der Dienste leben davon, dass die Nutzerinnen und Nutzer persönliche Daten offenbaren.\nFalls Sie nicht auf Social Media verzichten wollen:\nVerwenden Sie nicht Ihren echten Namen (dies lassen allerdings nicht alle Anbieter zu) Ändern Sie die Einstellungen so ab, dass nicht alle, sondern nur Ihre Bekannten Ihre Daten einsehen können Stellen Sie nur Informationen ein, die Sie auch einer völlig fremden Person erzählen würden und die Sie nie mehr löschen wollen - auch nicht in zehn Jahren Löschen Sie regelmäßig die Cookies in Ihrem Browser Die meisten Browser erlauben „privates Surfen“, bei dem z.B. Cookies beim Schließen gelöscht werden - nutzen Sie diese Funktion! Nehmen Sie nur Freundschaftsanfragen an, wenn Sie sicher sind, wer anfragt Verwenden Sie ein sicheres Passwort (Informationen hierzu in der Lektion [Passwörter](/03 lektion passwoerter\"\u003e)) Gut zu wissen Freud und Leid\nSo hilfreich viele der Social Media-Dienste auch sind - die kommerziellen Anbieter wollen mit Ihren Daten Geld verdienen. Außerdem besteht die Gefahr, dass Ihre Informationen für gezielte Angriffe missbraucht werden. ",
     "description": "",
     "tags": null,
     "title": "Social Media sicher nutzen",
-    "uri": "/06-lektion-social-media/03.social-media-sicher-nutzen/"
+    "uri": "/06-lektion-social-media/03-social-media-sicher-nutzen/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -285,7 +309,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Identifizierung vertraulicher Daten",
-    "uri": "/05-lektion-vertrauliche-daten/03.identifizierung-vertraulicher-daten/"
+    "uri": "/05-lektion-vertrauliche-daten/03-identifizierung-vertraulicher-daten/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -293,7 +317,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vertrauenswürdigkeit von Webseiten",
-    "uri": "/04-lektion-internet/03.vertrauenswuerdigkeit-von-webseiten/"
+    "uri": "/04-lektion-internet/03-vertrauenswuerdigkeit-von-webseiten/"
   },
   {
     "breadcrumb": "Viren",
@@ -301,7 +325,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Mögliche Schäden durch Virenbefall",
-    "uri": "/02-lektion-viren/03.moegliche-schaeden-durch-virenbefall/"
+    "uri": "/02-lektion-viren/03-moegliche-schaeden-durch-virenbefall/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -309,7 +333,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Spam-E-Mails",
-    "uri": "/01-lektion-e-mails/03.spam-e-mails/"
+    "uri": "/01-lektion-e-mails/03-spam-e-mails/"
   },
   {
     "breadcrumb": "",
@@ -320,12 +344,20 @@ var relearn_search_index = [
     "uri": "/mehr/herausgeber-und-lizenz/"
   },
   {
+    "breadcrumb": "KI",
+    "content": "Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen eines Entscheidungsprozesses kommen, je nach Einsatzgebiet mit weitreichenden Folgen.\nWenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt immer wieder vor, dass z.B. Chat-Bots falsche Angaben machen, die aber plaubsibel erscheinen. KI-Programme können auch “voreingenommen” sein, wenn z.B. keine repräsentativen Trainingsdaten eingesetzt wurden, und in der Folge ethisch bedenkliche Empfehlungen oder Ergebnisse liefern.\nSchließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern, z.B. in Social Media, eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu ungewollten Handlungen verleitet werden.\nAchtung Es besteht die Gefahr, dass die KI-Anwendung unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden. Es besteht die Gefahr, dass Dritte KI-Anwendungen böswillig einsetzen, um Menschen oder anderen Computerprogramme zu täuschen. ",
+    "description": "",
+    "tags": null,
+    "title": "Gefahren von KI II",
+    "uri": "/10-lektion-kuenstliche-intelligenz/03-gefahren-von-ki-ii/"
+  },
+  {
     "breadcrumb": "Passwörter",
     "content": "Es gibt Werkzeuge für Passwörter, die Ihnen das Erzeugen und Merken erleichtern oder die Sicherheit erheblich erhöhen. Falls Ihre Behörde oder Einrichtung solche anbietet: nutzen Sie diese! Auch für den privaten Bereich gibt es solche Tools!\nPasswort-Manager Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Smartphones gibt, und die zum Erzeugen und Speichern von sicheren Passwörtern dienen. Voraussetzung ist, dass Sie ein sehr sicheres „Master-Passwort“ verwenden, das den Zugang zum Passwort-Manager selbst freigibt. Außerdem muss das Programm die in ihm gespeicherten weiteren Passwörter gut verschlüsseln.\nDer Vorteil eines Passwort-Managers ist, dass Sie sich nur das Master-Passwort merken müssen. Dies ist gleichzeitig der größte Nachteil. Wenn Sie es vergessen, haben Sie keinen Zugang zu den weiteren Passwörtern!\nZwei-Faktor-Authentisierung (2FA) Bei einer Zwei-Faktor-Authentisierung (abgekürzt 2FA) wird neben dem Wissen (z.B. ein nur Ihnen bekanntes Passwort) noch ein weiteres Merkmal beim Einloggen in ein Programm oder zum Abrufen von Nachrichten verlangt. Dies kann ein Stück Hardware in Form eines kleinen Sticks („Token“) sein, der auf einem Display eine einmalige Nummer auf Knopfdruck anzeigt. Es gibt aber auch Smartphone-Apps, die bei 2FA genutzt werden können. Über die App oder den Token müssen Sie dann beim Einloggen diesen Vorgang zusätzlich bestätigen. Diese Form der 2FA kommt regelmäßig beim Online-Banking oder Finanzdienstleistungen im Internet vor.\nPasswortkarten Passwortkarten sind unveränderliche Tabellen mit Buchstaben, Zahlen und Sonderzeichen. Durch eine gedachtes Master-Passwort können diese verknüpft und zu neuen Passwörten zusammengesetzt werden.\nAchtung Nutzen Sie Passwort-Manager und die Zwei-Faktor-Authentisierung, wenn Ihnen diese angeboten werden. Beide erhöhen die Sicherheit!\n",
     "description": "",
     "tags": null,
     "title": "Werkzeuge für Passwörter",
-    "uri": "/03-lektion-passwoerter/04.werkzeuge-fuer-passwoerter/"
+    "uri": "/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/"
   },
   {
     "breadcrumb": "",
@@ -337,19 +369,19 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
-    "content": "Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern…“) berufen.\nHäufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.\nWie verhalten Sie sich, wenn Sie Zweifel haben?\nLassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen. Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren Ansprechperson, ob die anfragende Person vertrauenswürdig und „echt“ ist. Weitere Informationen gibt es in der Lektion [Passwörter](/03 lektion passwoerter/02.Gefahren.de.md#social-engineering)\nAchtung Geben Sie keine Zugangsdaten heraus Versichern Sie sich der Identität der abfragenden Person ",
+    "content": "Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern…“) berufen.\nHäufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.\nWie verhalten Sie sich, wenn Sie Zweifel haben?\nLassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen. Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren Ansprechperson, ob die anfragende Person vertrauenswürdig und „echt“ ist. Weitere Informationen gibt es in der Lektion Passwörter\nAchtung Geben Sie keine Zugangsdaten heraus Versichern Sie sich der Identität der abfragenden Person ",
     "description": "",
     "tags": null,
     "title": "Social Engineering-Angriffe abwehren",
-    "uri": "/09-lektion-mein-arbeitsplatz/04.social-engineering-angriffe-abwehren/"
+    "uri": "/09-lektion-mein-arbeitsplatz/04-social-engineering-angriffe-abwehren/"
   },
   {
     "breadcrumb": "Mobile Geräte",
-    "content": "Bei Wireless LAN (WLAN) handelt es sich um eine Funknetzwerktechnik, die – wenn einmal aufgebaut – als kabelloser Netzwerkzugang funktioniert. Oftmals werden WLAN-Techniken in Besprechungsräumen und in Außenbüros eingesetzt. WLANs stehen aber auch in Cafés, Hotels oder anderen öffentlichen Bereichen bereit - und zuhause.\nSo verhalten Sie sich richtig, um ein Abhören zu vermeiden: Wenn eine eigene drahtgebundene Netzwerkverbindung möglich ist, ist diese der WLAN-Technik vorzuziehen. Wenn WLAN eingesetzt wird, muss grundsätzlich der höchstmögliche verfügbare Sicherheitsstandard zur Verschlüsselung des Zugangs gewählt werden (derzeit WPA3, mindestens WPA2). Jeder ungewöhnliche Vorgang auf Ihrem Endgerät in Verbindung mit Funknetzen könnte ein Angriff sein; im Zweifel deaktivieren Sie die WLAN-Verbindung und informieren Sie Ihre Ansprechperson. Sollten Sie keine Kenntnis über die Funktion und das Einstellen dieser Mechanismen haben, so informieren Sie sich bitte bei Ihrer Ansprechperson. Besuchen Sie wenn möglich nur Internetseiten, die per [HTTPS](/04 lektion internet/05.Schutz-vor-technischen-Webinhalten.de.md) aufrufbar sind. ",
+    "content": "Bei Wireless LAN (WLAN) handelt es sich um eine Funknetzwerktechnik, die – wenn einmal aufgebaut – als kabelloser Netzwerkzugang funktioniert. Oftmals werden WLAN-Techniken in Besprechungsräumen und in Außenbüros eingesetzt. WLANs stehen aber auch in Cafés, Hotels oder anderen öffentlichen Bereichen bereit - und zuhause.\nSo verhalten Sie sich richtig, um ein Abhören zu vermeiden: Wenn eine eigene drahtgebundene Netzwerkverbindung möglich ist, ist diese der WLAN-Technik vorzuziehen. Wenn WLAN eingesetzt wird, muss grundsätzlich der höchstmögliche verfügbare Sicherheitsstandard zur Verschlüsselung des Zugangs gewählt werden (derzeit WPA3, mindestens WPA2). Jeder ungewöhnliche Vorgang auf Ihrem Endgerät in Verbindung mit Funknetzen könnte ein Angriff sein; im Zweifel deaktivieren Sie die WLAN-Verbindung und informieren Sie Ihre Ansprechperson. Sollten Sie keine Kenntnis über die Funktion und das Einstellen dieser Mechanismen haben, so informieren Sie sich bitte bei Ihrer Ansprechperson. Besuchen Sie wenn möglich nur Internetseiten, die per [HTTPS](/04 lektion internet/05-Schutz-vor-technischen-Webinhalten) aufrufbar sind. ",
     "description": "",
     "tags": null,
     "title": "WLAN - Wireless Local Area Network",
-    "uri": "/08-lektion-mobile-geraete/04.wlan-wireless-local-area-network/"
+    "uri": "/08-lektion-mobile-geraete/04-wlan-wireless-local-area-network/"
   },
   {
     "breadcrumb": "Cloud",
@@ -357,7 +389,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Cloud-Dienste sicher nutzen",
-    "uri": "/07-lektion-cloud/04.cloud-dienste-sicher-nutzen/"
+    "uri": "/07-lektion-cloud/04-cloud-dienste-sicher-nutzen/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -365,7 +397,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Betriebsgeheimnisse",
-    "uri": "/05-lektion-vertrauliche-daten/04.betriebsgeheimnisse/"
+    "uri": "/05-lektion-vertrauliche-daten/04-betriebsgeheimnisse/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -373,7 +405,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Technische Webinhalte",
-    "uri": "/04-lektion-internet/04.technische-webinhalte/"
+    "uri": "/04-lektion-internet/04-technische-webinhalte/"
   },
   {
     "breadcrumb": "Viren",
@@ -381,7 +413,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Infektionswege",
-    "uri": "/02-lektion-viren/04.infektionswege/"
+    "uri": "/02-lektion-viren/04-infektionswege/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -389,7 +421,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Computerviren per E-Mail",
-    "uri": "/01-lektion-e-mails/04.computerviren/"
+    "uri": "/01-lektion-e-mails/04-computerviren/"
+  },
+  {
+    "breadcrumb": "KI",
+    "content": "Für viele von uns ist der Einsatz von KI-Anwendungen noch ungewohnt. Schnell ist man von der Leistungsfähigkeit, Kreativität und der damit verbundenen Arbeitserleichterung begeistert. Die auf den vorangehenden Seiten dargelegten Gefahren können jedoch ernstzunehmende Schäden in Ihrer Behörde oder Einrichtung verursachen. Daher ist es wichtig, nur die dienstlich angebotenen KI-Anwendungen zu verwenden. Aber auch beim privaten Einsatz von KI-Anwendungen können Fehler passieren, die sich schnell negativ auswirken!\nDaher sollte Sie versuchen, folgende Vorsichtsmaßnahmen zu beherzigen:\nInformieren Sie sich über die Funktionsweise von KI-Technologien, ihre potenziellen Risiken und Auswirkungen. Nutzen Sie dienstlich nur die dafür freigegebenen KI-Anwendungen und nur mit den dafür zugelassenen Daten. Beachten Sie die KI-Richtlinien und sonstigen Vorgaben Ihrer Behörde oder Einrichtung bei der Nutzung von KI. Seien Sie kritisch gegenüber Informationen, die aus KI-Anwendungen stammen, aber auch gegenüber Informationen aus Sozialen Medien und Online-Plattformen, die keine verlässliche Quellenangabe haben. Überprüfen Sie die Quellen und verifizieren Sie die Informationen, bevor Sie ihnen Glauben schenken oder sie weitergeben. ",
+    "description": "",
+    "tags": null,
+    "title": "Vorsichtsmaßnahmen",
+    "uri": "/10-lektion-kuenstliche-intelligenz/04-vorsichtsmassnahmen/"
   },
   {
     "breadcrumb": "Passwörter",
@@ -397,7 +437,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/03-lektion-passwoerter/05.zusammenfassung/"
+    "uri": "/03-lektion-passwoerter/05-zusammenfassung/"
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
@@ -405,7 +445,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vorsicht bei mobilen Datenträgern",
-    "uri": "/09-lektion-mein-arbeitsplatz/05.vorsicht-bei-mobilen-datentraegern/"
+    "uri": "/09-lektion-mein-arbeitsplatz/05-vorsicht-bei-mobilen-datentraegern/"
+  },
+  {
+    "breadcrumb": "KI",
+    "content": "Anwendungen, die Künstliche Intelligenz nutzen, sind für viele Einsatzbereiche hilfreich.\nGleichzeitig bringen sie Gefahren für Ihre Behörde oder Einrichtung mit sich, die zum Teil nur schwer zu beherrschen sind.\nAn erster Stelle steht der verantwortungsvolle Einsatz von KI-Anwendungen, der auch in Ihren Händen liegt. Nutzen Sie die Informations- und Bildungsangebote Ihrer Behörde oder Einrichtung, um die Bedeutung dieser Technologie, ihre Anwendungsmöglichkeiten und ihre Grenzen in Ihrem Arbeitsbereich kennenzulernen.\nBeim Einsatz selbst müssen Sie die Vorgaben Ihrer Behörde oder Einrichtung berücksichtigen. Eine große Gefahr der Künstlichen Intelligenz liegt darin, KI-Anwendungen blind zu vertrauen und Warnhinweise zu den Gefahren zu vernachlässigen. Verfallen Sie nicht einem blinden Automatismus, sondern seien Sie kritisch und gebrauchen Sie Ihr Wissen, wenn Sie mit KI arbeiten!\n",
+    "description": "",
+    "tags": null,
+    "title": "Zusammenfassung",
+    "uri": "/10-lektion-kuenstliche-intelligenz/05-zusammenfassung/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -413,7 +461,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Notebooks",
-    "uri": "/08-lektion-mobile-geraete/05.notebooks/"
+    "uri": "/08-lektion-mobile-geraete/05-notebooks/"
   },
   {
     "breadcrumb": "Cloud",
@@ -421,7 +469,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/07-lektion-cloud/05.zusammenfassung/"
+    "uri": "/07-lektion-cloud/05-zusammenfassung/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -429,15 +477,15 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Interne Informationen",
-    "uri": "/05-lektion-vertrauliche-daten/05.interne-informationen/"
+    "uri": "/05-lektion-vertrauliche-daten/05-interne-informationen/"
   },
   {
     "breadcrumb": "Surfen im Internet",
-    "content": " In den meisten Behörden und Einrichtungen ist eine sichere Konfiguration des Browsers fest vorgegeben! Versuchen Sie nicht, diese zu ändern. Laden und starten Sie keine Programme von Webseiten, sofern Sie nicht dienstlich dazu angehalten werden. Damit Zugangsdaten und Seiteninhalte bei der Übertragung im offenen Internet nicht von Dritten mitgelesen werden können, wird für die Übertragung das technische Protokoll „TLS“ (Transport Layer Security) verwendet. Entsprechende Angebote erkennen Sie u.a. an der der Adresse vorangestellten Abkürzung „https“.\nZu allen Seiten, deren Adresse mit https:// beginnt, baut der Browser automatisch eine verschlüsselte Verbindung auf. So wird sichergestellt, dass bei der Übermittlung grundsätzlich keine Daten mitgelesen oder verändert werden können. Hierfür muss das Zertifikat der Internetseite (siehe unten stehender Tipp) der herausgebenden Stelle der Seite zugeordnet sein.\nGut zu wissen Ein Zertifikat ist eine „elektronische Bescheinigung“, mit der die Zuordnung einer Internetseite zu ihrer herausgebenden Stelle dokumentiert wird. Damit verbunden ist die Absicherung der Seitenaufrufe über eine Transportverschlüsselung (über HTTPS, siehe die Erläuterungen zum [Technischen Aufbau des Internets](/04 lektion internet/01.Was-ist-das-Internet.de.md)). Das Zertifikat einer Internetseite können Sie aufrufen, in dem Sie in der Adresszeile Ihres Browsers auf das Schloss-Symbol klicken.\n",
+    "content": " In den meisten Behörden und Einrichtungen ist eine sichere Konfiguration des Browsers fest vorgegeben! Versuchen Sie nicht, diese zu ändern. Laden und starten Sie keine Programme von Webseiten, sofern Sie nicht dienstlich dazu angehalten werden. Damit Zugangsdaten und Seiteninhalte bei der Übertragung im offenen Internet nicht von Dritten mitgelesen werden können, wird für die Übertragung das technische Protokoll „TLS“ (Transport Layer Security) verwendet. Entsprechende Angebote erkennen Sie u.a. an der der Adresse vorangestellten Abkürzung „https“.\nZu allen Seiten, deren Adresse mit https:// beginnt, baut der Browser automatisch eine verschlüsselte Verbindung auf. So wird sichergestellt, dass bei der Übermittlung grundsätzlich keine Daten mitgelesen oder verändert werden können. Hierfür muss das Zertifikat der Internetseite (siehe unten stehender Tipp) der herausgebenden Stelle der Seite zugeordnet sein.\nGut zu wissen Ein Zertifikat ist eine „elektronische Bescheinigung“, mit der die Zuordnung einer Internetseite zu ihrer herausgebenden Stelle dokumentiert wird. Damit verbunden ist die Absicherung der Seitenaufrufe über eine Transportverschlüsselung (über HTTPS, siehe die Erläuterungen zum [Technischen Aufbau des Internets](/04 lektion internet/01-Was-ist-das-Internet)). Das Zertifikat einer Internetseite können Sie aufrufen, in dem Sie in der Adresszeile Ihres Browsers auf das Schloss-Symbol klicken.\n",
     "description": "",
     "tags": null,
     "title": "Schutz vor technischen Webinhalten",
-    "uri": "/04-lektion-internet/05.schutz-vor-technischen-webinhalten/"
+    "uri": "/04-lektion-internet/05-schutz-vor-technischen-webinhalten/"
   },
   {
     "breadcrumb": "Viren",
@@ -445,7 +493,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Risiken und Schäden",
-    "uri": "/02-lektion-viren/05.risiken-und-schaeden/"
+    "uri": "/02-lektion-viren/05-risiken-und-schaeden/"
   },
   {
     "breadcrumb": "",
@@ -461,7 +509,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Phishing und Pharming",
-    "uri": "/01-lektion-e-mails/05.phishing-und-pharming/"
+    "uri": "/01-lektion-e-mails/05-phishing-und-pharming/"
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
@@ -469,7 +517,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Messenger-Apps",
-    "uri": "/09-lektion-mein-arbeitsplatz/06.messenger/"
+    "uri": "/09-lektion-mein-arbeitsplatz/06-messenger/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -477,7 +525,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Mobiltelefone",
-    "uri": "/08-lektion-mobile-geraete/06.mobiltelefone/"
+    "uri": "/08-lektion-mobile-geraete/06-mobiltelefone/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -485,7 +533,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Entscheidungsrelevante Informationen",
-    "uri": "/05-lektion-vertrauliche-daten/06.entscheidungsrelevante-informationen/"
+    "uri": "/05-lektion-vertrauliche-daten/06-entscheidungsrelevante-informationen/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -493,7 +541,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Verschlüsselter Zugriff auf Webseiten",
-    "uri": "/04-lektion-internet/06.verschluesselter-zugriff-auf-webseiten/"
+    "uri": "/04-lektion-internet/06-verschluesselter-zugriff-auf-webseiten/"
   },
   {
     "breadcrumb": "Viren",
@@ -501,7 +549,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vorbeugung",
-    "uri": "/02-lektion-viren/06.vorbeugung/"
+    "uri": "/02-lektion-viren/06-vorbeugung/"
   },
   {
     "breadcrumb": "",
@@ -517,7 +565,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Fehlgeleitete Informationen",
-    "uri": "/01-lektion-e-mails/06.fehlgeleitete-informationen/"
+    "uri": "/01-lektion-e-mails/06-fehlgeleitete-informationen/"
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
@@ -525,7 +573,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Verhalten im Schadensfall",
-    "uri": "/09-lektion-mein-arbeitsplatz/07.verhalten-im-schadensfall/"
+    "uri": "/09-lektion-mein-arbeitsplatz/07-verhalten-im-schadensfall/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -533,7 +581,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Apps und \"Bring your own device\"",
-    "uri": "/08-lektion-mobile-geraete/07.apps-und-bring-your-own-device/"
+    "uri": "/08-lektion-mobile-geraete/07-apps-und-bring-your-own-device/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -541,7 +589,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Persönlich-vertrauliche Informationen",
-    "uri": "/05-lektion-vertrauliche-daten/07.persoenlich-vertrauliche-informationen/"
+    "uri": "/05-lektion-vertrauliche-daten/07-persoenlich-vertrauliche-informationen/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -549,7 +597,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Blocken unerwünschter Seiten",
-    "uri": "/04-lektion-internet/07.blocken-unerwuenschter-seiten/"
+    "uri": "/04-lektion-internet/07-blocken-unerwuenschter-seiten/"
   },
   {
     "breadcrumb": "Viren",
@@ -557,7 +605,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Virenbefall - was tun?",
-    "uri": "/02-lektion-viren/07.virenbefall-was-tun/"
+    "uri": "/02-lektion-viren/07-virenbefall-was-tun/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -565,7 +613,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Erste Hilfe",
-    "uri": "/01-lektion-e-mails/07.erste-hilfe/"
+    "uri": "/01-lektion-e-mails/07-erste-hilfe/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -573,7 +621,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Mobile Datenträger",
-    "uri": "/08-lektion-mobile-geraete/08.mobile-datentraeger/"
+    "uri": "/08-lektion-mobile-geraete/08-mobile-datentraeger/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -581,7 +629,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Datenschutzbeauftragte",
-    "uri": "/05-lektion-vertrauliche-daten/08.datenschutzbeauftragte/"
+    "uri": "/05-lektion-vertrauliche-daten/08-datenschutzbeauftragte/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -589,7 +637,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Richtlinien zur Internetnutzung",
-    "uri": "/04-lektion-internet/08.internet-richtlinien/"
+    "uri": "/04-lektion-internet/08-internet-richtlinien/"
   },
   {
     "breadcrumb": "Viren",
@@ -597,7 +645,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/02-lektion-viren/08.zusammenfassung/"
+    "uri": "/02-lektion-viren/08-zusammenfassung/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -605,7 +653,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Vertrauliche Informationen",
-    "uri": "/01-lektion-e-mails/08.vertrauliche-informationen/"
+    "uri": "/01-lektion-e-mails/08-vertrauliche-informationen/"
   },
   {
     "breadcrumb": "Mobile Geräte",
@@ -613,7 +661,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/08-lektion-mobile-geraete/09.zusammenfassung/"
+    "uri": "/08-lektion-mobile-geraete/09-zusammenfassung/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -621,7 +669,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/05-lektion-vertrauliche-daten/09.zusammenfassung/"
+    "uri": "/05-lektion-vertrauliche-daten/09-zusammenfassung/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -629,7 +677,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/04-lektion-internet/09.zusammenfassung/"
+    "uri": "/04-lektion-internet/09-zusammenfassung/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -637,7 +685,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Dienstliche und private Nutzung",
-    "uri": "/01-lektion-e-mails/09.dienstliche-und-private-nutzung/"
+    "uri": "/01-lektion-e-mails/09-dienstliche-und-private-nutzung/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -645,7 +693,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Netiquette",
-    "uri": "/01-lektion-e-mails/10.netiquette/"
+    "uri": "/01-lektion-e-mails/10-netiquette/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -653,7 +701,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
-    "uri": "/01-lektion-e-mails/11.zusammenfassung/"
+    "uri": "/01-lektion-e-mails/11-zusammenfassung/"
   },
   {
     "breadcrumb": "Cloud",
@@ -661,7 +709,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Cloud",
-    "uri": "/07-lektion-cloud/90.quiz-cloud/"
+    "uri": "/07-lektion-cloud/90-quiz-cloud/"
   },
   {
     "breadcrumb": "Surfen im Internet",
@@ -669,15 +717,23 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Internet",
-    "uri": "/04-lektion-internet/90.quiz-internet/"
+    "uri": "/04-lektion-internet/90-quiz-internet/"
+  },
+  {
+    "breadcrumb": "KI",
+    "content": "Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.\nAnleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: '#1C90F3' title_color: black shuffle_questions: false shuffle_answers: true --- ## Sie haben eine dienstliche Aufgabenstellung und wollen eine Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen. Ist das zulässig? \u003e Die KI-Regelungen Ihrer Behörde oder Einrichtung sind maßgeblich! 1. [ ] Nein, sicher nicht. Künstliche Intelligenz ist mir verdächtig. Ich nutze so etwas nie. \u003eFalls Ihre Behörde oder Einrichtung den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann.. 2. [ ] Na klar! \"KI\" schlägt \"NI\" (Natürliche Intelligenz) \u003eNein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer Behörde oder Einrichtung für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Daten an Unbefugte gelangen. 3. [x] Nur dann, wenn die Nutzung der KI-Anwendung in meiner Behörde oder Einrichtung für dienstliche Zwecke freigegeben wurde. \u003e**Richtige Antwort** ## Welche größten Gefahren drohen beim Einsatz von KI? \u003e Die verwendeten Daten und die Zwecke können kritisch sein. 1. [ ] Keine. Die Technik ist ausgereift und gut gesetzlich geregelt. \u003eLeider nein. KI entwickelt sich ständig weiter. Die gesetzlichen Regelungen können nur einen Rahmen vorgeben. 2. [x] Die KI-Anwendung wird mit nicht zugelassenen Daten genutzt oder damit trainiert, oder sie wird für Missbrauchszwecke zum Herstellen von gefälschten Daten verwendet. \u003e**Richtige Antwort** 3. [ ] Die KI-Anwendungen sind noch nicht \"schlau\" genug, um eine echte Gefahr in meinem Arbeitsalltag darzustellen. \u003eNein. Sehr mächtige KI-Anwendungen sind im Internet kostenlos verfügbar, zum Teil als Funktion in Suchmaschinen. Hierbei können sie erheblichen Einfluss auf Ihre Arbeit ausüben. ## Welche Gefahr besteht bei der Nutzung von KI-Anwendungen, die allen offenstehen? \u003e Bei für alle offenen Angeboten gibt es häufig Nutzungsvorbehalte der Anbieter. 1. [ ] Wenn ich mich mit einem Benutzerkonto anmelden muss, gibt es keine Gefahr. \u003eLeider falsch. Die Anbieter nutzen Ihre Daten möglicherweise für eigene Zwecke oder die Dritter! 2. [X] Bei offenen Angeboten ist nicht immer sichergestellt, dass die Daten nur für meine dienstlichen Zwecke verarbeitet werden und auch Dritte keinen Zugriff darauf erhalten. \u003e**Richtige Antwort** ",
+    "description": "",
+    "tags": null,
+    "title": "Quiz - Künstliche Intelligenz",
+    "uri": "/10-lektion-kuenstliche-intelligenz/90-quiz-kuenstliche-intelligenz/"
   },
   {
     "breadcrumb": "Mobile Geräte",
-    "content": "Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.\nAnleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: '#1C90F3' title_color: black shuffle_questions: false shuffle_answers: true --- ## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen. Wie gehen Sie vor? \u003e Die Nutzung durch fremde Geräte birgt große Gefahren für Ihre Behörde oder Einrichtung. 1. [ ] Sie prüfen, ob der Dienstleister einen aktuelle Virenscanner hat und lassen ihn dann an einen Netzwerk-Anschluss. \u003eNein. Bei den meisten Behörden und Einrichtungen dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt. 2. [x] Sie geben dem Dienstleister keinen Netzwerk-Zugang, da nur einrichtungseigene Notebooks angeschlossen werden dürfen. \u003e**Richtige Antwort** 3. [ ] Sie lassen den Dienstleister an einen Netzwerk-Anschluss, falls er einen Auftrag Ihrer Behörde oder Einrichtung vorzeigt. \u003eNein. Bei den meisten Behörden und Einrichtungen dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt. ## Ihnen ist auf einer Dienstreise ein Smartphone mit dienstlichen Informationen gestohlen worden. Wie verhalten Sie sich? \u003e Ihre Behörde oder Einrichtung muss informiert werden. 1. [ ] Sie rufen Ihre Ansprechperson an und bitten um die Herausgabe des „Recovery Keys“ für das Smartphone. \u003eDas ist leider falsch. Da das ganze Smartphone gestohlen wurde, nützt Ihnen ein „Recovery Key“ gar nichts. 2. [x] Sie informieren unverzüglich Ihre Ansprechperson und Ihre Vorgesetzten über den Verlust des Smartphones. \u003e**Richtige Antwort** 3. [ ] Sie zeigen den Diebstahl bei der Polizei an und kaufen sich ein neues Smartphone. \u003eNein. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihre Behörde oder Einrichtung über den Verlust informiert werden. 4. [ ] Sie sichern alle Spuren und versuchen zunächst, den Dieb aus eigenen Kräften zu überführen. \u003eDas ist nicht ausreichend. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihr Arbeitgeber über den Verlust informiert werden. ## Jemand möchte Ihnen dienstliche Daten auf einem USB-Stick übergeben. Wie verhalten Sie sich? \u003e USB-Sticks sind potenzielle Virenschleudern! 1. [ ] Ich stecke den Stick in meinen Computer und bearbeite die Daten. \u003eFalsch. Falls Ihre USB-Buchsen überhaupt zugänglich sind, können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen. 2. [ ] Ich kopiere die Daten vom USB-Stick auf meinen privaten Laptop und sende sie dann an mein dienstliches E-Mail-Postfach. \u003eNein. Abgesehen davon, dass dienstliche Daten nicht auf privaten Endgeräten verarbeitet werden dürfen, können auf diesem Weg Viren vom USB-Stick in das Netzwerk Ihrer Behörde oder Einrichtung gelangen. 3. [x] Ich bitte die Person, mir die Daten elektronisch per E-Mail zuzusenden oder mir einen Download-Link zu schicken. \u003e**Richtige Antwort** 4. [ ] Ich schaue mir den Stick zunächst auf einem Computer ohne Netzwerkanbindung an, um festzustellen, dass die gewünschten Dateien auch enthalten sind. Erst dann kann der USB-Stick im Zielsystem verwendet werden. \u003eNicht richtig. Falls Ihre USB-Buchsen überhaupt zugänglich sind können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen. ## Sie sitzen mit Ihrer Kollegin bei einem Ortstermin und müssen ihr ein vertrauliches Excel-Dokument als Datei übergeben. Wie gehen Sie vor? \u003e Verschlüsselung ist Trumpf! 1. [ ] Ich lese ihr die Zahlen vor allen laut und deutlich zum Mitschreiben vor. \u003eVertrauliche Daten dürfen nicht so übertragen werden, dass Unbefugte Zugang zu den Informationen bekommen könnten. Das Vorlesen in der Öffentlichkeit gehört ebenfalls dazu. 2. [ ] Da wir beide moderne Laptops mit Bluetooth-Technologie haben, „beame“ ich die Datei direkt zum Notebook der Kollegin. \u003eDie unverschlüsselte Übertragung von Daten über drahtlose Technologien wie WLAN oder Bluetooth ist wegen der Gefahr des Abhörens sehr unsicher und deshalb für interne und vertrauliche Daten verboten. 3. [x] Falls wir beide im gleichen [VPN](/09 lektion mein arbeitsplatz/01.Sicherer-Arbeitsplatz.de.md) sind, stelle ich die Datei über ein Gruppenlaufwerk oder eine interne E-Mail bereit. Andernfalls verschlüssele ich die Datei und sende sie per E-Mail an die Kollegin, das Passwort teile ich ihr mündlich mit. \u003e**Richtige Antwort** 4. [ ] Wir verbinden uns beide direkt mit dem WLAN im Café und ich schicke die Datei unverschlüsselt per E-Mail. \u003eÖffentliche WLAN-Anbindungen sind im Allgemeinen unverschlüsselt und offen. Sie sind mit dem Internet zu vergleichen. Eine unverschlüsselte Übertragung vertraulicher Daten über öffentliche WLAN-Verbindungen ist deshalb grundsätzlich nicht erlaubt. ",
+    "content": "Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.\nAnleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: '#1C90F3' title_color: black shuffle_questions: false shuffle_answers: true --- ## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen. Wie gehen Sie vor? \u003e Die Nutzung durch fremde Geräte birgt große Gefahren für Ihre Behörde oder Einrichtung. 1. [ ] Sie prüfen, ob der Dienstleister einen aktuelle Virenscanner hat und lassen ihn dann an einen Netzwerk-Anschluss. \u003eNein. Bei den meisten Behörden und Einrichtungen dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt. 2. [x] Sie geben dem Dienstleister keinen Netzwerk-Zugang, da nur einrichtungseigene Notebooks angeschlossen werden dürfen. \u003e**Richtige Antwort** 3. [ ] Sie lassen den Dienstleister an einen Netzwerk-Anschluss, falls er einen Auftrag Ihrer Behörde oder Einrichtung vorzeigt. \u003eNein. Bei den meisten Behörden und Einrichtungen dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt. ## Ihnen ist auf einer Dienstreise ein Smartphone mit dienstlichen Informationen gestohlen worden. Wie verhalten Sie sich? \u003e Ihre Behörde oder Einrichtung muss informiert werden. 1. [ ] Sie rufen Ihre Ansprechperson an und bitten um die Herausgabe des „Recovery Keys“ für das Smartphone. \u003eDas ist leider falsch. Da das ganze Smartphone gestohlen wurde, nützt Ihnen ein „Recovery Key“ gar nichts. 2. [x] Sie informieren unverzüglich Ihre Ansprechperson und Ihre Vorgesetzten über den Verlust des Smartphones. \u003e**Richtige Antwort** 3. [ ] Sie zeigen den Diebstahl bei der Polizei an und kaufen sich ein neues Smartphone. \u003eNein. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihre Behörde oder Einrichtung über den Verlust informiert werden. 4. [ ] Sie sichern alle Spuren und versuchen zunächst, den Dieb aus eigenen Kräften zu überführen. \u003eDas ist nicht ausreichend. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihr Arbeitgeber über den Verlust informiert werden. ## Jemand möchte Ihnen dienstliche Daten auf einem USB-Stick übergeben. Wie verhalten Sie sich? \u003e USB-Sticks sind potenzielle Virenschleudern! 1. [ ] Ich stecke den Stick in meinen Computer und bearbeite die Daten. \u003eFalsch. Falls Ihre USB-Buchsen überhaupt zugänglich sind, können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen. 2. [ ] Ich kopiere die Daten vom USB-Stick auf meinen privaten Laptop und sende sie dann an mein dienstliches E-Mail-Postfach. \u003eNein. Abgesehen davon, dass dienstliche Daten nicht auf privaten Endgeräten verarbeitet werden dürfen, können auf diesem Weg Viren vom USB-Stick in das Netzwerk Ihrer Behörde oder Einrichtung gelangen. 3. [x] Ich bitte die Person, mir die Daten elektronisch per E-Mail zuzusenden oder mir einen Download-Link zu schicken. \u003e**Richtige Antwort** 4. [ ] Ich schaue mir den Stick zunächst auf einem Computer ohne Netzwerkanbindung an, um festzustellen, dass die gewünschten Dateien auch enthalten sind. Erst dann kann der USB-Stick im Zielsystem verwendet werden. \u003eNicht richtig. Falls Ihre USB-Buchsen überhaupt zugänglich sind können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen. ## Sie sitzen mit Ihrer Kollegin bei einem Ortstermin und müssen ihr ein vertrauliches Excel-Dokument als Datei übergeben. Wie gehen Sie vor? \u003e Verschlüsselung ist Trumpf! 1. [ ] Ich lese ihr die Zahlen vor allen laut und deutlich zum Mitschreiben vor. \u003eVertrauliche Daten dürfen nicht so übertragen werden, dass Unbefugte Zugang zu den Informationen bekommen könnten. Das Vorlesen in der Öffentlichkeit gehört ebenfalls dazu. 2. [ ] Da wir beide moderne Laptops mit Bluetooth-Technologie haben, „beame“ ich die Datei direkt zum Notebook der Kollegin. \u003eDie unverschlüsselte Übertragung von Daten über drahtlose Technologien wie WLAN oder Bluetooth ist wegen der Gefahr des Abhörens sehr unsicher und deshalb für interne und vertrauliche Daten verboten. 3. [x] Falls wir beide im gleichen [VPN](/09 lektion mein arbeitsplatz/01-Sicherer-Arbeitsplatz) sind, stelle ich die Datei über ein Gruppenlaufwerk oder eine interne E-Mail bereit. Andernfalls verschlüssele ich die Datei und sende sie per E-Mail an die Kollegin, das Passwort teile ich ihr mündlich mit. \u003e**Richtige Antwort** 4. [ ] Wir verbinden uns beide direkt mit dem WLAN im Café und ich schicke die Datei unverschlüsselt per E-Mail. \u003eÖffentliche WLAN-Anbindungen sind im Allgemeinen unverschlüsselt und offen. Sie sind mit dem Internet zu vergleichen. Eine unverschlüsselte Übertragung vertraulicher Daten über öffentliche WLAN-Verbindungen ist deshalb grundsätzlich nicht erlaubt. ",
     "description": "",
     "tags": null,
     "title": "Quiz - Mobile Geräte",
-    "uri": "/08-lektion-mobile-geraete/90.quiz-mobile-geraete/"
+    "uri": "/08-lektion-mobile-geraete/90-quiz-mobile-geraete/"
   },
   {
     "breadcrumb": "Passwörter",
@@ -685,7 +741,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Passwörter",
-    "uri": "/03-lektion-passwoerter/90.quiz-passwoerter/"
+    "uri": "/03-lektion-passwoerter/90-quiz-passwoerter/"
   },
   {
     "breadcrumb": "Social Media",
@@ -693,7 +749,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Social Media",
-    "uri": "/06-lektion-social-media/90.quiz-social-media/"
+    "uri": "/06-lektion-social-media/90-quiz-social-media/"
   },
   {
     "breadcrumb": "Vertrauliche Daten",
@@ -701,7 +757,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Vertrauliche Daten",
-    "uri": "/05-lektion-vertrauliche-daten/90.quiz-vertrauliche-daten/"
+    "uri": "/05-lektion-vertrauliche-daten/90-quiz-vertrauliche-daten/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -709,7 +765,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - E-Mails",
-    "uri": "/01-lektion-e-mails/90.quiz-e-mails/"
+    "uri": "/01-lektion-e-mails/90-quiz-e-mails/"
   },
   {
     "breadcrumb": "Viren",
@@ -717,7 +773,7 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Quiz - Viren",
-    "uri": "/02-lektion-viren/90.quiz-viren/"
+    "uri": "/02-lektion-viren/90-quiz-viren/"
   },
   {
     "breadcrumb": "",

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KI on TEST BITS | Behörden-IT-Sicherheitstraining</title>
+    <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/</link>
+    <description>Recent content in KI on TEST BITS | Behörden-IT-Sicherheitstraining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 18 Apr 2021 14:18:09 +0200</lastBuildDate>
+    <atom:link href="https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was ist KI?</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/01-was-ist-ki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/01-was-ist-ki/</guid>
+      <description>Künstliche Intelligenz, abgekürzt &amp;ldquo;KI&amp;rdquo; (oder englisch &amp;ldquo;AI&amp;rdquo; für &amp;ldquo;Artificial Intelligence&amp;rdquo;), ist die Fähigkeit eines Computers, menschliche Kompetenzen wie logisches Denken, Lernen, Planen und Kreativität nach zu machen (so das Europäische Parlament auf seiner Homepage).
+Im dienstlichen Alltag kann KI in verschiedenen Bereichen und mit unterschiedlichen Funktionen eingesetzt werden. Am bekanntesten sind Programme, die Texte oder Bilder (bis hin zu Filmen) oder Töne (bis hin zu Liedern mit Gesang) künstlich erzeugen. Ein Beispiel für ein solches Progamm ist ChatGPT.</description>
+    </item>
+    <item>
+      <title>Gefahren von KI I</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/02-gefahren-von-ki-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/02-gefahren-von-ki-i/</guid>
+      <description>Beim Einsatz von KI-Anwendungen besteht zunächst die Gefahr, dass sensible Daten verarbeitet werden und die Verarbeitung unkontrolliert erfolgt.
+Davon betroffen sein können z.B. personenbezogene Daten, aber auch sicherheitsrelevante Daten wie interne Computer-Adressen, aber auch interne Finanzzahlen. Bei der Bedienung von Chat-Bots können Namen und Anschriften, aber auch Gesundheitsdaten mit Personenbezug der KI-Anwendung übergeben werden. Wo die Verarbeitung durch die KI-Anwendung erfolgt, ob die Daten bei der Verarbeitung sicher sind und nicht auch Dritten zugänglich gemacht werden, ist nicht immer garantiert.</description>
+    </item>
+    <item>
+      <title>Gefahren von KI II</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/03-gefahren-von-ki-ii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/03-gefahren-von-ki-ii/</guid>
+      <description>Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen eines Entscheidungsprozesses kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
+Wenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt immer wieder vor, dass z.B. Chat-Bots falsche Angaben machen, die aber plaubsibel erscheinen.</description>
+    </item>
+    <item>
+      <title>Vorsichtsmaßnahmen</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/04-vorsichtsmassnahmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/04-vorsichtsmassnahmen/</guid>
+      <description>Für viele von uns ist der Einsatz von KI-Anwendungen noch ungewohnt. Schnell ist man von der Leistungsfähigkeit, Kreativität und der damit verbundenen Arbeitserleichterung begeistert. Die auf den vorangehenden Seiten dargelegten Gefahren können jedoch ernstzunehmende Schäden in Ihrer Behörde oder Einrichtung verursachen. Daher ist es wichtig, nur die dienstlich angebotenen KI-Anwendungen zu verwenden. Aber auch beim privaten Einsatz von KI-Anwendungen können Fehler passieren, die sich schnell negativ auswirken!
+Daher sollte Sie versuchen, folgende Vorsichtsmaßnahmen zu beherzigen:</description>
+    </item>
+    <item>
+      <title>Zusammenfassung</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/05-zusammenfassung/</link>
+      <pubDate>Wed, 10 Mar 2021 09:24:45 +0000</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/05-zusammenfassung/</guid>
+      <description>Anwendungen, die Künstliche Intelligenz nutzen, sind für viele Einsatzbereiche hilfreich.
+Gleichzeitig bringen sie Gefahren für Ihre Behörde oder Einrichtung mit sich, die zum Teil nur schwer zu beherrschen sind.
+An erster Stelle steht der verantwortungsvolle Einsatz von KI-Anwendungen, der auch in Ihren Händen liegt. Nutzen Sie die Informations- und Bildungsangebote Ihrer Behörde oder Einrichtung, um die Bedeutung dieser Technologie, ihre Anwendungsmöglichkeiten und ihre Grenzen in Ihrem Arbeitsbereich kennenzulernen.
+Beim Einsatz selbst müssen Sie die Vorgaben Ihrer Behörde oder Einrichtung berücksichtigen.</description>
+    </item>
+    <item>
+      <title>Quiz - Künstliche Intelligenz</title>
+      <link>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/90-quiz-kuenstliche-intelligenz/</link>
+      <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
+      <guid>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/90-quiz-kuenstliche-intelligenz/</guid>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
+Anleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Sie haben eine dienstliche Aufgabenstellung und wollen eine Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen.</description>
+    </item>
+  </channel>
+</rss>
