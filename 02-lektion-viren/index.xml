@@ -22,8 +22,8 @@ In der harmlosesten Stufe sind Viren nur lästig oder stiften Verwirrung, z. B. 
       <pubDate>Sat, 06 Mar 2021 09:17:03 +0000</pubDate>
       <guid>https://bits-training.github.io/training/02-lektion-viren/02-typen-von-viren/</guid>
       <description>Häufig wird der englische Oberbegriff „Malware“ („mal“ = „schädigend“) für alle Arten von Computerviren verwendet. Man unterscheidet unterschiedliche Typen von Malware. Klicken Sie weiter auf die jeweilige Virenart, um Genaueres zu erfahren.
-Datei-Viren Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
-Trojanische Pferde „Trojanische Pferde“ oder „Trojaner“ werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z.</description>
+Datei-VirenDatei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
+Trojanische Pferde„Trojanische Pferde“ oder „Trojaner“ werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z.</description>
     </item>
     <item>
       <title>Mögliche Schäden durch Virenbefall</title>
@@ -67,7 +67,7 @@ Der Virenscanner muss so eingestellt sein, dass alle Daten beim Öffnen auf Vire
       <link>https://bits-training.github.io/training/02-lektion-viren/07-virenbefall-was-tun/</link>
       <pubDate>Sat, 06 Mar 2021 09:27:50 +0000</pubDate>
       <guid>https://bits-training.github.io/training/02-lektion-viren/07-virenbefall-was-tun/</guid>
-      <description>Don&amp;rsquo;t panic – Ruhe bewahren ​	Achtung Wenn Sie vermuten, dass sich ein Virus eingeschlichen hat, ist eine schnelle Reaktion gefragt, um größeren Schaden zu vermeiden. Wichtig ist dabei:
+      <description>Don&amp;rsquo;t panic – Ruhe bewahren ​	AchtungWenn Sie vermuten, dass sich ein Virus eingeschlichen hat, ist eine schnelle Reaktion gefragt, um größeren Schaden zu vermeiden. Wichtig ist dabei:
 Geraten Sie nicht in Panik! Computer vom Netzwerk trennen, also Netzwerkkabel ziehen oder drahtlose Verbindung abschalten! Auf keinen Fall eigene Bereinigungsaktionen durchführen! Benachrichtigen Sie Ihre Ansprechperson. Sie kümmert sich um die weiteren Schritte zur Beseitigung des Virus und zur Wiederherstellung betroffener Daten.</description>
     </item>
     <item>
@@ -84,7 +84,7 @@ Monatlich tauchen Millionen neue Viren und Virusvarianten auf. Deshalb kann kein
       <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
       <guid>https://bits-training.github.io/training/02-lektion-viren/90-quiz-viren/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
-Anleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Welcher der folgenden Typen ist KEIN echter Computervirus?</description>
+Anleitung für das Quiz (hier klicken)Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu ---primary_color: &#39;#1C90F3&#39;title_color: blackshuffle_questions: falseshuffle_answers: true---## Welcher der folgenden Typen ist KEIN echter Computervirus?</description>
     </item>
   </channel>
 </rss>

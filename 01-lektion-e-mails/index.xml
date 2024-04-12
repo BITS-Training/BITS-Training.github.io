@@ -81,7 +81,7 @@ Den Inhalt und Anhänge von E-Mails kann man verschlüsseln, so dass Texte, Foto
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bits-training.github.io/training/01-lektion-e-mails/09-dienstliche-und-private-nutzung/</guid>
       <description>In vielen Behörden und Einrichtungen ist die Nutzung der dienstlichen E-Mail-Adresse zum Versand privater E-Mails nicht erlaubt. Dieses Verbot ist rechtlich zulässig und muss von Ihnen beachtet werden. Genaueres regeln Dienstvereinbarungen oder anderen interne Vorgaben.
-Achtung Ist in Ihrer Behörde oder Einrichtung die private Nutzung der dienstlichen E-Mail-Adresse erlaubt?
+AchtungIst in Ihrer Behörde oder Einrichtung die private Nutzung der dienstlichen E-Mail-Adresse erlaubt?
 Wenn nein - verzichten Sie darauf! Wenn ja - nutzen Sie diese nur im angemessenen Umfang und versenden und empfangen Sie allenfalls kleine Dateien!</description>
     </item>
     <item>
@@ -107,7 +107,7 @@ Vergessen Sie niemals, dass auf der anderen Seite auch ein Mensch sitzt.</descri
       <pubDate>Sat, 13 Mar 2021 04:15:44 +0000</pubDate>
       <guid>https://bits-training.github.io/training/01-lektion-e-mails/90-quiz-e-mails/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
-Anleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true shuffle_answers: true --- ## Was sind Computerviren?</description>
+Anleitung für das Quiz (hier klicken)Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu ---primary_color: &#39;#1C90F3&#39;title_color: blackshuffle_questions: falseshuffle_answers: trueshuffle_answers: true---## Was sind Computerviren?</description>
     </item>
   </channel>
 </rss>

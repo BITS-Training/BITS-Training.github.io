@@ -40,7 +40,7 @@ Dabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren.</de
       <pubDate>Tue, 09 Mar 2021 10:13:25 +0000</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/04-technische-webinhalte/</guid>
       <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:
-Cookies waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen.</description>
+Cookieswaren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z.B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen.</description>
     </item>
     <item>
       <title>Schutz vor technischen Webinhalten</title>
@@ -72,7 +72,7 @@ die strafbare bzw. rechtswidrige Inhalte haben, die andere Personen am Arbeitspl
       <pubDate>Tue, 09 Mar 2021 10:14:08 +0000</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/08-internet-richtlinien/</guid>
       <description>Viele Behörden und Einrichtungen legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z.B.
-die private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung. Gut zu wissen Zur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation).</description>
+die private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung. Gut zu wissenZur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation).</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
@@ -88,7 +88,7 @@ Recherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegen
       <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/90-quiz-internet/</guid>
       <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
-Anleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind aktive Webinhalte?</description>
+Anleitung für das Quiz (hier klicken)Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu ---primary_color: &#39;#1C90F3&#39;title_color: blackshuffle_questions: falseshuffle_answers: true---## Was sind aktive Webinhalte?</description>
     </item>
   </channel>
 </rss>
