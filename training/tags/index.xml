@@ -5,6 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
