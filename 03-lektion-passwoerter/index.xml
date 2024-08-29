@@ -6,55 +6,49 @@
     <description>Recent content in Passwörter on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Mar 2021 09:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 14:18:09 +0200</lastBuildDate>
     <atom:link href="https://bits-training.github.io/training/03-lektion-passwoerter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erklärung</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/01-erklaerung/</link>
       <pubDate>Sun, 18 Apr 2021 14:08:04 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/01-erklaerung/</guid>
-      <description>Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.
-Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.
-Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
+      <description>Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.&#xA;Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.&#xA;Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
     </item>
     <item>
       <title>Gefahren</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/02-gefahren/</link>
       <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/02-gefahren/</guid>
-      <description>Ausspionieren von Passwörtern Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?
-Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
+      <description>Ausspionieren von Passwörtern Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?&#xA;Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann. Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen geändert werden müssen. Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!</description>
     </item>
     <item>
       <title>Der richtige Umgang</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/03-der-richtige-umgang/</link>
       <pubDate>Sun, 18 Apr 2021 14:11:28 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/03-der-richtige-umgang/</guid>
-      <description>Passwörter bilden und merken Sie können ein Sprichwort, eine Liedzeile oder einen Begriff in Kombination mit Ziffern und Sonderzeichen verwenden, um daraus ein Passwort zu erstellen. Aus „Siebenmeilenstiefel“ wird zum Beispiel durch die Ersetzung des Wortes Sieben durch die Zahl „7“, Meilen durch die Abkürzung „km“ und die Ersetzung des Buchstabens „i“ durch ein Ausrufezeichen das sichere Passwort 7kmSt!efel.
-Ein Trick, um mehrere sichere Passwörter für verschiedene Anwendungen oder Internetseiten zu besitzen: Bilden Sie wie hier geschildert ein Passwort und stellen Sie diesem bei jeder Anwendung oder Internetseite ein individuelles Kürzel voran, zum Beispiel so:</description>
+      <description>Passwörter bilden und merken Sie können ein Sprichwort, eine Liedzeile oder einen Begriff in Kombination mit Ziffern und Sonderzeichen verwenden, um daraus ein Passwort zu erstellen. Aus „Siebenmeilenstiefel“ wird zum Beispiel durch die Ersetzung des Wortes Sieben durch die Zahl „7“, Meilen durch die Abkürzung „km“ und die Ersetzung des Buchstabens „i“ durch ein Ausrufezeichen das sichere Passwort 7kmSt!efel.&#xA;Ein Trick, um mehrere sichere Passwörter für verschiedene Anwendungen oder Internetseiten zu besitzen: Bilden Sie wie hier geschildert ein Passwort und stellen Sie diesem bei jeder Anwendung oder Internetseite ein individuelles Kürzel voran, zum Beispiel so:</description>
     </item>
     <item>
       <title>Werkzeuge für Passwörter</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/</link>
       <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/</guid>
-      <description>Es gibt Werkzeuge für Passwörter, die Ihnen das Erzeugen und Merken erleichtern oder die Sicherheit erheblich erhöhen. Falls Ihre Behörde oder Einrichtung solche anbietet: nutzen Sie diese! Auch für den privaten Bereich gibt es solche Tools!
-Passwort-Manager Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Smartphones gibt, und die zum Erzeugen und Speichern von sicheren Passwörtern dienen. Voraussetzung ist, dass Sie ein sehr sicheres „Master-Passwort“ verwenden, das den Zugang zum Passwort-Manager selbst freigibt.</description>
+      <description>Es gibt Werkzeuge für Passwörter, die Ihnen das Erzeugen und Merken erleichtern oder die Sicherheit erheblich erhöhen. Falls Ihre Behörde oder Einrichtung solche anbietet: nutzen Sie diese! Auch für den privaten Bereich gibt es solche Tools!&#xA;Passwort-Manager Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Smartphones gibt, und die zum Erzeugen und Speichern von sicheren Passwörtern dienen. Voraussetzung ist, dass Sie ein sehr sicheres „Master-Passwort“ verwenden, das den Zugang zum Passwort-Manager selbst freigibt.</description>
     </item>
     <item>
       <title>Zusammenfassung</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/05-zusammenfassung/</link>
       <pubDate>Sun, 18 Apr 2021 14:15:07 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/05-zusammenfassung/</guid>
-      <description>Wir fassen die wichtigsten Passwort-Regeln zusammen: Sichere, möglichst für jede Anwendung einmalige Passwörter verwenden Mindestens acht Zeichen lang, Buchstaben und Zahlen sowie Groß- und Kleinschreibung verwenden Keine Passwörter aus Wörterbüchern, keine Namen, Geburtsdaten etc. Notieren Sie Ihr Passwort nirgendwo Falls verfügbar, nutzen Sie Passwort-Manager und die Zwei-Faktoren-Authentifzierung (2FA) Geben Sie Ihr Passwort nicht an andere Personen weiter Wenn Sie keine besonders langen Passwörter verwenden, ändern Sie diese regelmäßig Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social Engineering-Angriff?</description>
+      <description>Wir fassen die wichtigsten Passwort-Regeln zusammen: Sichere, möglichst für jede Anwendung einmalige Passwörter verwenden Mindestens zehn Zeichen lang, Buchstaben und Zahlen sowie Groß- und Kleinschreibung verwenden Keine Passwörter aus Wörterbüchern, keine Namen, Geburtsdaten etc. Notieren Sie Ihr Passwort nirgendwo Falls verfügbar, nutzen Sie Passwort-Manager und eine Multifaktor-Authentisierung (MFA) Geben Sie Ihr Passwort nicht an andere Personen weiter Wenn Sie keine besonders langen Passwörter verwenden, ändern Sie diese regelmäßig Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social Engineering-Angriff?</description>
     </item>
     <item>
       <title>Quiz - Passwörter</title>
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/90-quiz-passwoerter/</link>
       <pubDate>Sun, 18 Apr 2021 14:18:09 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/90-quiz-passwoerter/</guid>
-      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
-Anleitung für das Quiz (hier klicken)Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu ---primary_color: &#39;#1C90F3&#39;title_color: blackshuffle_questions: falseshuffle_answers: true---## Womit ist ein Passwort zu vergleichen?</description>
+      <description>Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.&#xA;Anleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: &#39;#1C90F3&#39; title_color: black shuffle_questions: false shuffle_answers: true --- ## Womit ist ein Passwort zu vergleichen?</description>
     </item>
   </channel>
 </rss>

@@ -114,7 +114,7 @@ function initLunrJson() {
     // this does not work if pages are served via
     // file:// protocol; this is only left for
     // backward compatiblity if the user did not
-    // define the SEARCH output format for the homepage
+    // define the `search` output format for the homepage
     if( window.index_json_url && !window.index_js_url ){
         xhr = new XMLHttpRequest;
         xhr.onreadystatechange = function(){
@@ -217,7 +217,7 @@ function searchDetail( value ) {
             divsuggestion.className = 'autocomplete-suggestion';
             divsuggestion.setAttribute('data-term', value);
             divsuggestion.setAttribute('data-title', page.title);
-            divsuggestion.setAttribute('href', baseUri + page.uri);
+            divsuggestion.setAttribute('href', window.relearn.relBaseUri + page.uri);
             divsuggestion.setAttribute('data-context', context);
             var divtitle = document.createElement('div');
             divtitle.className = 'title';
@@ -271,7 +271,7 @@ function startSearch(){
 
     var searchList = new autoComplete({
         /* selector for the search box element */
-        selectorToInsert: '#R-header-wrapper',
+        selectorToInsert: 'search:has(.searchbox)',
         selector: '#R-search-by',
         /* source is the callback to perform the search */
         source: function(term, response) {
@@ -289,7 +289,7 @@ function startSearch(){
             divsuggestion.className = 'autocomplete-suggestion';
             divsuggestion.setAttribute('data-term', term);
             divsuggestion.setAttribute('data-title', page.title);
-            divsuggestion.setAttribute('data-uri', baseUri + page.uri);
+            divsuggestion.setAttribute('data-uri', window.relearn.relBaseUri + page.uri);
             divsuggestion.setAttribute('data-context', context);
             var divtitle = document.createElement('div');
             divtitle.className = 'title';

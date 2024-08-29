@@ -3,18 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <meta name="generator" content="Hugo 0.120.3">
-    <meta name="generator" content="Relearn 5.23.2">
+    <meta name="generator" content="Hugo 0.133.1">
+    <meta name="generator" content="Relearn 5.27.0">
     <meta name="description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
     <meta name="author" content="Dr. Lutz Gollan">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="404 Page not found :: TEST BITS | Behörden-IT-Sicherheitstraining">
     <meta name="twitter:description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
-    <meta property="og:title" content="404 Page not found :: TEST BITS | Behörden-IT-Sicherheitstraining">
-    <meta property="og:description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
-    <meta property="og:type" content="website">
     <meta property="og:url" content="https://bits-training.github.io/training/404.html">
     <meta property="og:site_name" content="TEST BITS | Behörden-IT-Sicherheitstraining">
+    <meta property="og:title" content="404 Page not found :: TEST BITS | Behörden-IT-Sicherheitstraining">
+    <meta property="og:description" content="BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.">
+    <meta property="og:locale" content="de">
+    <meta property="og:type" content="website">
     <title>404 Page not found :: TEST BITS | Behörden-IT-Sicherheitstraining</title>
     <base href="https://bits-training.github.io/training/">
     <link href="./images/favicon.png" rel="icon" type="image/png">
@@ -25,30 +26,31 @@
     <link href="./css/perfect-scrollbar.min.css" rel="stylesheet">
     <link href="./css/fonts.css" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="./css/fonts.css" rel="stylesheet"></noscript>
     <link href="./css/theme.css" rel="stylesheet">
-    <link href="./css/theme-normal.css" rel="stylesheet" id="R-variant-style">
+    <link href="./css/theme-auto.css" rel="stylesheet" id="R-variant-style">
+    <link href="./css/chroma-auto.css" rel="stylesheet" id="R-variant-chroma-style">
     <link href="./css/variant.css" rel="stylesheet">
     <link href="./css/print.css" rel="stylesheet" media="print">
     <link href="./css/ie.css" rel="stylesheet">
     <script src="./js/url.js"></script>
     <script src="./js/variant.js"></script>
     <script>
-      // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
-      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='.';
+      window.relearn.relBaseUri='.';
+      window.relearn.absBaseUri='https:\/\/bits-training.github.io\/training';
       window.index_js_url="./index.search.js";
-      var root_url="./";
-      var baseUri=root_url.replace(/\/$/, '');
+      // variant stuff
+      window.relearn.themeVariantModifier='';
+      window.variants && variants.init( [ 'auto', 'normal', 'dark-mode', 'high-contrast' ] );
       // translations
-      window.T_Copy_to_clipboard = 'In Zwischenablage kopieren';
-      window.T_Copied_to_clipboard = 'In Zwischenablage kopiert!';
-      window.T_Copy_link_to_clipboard = 'Link in Zwischenablage kopieren';
-      window.T_Link_copied_to_clipboard = 'Link in Zwischenablage kopiert!';
-      window.T_Reset_view = 'Ansicht zurücksetzen';
-      window.T_View_reset = 'Ansicht zurückgesetzt!';
-      window.T_No_results_found = 'Keine Ergebnisse gefunden für \u0022{0}\u0022';
-      window.T_N_results_found = '{1} Ergebnisse gefunden für \u0022{0}\u0022';
-      // some further base stuff
-      var baseUriFull='https:\/\/bits-training.github.io\/training/';
-      window.variants && variants.init( [ 'normal', 'dark-mode', 'high-contrast' ] );
+      window.T_Copy_to_clipboard = `In Zwischenablage kopieren`;
+      window.T_Copied_to_clipboard = `In Zwischenablage kopiert!`;
+      window.T_Copy_link_to_clipboard = `Link in Zwischenablage kopieren`;
+      window.T_Link_copied_to_clipboard = `Link in Zwischenablage kopiert!`;
+      window.T_Reset_view = `Ansicht zurücksetzen`;
+      window.T_View_reset = `Ansicht zurückgesetzt!`;
+      window.T_No_results_found = `Keine Ergebnisse gefunden für "{0}"`;
+      window.T_N_results_found = `{1} Ergebnisse gefunden für "{0}"`;
     </script>
     <style>
       p {
@@ -93,8 +95,12 @@
         width: 15rem;
       }
     </style>
-	<meta name="date" content="12 Apr 24 09:57 CEST">
+	<meta name="date" content="29 Aug 24 20:27 UTC">
 
+	<link rel="apple-touch-icon" sizes="180x180" href=./images/apple-touch-icon.png>
+	<link rel="icon" type="image/png" sizes="32x32" href=./images/favicon-32x32.png>
+	<link rel="icon" type="image/png" sizes="16x16" href=./images/favicon-16x16.png>
+	<link rel="manifest" href=./images/site.webmanifest>
   </head>
   <body class="mobile-support html notfound" data-url="./404.html">
     <div id="R-body" class="default-animation">

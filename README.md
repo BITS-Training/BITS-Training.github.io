@@ -1,7 +1,7 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 08.12.2023
+Stand: 01.07.2024
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
@@ -20,7 +20,7 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen angeboten: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick) (Dateiname \*fileshare\*). Die Versionen werden auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys veröffentlicht. Die Fileserver-Version unterstützt nicht die integrierte Suche.
+BITS wird in zwei Versionen angeboten: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick) (Dateiname \*fileshare\*). Die Versionen werden auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys veröffentlicht.
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
@@ -62,7 +62,7 @@ Es besteht die Möglichkeit, dass bei den Quizzes am Ende der Lektionen bei Ankl
 
 Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text-Editor geöffnet werden. Dort ist dann bei der jeweiligen Zeile "Richtige Antwort" der gewünschte Lösungsbuchstaben (ggf. auch ein Sonderzeichen wie Unterstrich oder Komma) zu hinterlegen, also z.B. "Richtige Antwort. Notieren Sie sich den Lösungsbuchstaben **B**".
 
-Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 34 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes. Diesen könnten dann die Nutzer:innen im Rahmen einer Awareness-Kampagne per E-Mail einsenden um einer Verlosung, z.B. von Kino-Gutscheinen, teilzunehmen.
+Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 37 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes. Diesen könnten dann die Nutzer:innen im Rahmen einer Awareness-Kampagne per E-Mail einsenden um einer Verlosung, z.B. von Kino-Gutscheinen, teilzunehmen.
 
 ## 7. BITS-Portal
 
