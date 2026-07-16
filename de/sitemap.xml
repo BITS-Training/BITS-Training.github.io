@@ -88,7 +88,13 @@
     <lastmod>2021-03-06T09:10:22+00:00</lastmod>
   </url>
   <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/01-ueberblick/</loc>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/01-was-ist-ki/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/03-lektion-passwoerter/02-gefahren/</loc>
@@ -131,6 +137,9 @@
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/02-bsi-gesetz/</loc>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/02-gefahren-von-ki-i/</loc>
   </url>
   <url>
@@ -169,14 +178,16 @@
     <lastmod>2021-03-06T09:10:56+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/mehr/herausgeber-und-lizenz/</loc>
-    <lastmod>2020-07-21T15:32:09+02:00</lastmod>
-  </url>
-  <url>
     <loc>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/03-gefahren-von-ki-ii/</loc>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/</loc>
+    <loc>https://bits-training.github.io/training/mehr/herausgeber-und-lizenz/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/03-nis-2-richtlinie/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/03-lektion-passwoerter/04-passwortmanager/</loc>
     <lastmod>2021-04-18T14:13:26+02:00</lastmod>
   </url>
   <url>
@@ -200,7 +211,7 @@
     <lastmod>2021-03-09T10:18:06+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/04-lektion-internet/04-technische-webinhalte/</loc>
+    <loc>https://bits-training.github.io/training/04-lektion-internet/04-aktive-webinhalte/</loc>
     <lastmod>2021-03-09T10:13:25+00:00</lastmod>
   </url>
   <url>
@@ -209,6 +220,9 @@
   </url>
   <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/04-computerviren/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/04-umsetzung-laender/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/10-lektion-kuenstliche-intelligenz/04-vorsichtsmassnahmen/</loc>
@@ -254,6 +268,9 @@
     <lastmod>2020-07-21T15:25:02+02:00</lastmod>
   </url>
   <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/05-kritis-dachgesetz/</loc>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/06-messenger/</loc>
     <lastmod>2021-03-10T09:24:45+00:00</lastmod>
   </url>
@@ -278,6 +295,9 @@
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/06-it-grundschutz/</loc>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/06-fehlgeleitete-informationen/</loc>
   </url>
   <url>
@@ -293,7 +313,7 @@
     <lastmod>2021-03-09T10:18:52+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/04-lektion-internet/07-blocken-unerwuenschter-seiten/</loc>
+    <loc>https://bits-training.github.io/training/04-lektion-internet/07-sperren-unerwuenschter-webseiten/</loc>
     <lastmod>2021-03-09T10:14:03+00:00</lastmod>
   </url>
   <url>
@@ -302,6 +322,9 @@
   </url>
   <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/07-erste-hilfe/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/07-grundschutz-profile-b3s/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/08-lektion-mobile-geraete/08-mobile-datentraeger/</loc>
@@ -321,6 +344,9 @@
   </url>
   <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/08-vertrauliche-informationen/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/08-zusammenfassung/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/08-lektion-mobile-geraete/09-zusammenfassung/</loc>
@@ -378,6 +404,9 @@
   <url>
     <loc>https://bits-training.github.io/training/02-lektion-viren/90-quiz-viren/</loc>
     <lastmod>2021-03-13T04:15:44+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/90-quiz-gesetzliche-grundlagen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/ansprechpersonen/</loc>

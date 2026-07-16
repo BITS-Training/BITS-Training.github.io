@@ -13,7 +13,7 @@
       <link>https://bits-training.github.io/training/03-lektion-passwoerter/01-erklaerung/</link>
       <pubDate>Sun, 18 Apr 2021 14:08:04 +0200</pubDate>
       <guid>https://bits-training.github.io/training/03-lektion-passwoerter/01-erklaerung/</guid>
-      <description>Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.&#xA;Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.&#xA;Wo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
+      <description>Was sind Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.&#xA;Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.&#xA;Warum Passwörter wichtig sind Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.</description>
     </item>
     <item>
       <title>Gefahren</title>
@@ -30,10 +30,10 @@
       <description>Passwörter bilden und merken Sie können ein Sprichwort, eine Liedzeile oder einen Begriff in Kombination mit Ziffern und Sonderzeichen verwenden, um daraus ein Passwort zu erstellen. Aus „Siebenmeilenstiefel“ wird zum Beispiel durch die Ersetzung des Wortes Sieben durch die Zahl „7“, Meilen durch die Abkürzung „km“ und die Ersetzung des Buchstabens „i“ durch ein Ausrufezeichen das sichere Passwort 7kmSt!efel.&#xA;Ein Trick, um mehrere sichere Passwörter für verschiedene Anwendungen oder Internetseiten zu besitzen: Bilden Sie wie hier geschildert ein Passwort und stellen Sie diesem bei jeder Anwendung oder Internetseite ein individuelles Kürzel voran, zum Beispiel so:</description>
     </item>
     <item>
-      <title>Werkzeuge für Passwörter</title>
-      <link>https://bits-training.github.io/training/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/</link>
+      <title>Passwortmanager</title>
+      <link>https://bits-training.github.io/training/03-lektion-passwoerter/04-passwortmanager/</link>
       <pubDate>Sun, 18 Apr 2021 14:13:26 +0200</pubDate>
-      <guid>https://bits-training.github.io/training/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/</guid>
+      <guid>https://bits-training.github.io/training/03-lektion-passwoerter/04-passwortmanager/</guid>
       <description>Es gibt Werkzeuge für Passwörter, die Ihnen das Erzeugen und Merken erleichtern oder die Sicherheit erheblich erhöhen. Falls Ihre Behörde oder Einrichtung solche anbietet: nutzen Sie diese! Auch für den privaten Bereich gibt es solche Tools!&#xA;Passwort-Manager Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Smartphones gibt, und die zum Erzeugen und Speichern von sicheren Passwörtern dienen. Voraussetzung ist, dass Sie ein sehr sicheres „Master-Passwort“ verwenden, das den Zugang zum Passwort-Manager selbst freigibt.</description>
     </item>
     <item>

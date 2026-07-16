@@ -9,7 +9,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Sicherer Umgang mit elektronischer Post In dieser Lektion lernen Sie,\nwarum ein falscher Umgang mit E-Mails eine Gefahr für Sie und Ihre Behörde oder Einrichtung darstellt, wie man auf fehlgeleitete Informationen und Anfragen richtig reagiert, was Phishing und Pharming bedeuten und warum beide so gefährlich sind, was Spam-E-Mails sind und wie mit ihnen umzugehen ist, wie vertrauliche Informationen zu behandeln sind und was E-Mail-Verschlüsselung ist, und wie man E-Mails angemessen schreibt - „Netiquette“ ",
+    "content": "Sicherer Umgang mit elektronischer Post In dieser Lektion lernen Sie,\nwarum ein unsachgemäßer Umgang mit E-Mails eine Gefahr für Sie und Ihre Behörde oder Einrichtung darstellt, wie man auf fehlgeleitete Informationen und Anfragen richtig reagiert, was Phishing und Pharming bedeuten und warum beide so gefährlich sind, was Spam-E-Mails sind und wie mit ihnen umzugehen ist, wie vertrauliche Informationen zu behandeln sind und was E-Mail-Verschlüsselung ist, und wie man E-Mails angemessen schreibt - „Netiquette“ ",
     "description": "",
     "tags": null,
     "title": "E-Mails",
@@ -17,7 +17,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Schutz vor schadhaften Programmen In dieser Lektion lernen Sie,\nwas ein Computervirus ist und welche Typen von Viren existieren, welche Infektionswege es gibt, welche Risiken bestehen und welche Schäden entstehen können, wie Sie Ihren Computer und Ihre Behörde oder Einrichtung vor Viren schützen können, wie Sie einen Virenbefall erkennen und was Sie tun sollten, falls „es“ doch passiert ist ",
+    "content": "Schutz vor schadhaften Programmen In dieser Lektion lernen Sie,\nwas ein Computervirus ist und welche Typen von Viren existieren, welche Infektionswege es gibt, welche Risiken bestehen und welche Schäden entstehen können, wie Sie Ihren Computer und Ihre Behörde oder Einrichtung vor Viren schützen können, wie Sie einen Virenbefall erkennen und und wie Sie bei einem Virenbefall richtig reagieren. ",
     "description": "",
     "tags": null,
     "title": "Viren",
@@ -25,7 +25,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Ihr Schlüssel zu Daten und Systemen In dieser Lektion lernen Sie,\nwarum Passwörter sinnvoll und notwendig sind und wo sie verwendet werden, wie Sie ein sicheres Passwort erstellen können, wie Passwörter ausspioniert werden, wie Sie sicher mit Ihren Passwörtern umgehen und sie vor Missbrauch schützen können, welche Passwort-Regeln beachtet werden sollten und was man unter „Social Engineering“ versteht und wie man sich davor schützt. ",
+    "content": "Ihr Schlüssel zum sicheren Zugriff auf Daten und Systeme In dieser Lektion lernen Sie,\nwarum Passwörter sinnvoll und notwendig sind und wo sie verwendet werden, wie Sie ein sicheres Passwort erstellen können, wie Passwörter ausspioniert werden, wie Sie Passwörter sicher verwenden und vor Missbrauch schützen, welche Passwort-Regeln beachtet werden sollten und was unter „Social Engineering“ zu verstehen ist und wie Sie sich davor schützen können. ",
     "description": "",
     "tags": null,
     "title": "Passwörter",
@@ -33,15 +33,15 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Sicherheit im weltweiten Datennetz In dieser Lektion lernen Sie,\nwas der Zugang zum Internet bedeutet, welche Gefahren im Internet lauern und wie Sie diese erkennen, wie Sie sicher im Internet surfen können und welche allgemeinen Regeln Sie bei der Internetnutzung beachten sollten. ",
+    "content": "Sicherheit im weltweiten Datennetz In dieser Lektion lernen Sie,\nwas der Zugang zum Internet bedeutet, welche Gefahren im Internet bestehen und wie Sie diese erkennen, wie Sie sicher im Internet surfen können und welche allgemeinen Regeln Sie bei der Internetnutzung beachten sollten. ",
     "description": "",
     "tags": null,
-    "title": "Surfen im Internet",
+    "title": "Sicherim Internet",
     "uri": "/04-lektion-internet/"
   },
   {
     "breadcrumb": "",
-    "content": "Daten, die einen besonderen Schutz benötigen In dieser Lektion lernen Sie,\nwie wichtig es für Sie und Ihre Behörde oder Einrichtung ist, dass alle mit vertraulichen Daten richtig umzugehen wissen, wie Sie feststellen können, welche Daten als schützenswert gelten, wie Sie sicher mit vertraulichen Daten umgehen, wer Sie bei Fragen und Problemen zum Thema Vertraulichkeit unterstützen kann. ",
+    "content": "Daten mit (besonderem) Schutzbedarf In dieser Lektion lernen Sie,\nwie wichtig es für Sie und Ihre Behörde oder Einrichtung ist, dass alle mit vertraulichen Daten sorgfältig arbeiten, wie Sie feststellen können, welche Daten als schützenswert gelten, wie Sie sicher mit vertraulichen Daten umgehen, wer Sie bei Fragen und Problemen zum Thema Vertraulichkeit unterstützen kann. ",
     "description": "",
     "tags": null,
     "title": "Vertrauliche Daten",
@@ -57,7 +57,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Fremde Rechner für sich nutzen In dieser Lektion lernen Sie,\nwas man unter Cloud-Diensten versteht, welche Cloud-Dienste es gibt, wie sich öffentliche und private Cloud-Dienste unterscheiden und wie Sie Cloud-Dienste sicher nutzen können. ",
+    "content": "Dienste aus der Cloud sicher nutzen In dieser Lektion lernen Sie,\nwas Cloud-Dienste sind, welche Arten von Cloud-Diensten es gibt, wie sich öffentliche und private Cloud-Dienste unterscheiden und wie Sie Cloud-Dienste sicher nutzen können. ",
     "description": "",
     "tags": null,
     "title": "Cloud",
@@ -65,7 +65,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Sicherheitshinweise für mobile Geräte In dieser Lektion lernen Sie,\nwelche Geräte unter dem Begriff „mobile Geräte“ zusammengefasst werden, welchen besonderen Gefahren und Risiken mobile Geräte ausgesetzt sind, welche Gefahren drahtlose Kommunikationsnetze mit sich bringen und welche Sicherheitsregeln im Zusammenhang mit mobilen Geräten und WLAN beachtet werden sollten ",
+    "content": "Sicherheitshinweise für mobile Geräte In dieser Lektion lernen Sie,\nwelche Geräte zu „mobilen Geräten“ zählen, welchen Risiken mobile Geräte ausgesetzt sind, welche Gefahren drahtlose Kommunikationsnetze mit sich bringen und welche Sicherheitsregeln im Zusammenhang mit mobilen Geräten und WLAN beachtet werden sollten ",
     "description": "",
     "tags": null,
     "title": "Mobile Geräte",
@@ -73,7 +73,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Ihr Einfluss auf die IT-Sicherheit Diese Lektion fasst zusammen,\nwelche Gefahren an Ihrem Arbeitsplatz (im Büro, unterwegs oder im Home Office) hinsichtlich der IT-Sicherheit bestehen, welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können, wie Sie sich in einem Schadensfall verhalten sollten. Achtung Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen. Arbeiten Sie daher umsichtig und sorgfältig! Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst! Wenden Sie sich Zweifelsfall an Ihre Ansprechperson! ",
+    "content": "Ihr Einfluss auf die IT-Sicherheit Diese Lektion fasst zusammen,\nwelchen Gefahren Sie an Ihrem Arbeitsplatz – im Büro, unterwegs oder im Homeoffice – begegnen können, welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können, wie Sie sich in einem Schadensfall verhalten sollten. Achtung Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen. Arbeiten Sie daher umsichtig und sorgfältig! Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst! Wenden Sie sich im Zweifelsfall an Ihre Ansprechperson! ",
     "description": "",
     "tags": null,
     "title": "Mein Arbeitsplatz",
@@ -81,7 +81,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Künstliche Intelligenz Diese Lektion erläutert,\nwas Künstliche Intelligenz (KI) ist, welche Gefahren von ihr ausgehen, wie Sie sich, Ihre Behörde oder Einrichtung und die von Ihnen verarbeiteten Informationen vor diesen Gefahren schützen können. ",
+    "content": "Künstliche Intelligenz Diese Lektion erläutert,\nwas Künstliche Intelligenz (KI) ist, welche Risiken mit dem Einsatz von KI verbunden sind, wie Sie KI sicher einsetzen und dabei sich selbst, Ihre Behörde oder Einrichtung sowie vertrauliche Informationen schützen können. ",
     "description": "",
     "tags": null,
     "title": "KI",
@@ -89,7 +89,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Passwörter",
-    "content": "Warum Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.\nSie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.\nWo werden Passwörter verwendet? Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.\nAuch der Zugang zu einzelnen Programmen wird häufig durch Passwörter geschützt. Zum Beispiel können nur Sie mit Ihrem Anmeldenamen und Ihrem Passwort Ihre E-Mails lesen.\nWie sieht ein sicheres Passwort aus? Der Name Ihres Lebenspartners oder Ihrer Lebenspartnerin, Ihr Autokennzeichen, Ihr Geburtsdatum oder Ihre Telefonnummer stellen keine guten Passwörter dar. Sie könnten leicht erraten oder abgeleitet werden. Auch Fremdwörter oder Wörter einer anderen Sprache sind keine gute Wahl, da diese mit automatisierten Verfahren über Wörterbuch- oder Brute-Force-Angriffe durch Erraten geknackt werden können.\nEin sicheres Passwort ist mindestens zehn Zeichen lang und besteht aus einer Kombination von großen und kleinen Buchstaben, Zahlen und Sonderzeichen wie z. B. Ausrufezeichen oder Fragezeichen. Außerdem sollten keine Buchstaben genutzt werden, die auf der Tastatur direkt nebeneinander liegen. Idealerweise sollte das Passwort einmalig sein.\nIn den meisten Behörden und Einrichtungen müssen Passwörter regelmäßig geändert werden, wobei die zuletzt gewählten Passwörter nicht wiederverwendet werden dürfen.\nPasskeys - das Ende von Passwörtern? Über eine Sicherheitstechnologie namens „Passkeys“ sollen nach und nach Passwörter ersetzt werden. Bei Passkeys werden auf den Endgeräten der Nutzenden die Authentifizierungsinformationen so hinterlegt, dass sie nur über eine PIN, den Fingerabdruck oder einen Gesichtsscan der Berechtigten und auch nur für eine bestimmte Internetseite oder einen bestimmte Anwendung genutzt werden können. Mittelfristig dürfte dies zumindest bei der Anmeldung bei Internetseiten die Nutzung von Passwörtern überflüssig machen.\n",
+    "content": "Was sind Passwörter? Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.\nSie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.\nWarum Passwörter wichtig sind Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.\nAuch der Zugang zu einzelnen Programmen wird häufig durch Passwörter geschützt. Zum Beispiel können nur Sie mit Ihrem Anmeldenamen und Ihrem Passwort Ihre E-Mails lesen.\nWie sieht ein sicheres Passwort aus? Der Name Ihres Lebenspartners oder Ihrer Lebenspartnerin, Ihr Autokennzeichen, Ihr Geburtsdatum oder Ihre Telefonnummer stellen keine guten Passwörter dar. Sie könnten leicht erraten oder abgeleitet werden. Auch Fremdwörter oder Wörter einer anderen Sprache sind keine gute Wahl, da diese mit automatisierten Verfahren über Wörterbuch- oder Brute-Force-Angriffe durch Erraten geknackt werden können.\nEin sicheres Passwort ist mindestens zehn Zeichen lang und besteht aus einer Kombination von großen und kleinen Buchstaben, Zahlen und Sonderzeichen wie z. B. Ausrufezeichen oder Fragezeichen. Außerdem sollten keine Buchstaben genutzt werden, die auf der Tastatur direkt nebeneinander liegen. Idealerweise sollte das Passwort einmalig sein.\nIn den meisten Behörden und Einrichtungen müssen Passwörter regelmäßig geändert werden, wobei die zuletzt gewählten Passwörter nicht wiederverwendet werden dürfen.\nPasskeys - das Ende von Passwörtern? Über eine Sicherheitstechnologie namens „Passkeys“ sollen nach und nach Passwörter ersetzt werden. Bei Passkeys werden auf den Endgeräten der Nutzenden die Authentifizierungsinformationen so hinterlegt, dass sie nur über eine PIN, den Fingerabdruck oder einen Gesichtsscan der Berechtigten und auch nur für eine bestimmte Internetseite oder einen bestimmte Anwendung genutzt werden können. Mittelfristig dürfte dies zumindest bei der Anmeldung bei Internetseiten die Nutzung von Passwörtern überflüssig machen.\n",
     "description": "",
     "tags": null,
     "title": "Erklärung",
@@ -97,7 +97,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
-    "content": "Der Schutz von Informationen der durch Ihre Behörde oder Einrichtung verarbeiteten Daten ist Aufgabe aller Beschäftigten. Durch falsches Verhalten können nicht nur die Daten in Ihrem Geschäftsbereich, sondern auch die Ihrer Kolleginnen und Kollegen gefährdet werden.\nBitte sorgen Sie auch für eine sichere Arbeitsumgebung, egal ob im Büro, Home Office oder unterwegs:\nVerhindern Sie, dass Dritte, dazu zählen auch Familienangehörige, Daten und Akten einsehen können Verwenden Sie bestenfalls ein Netzwerkkabel oder aber ein sicheres, verschlüsseltes WLAN (Hinweise hierzu in der Lektion Mobile Geräte Verwenden Sie, falls dienstlich gestellt, das Programm für den Aufbau eines Virtuellen Privaten Netzwerks (VPN) (siehe unten) Bei Video- oder Telefonkonferenzen darf keine unberechtigte Person mithören. Verwenden Sie z. B. einen Kopfhörer mit Mikrofon und schalten Sie private Sprachassistenzsysteme („Smart Speaker“, „Smart Watch“), die im Raum mithören, aus. Gut zu wissen Alle sind am Arbeitsplatz für die Informationssicherheit mit verantwortlich! Virtuelle Private Netzwerke (VPN) und die Einwahlprogramme dafür werden regelmäßig von Ihrem Arbeitgeber zur sicheren Online-Kommunikation bereitgestellt. Sie stellen eine sichere Verbindung Ihres (meist mobilen) Endgeräts zu Ihrem dienstlichen Netz über das grundsätzlich unsichere Internet her. ",
+    "content": "Der Schutz von Informationen der durch Ihre Behörde oder Einrichtung verarbeiteten Daten ist Aufgabe aller Beschäftigten. Durch falsches Verhalten können nicht nur die Daten in Ihrem Geschäftsbereich, sondern auch die Ihrer Kolleginnen und Kollegen gefährdet werden.\nBitte sorgen Sie auch für eine sichere Arbeitsumgebung, egal ob im Büro, Homeoffice oder unterwegs:\nVerhindern Sie, dass Dritte, dazu zählen auch Familienangehörige, Daten und Akten einsehen können Verwenden Sie bestenfalls ein Netzwerkkabel oder aber ein sicheres, verschlüsseltes WLAN (Hinweise hierzu in der Lektion Mobile Geräte Verwenden Sie, falls dienstlich gestellt, das Programm für den Aufbau eines Virtuellen Privaten Netzwerks (VPN) (siehe unten) Bei Video- oder Telefonkonferenzen darf keine unberechtigte Person mithören. Verwenden Sie z. B. einen Kopfhörer mit Mikrofon und schalten Sie private Sprachassistenzsysteme („Smart Speaker“, „Smart Watch“), die im Raum mithören, aus. Gut zu wissen Alle sind am Arbeitsplatz für die Informationssicherheit mit verantwortlich! Virtuelle Private Netzwerke (VPN) und die Einwahlprogramme dafür werden regelmäßig von Ihrem Arbeitgeber zur sicheren Online-Kommunikation bereitgestellt. Sie stellen eine sichere Verbindung Ihres (meist mobilen) Endgeräts zu Ihrem dienstlichen Netz über das grundsätzlich unsichere Internet her. ",
     "description": "",
     "tags": null,
     "title": "Sicherer Arbeitsplatz",
@@ -136,8 +136,8 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/01-vertrauliche-daten/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
-    "content": "Das Internet ist ein weltumspannendes Netz von Millionen von Rechnersystemen. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.\nEine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.\nDas Internet ist ein schnelles, effizientes und effektives Informations- und Kommunikationsmedium für Privatpersonen, Unternehmen und Verwaltungen.\nDabei ist es vielfältig nutzbar: als schneller Informationslieferant, als Transportmedium für E-Mails, für den Datenaustausch zwischen Dienststellen und Geschäftspartnern und vieles mehr. Der wichtigste Bestandteil des Internets ist das World Wide Web (WWW), durch das man mit einem Webbrowser „surft“.\nGeschichte des Internets Das Internet gibt es in seiner Urform seit den 70er Jahren des letzten Jahrhunderts. Damals verband es – nach der ursprünglichen Gründung durch das US-Verteidigungsministerium – unter dem Namen ARPANET Universitäten und Forschungseinrichtungen. Über die nächsten Jahrzehnte erfuhr es eine umfassende Erweiterung und eine Standardisierung.\nEiner breiten Öffentlichkeit wurde das Internet 1993 durch den Dienst „World Wide Web“ oder kurz „WWW“ zugänglich. Das WWW ermöglicht das einfache Bereitstellen und Verlinken von Informationen über die bekannten Internetseiten.\nTechnischer Aufbau des World Wide Webs Im World Wide Web (WWW) werden Daten und Informationen auf sogenannten Web-Servern bereitgestellt, die dann von beliebigen Endgeräten vom Internet aus abgefragt werden können. Zur Abfrage wird lediglich ein geeignetes Anzeige-Programm, ein sogenannter Web-Browser, benötigt. Die bekanntesten Web-Browser sind z. B. Chrome, Firefox, Safari sowie Microsoft Edge.\nDie Informationen im WWW werden in einem besonderen Format auf den Web-Servern abgespeichert. Die dazu verwendete Sprache heißt HTML (Hyper Text Markup Language). Die HTML-Seiten auf den Web-Servern werden von den Web-Browsern abgerufen und grafisch dargestellt.\nDazu werden die Protokolle HTTP und HTTPS verwendet. HTTP steht dabei für „Hyper Text Transfer Protocol“. Das „S“ in HTTPS steht für „Secure“ und bedeutet, dass die Inhalte dieser Seite verschlüsselt übertragen werden, also bei der Übertragung nicht mitlesbar sind. Dies ist z. B. beim Online-Banking sehr wichtig.\nNeben dem WWW sind Messaging-Apps, Streamingdienste, Spiele und E-Mails die wichtigsten Dienste im Internet.\nGut zu wissen Geschätzte Anzahl Homepages:\n2000: 8,4 Mio. 2010: 89 Mio. 2020: 191 Mio. 2024: 193 Mio. Quelle: Web Server Survey - Netcraft Ltd.\n",
+    "breadcrumb": "Sicherim Internet",
+    "content": "Das Internet ist ein weltweites Netzwerk, über das Computer und andere Geräte miteinander kommunizieren. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.\nEine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.\nDas Internet ist ein schnelles, effizientes und effektives Informations- und Kommunikationsmedium für Privatpersonen, Unternehmen und Verwaltungen.\nDabei ist es vielfältig nutzbar: als schneller Informationslieferant, als Transportmedium für E-Mails, für den Datenaustausch zwischen Dienststellen und Geschäftspartnern und vieles mehr. Der wichtigste Bestandteil des Internets ist das World Wide Web (WWW), durch das man mit einem Webbrowser „surft“.\nGeschichte des Internets Das Internet gibt es in seiner Urform seit den 70er Jahren des letzten Jahrhunderts. Damals verband es – nach der ursprünglichen Gründung durch das US-Verteidigungsministerium – unter dem Namen ARPANET Universitäten und Forschungseinrichtungen. Über die nächsten Jahrzehnte erfuhr es eine umfassende Erweiterung und eine Standardisierung.\nEiner breiten Öffentlichkeit wurde das Internet 1993 durch den Dienst „World Wide Web“ oder kurz „WWW“ zugänglich. Das WWW ermöglicht das einfache Bereitstellen und Verlinken von Informationen über die bekannten Internetseiten.\nTechnischer Aufbau des World Wide Webs Im World Wide Web (WWW) werden Daten und Informationen auf sogenannten Web-Servern bereitgestellt, die dann von beliebigen Endgeräten vom Internet aus abgefragt werden können. Zur Abfrage wird lediglich ein geeignetes Anzeige-Programm, ein sogenannter Web-Browser, benötigt. Die bekanntesten Web-Browser sind z. B. Chrome, Firefox, Safari sowie Microsoft Edge.\nDie Informationen im WWW werden in einem besonderen Format auf den Web-Servern abgespeichert. Die dazu verwendete Sprache heißt HTML (Hyper Text Markup Language). Die HTML-Seiten auf den Web-Servern werden von den Web-Browsern abgerufen und grafisch dargestellt.\nDazu werden die Protokolle HTTP und HTTPS verwendet. HTTP steht dabei für „Hyper Text Transfer Protocol“. Das „S“ in HTTPS steht für „Secure“ und bedeutet, dass die Inhalte dieser Seite verschlüsselt übertragen werden, also bei der Übertragung nicht mitlesbar sind. Dies ist z. B. beim Online-Banking sehr wichtig.\nNeben dem WWW sind Messaging-Apps, Streamingdienste, Spiele und E-Mails die wichtigsten Dienste im Internet.\nGut zu wissen Geschätzte Anzahl Homepages:\n2000: 8,4 Mio. 2010: 89 Mio. 2020: 191 Mio. 2026: 210 Mio. Quelle: Web Server Survey - Netcraft Ltd.\n",
     "description": "",
     "tags": null,
     "title": "Was ist das Internet?",
@@ -161,11 +161,19 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "E-Mails",
-    "content": "E-Mails sind elektronische Nachrichten, die innerhalb einer Behörde oder Einrichtung, aber auch weltweit über das Internet mit dem Computer, Smartphone, Laptop etc. versendet und empfangen werden. Auch wenn im privaten Bereich mittlerweile elektronische Nachrichten häufiger über Messenger-Programme wie Signal, WhatsApp oder Telegram per Smartphone versendet werden, haben E-Mails im Beruf weiter eine große praktische Bedeutung.\nDabei besteht eine E-Mail im Allgemeinen aus einer oder mehreren Empfänger-Adressen, einem Betreff („Subject“), einer Absender-Adresse, dem E-Mail-Text („Body“) und eventuell Anlagen („Attachments“).\nAchtung Wissen Sie, von wem eine E-Mail wirklich stammt? Wurde die E-Mail wirklich in dieser Form verschickt? Oder wurde sie unterwegs verändert? Kann ein angefügtes Dokument gefahrlos geöffnet werden? Gut zu wissen E-Mail = Electronic Mail (Elektronische Post)\n",
+    "content": "E-Mails sind elektronische Nachrichten, die innerhalb einer Behörde oder Einrichtung, aber auch weltweit über Computer, Smartphones oder andere Endgeräte versendet und empfangen werden. Auch wenn im privaten Bereich heute elektronische Nachrichten häufiger über Messenger-Programme wie Signal, WhatsApp oder Telegram per Smartphone versendet werden, haben E-Mails im Beruf weiter eine große praktische Bedeutung.\nDabei besteht eine E-Mail im Allgemeinen aus einer oder mehreren Empfänger-Adressen, einem Betreff („Subject“), einer Absender-Adresse, dem E-Mail-Text („Body“) und eventuell Anlagen („Attachments“).\nAchtung Wissen Sie, von wem eine E-Mail wirklich stammt? Wurde die E-Mail wirklich in dieser Form verschickt? Oder wurde sie unterwegs verändert? Kann ein angefügtes Dokument gefahrlos geöffnet werden? Gut zu wissen E-Mail = Electronic Mail (Elektronische Post)\n",
     "description": "",
     "tags": null,
     "title": "Was sind E-Mails?",
     "uri": "/01-lektion-e-mails/01-was-sind-emails/"
+  },
+  {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": " Die Informationssicherheit wird durch verschiedene Gesetze, zum Teil aber auch Standards und andere Vorschriften für viele Behörden und Einrichtungen verbindlich geregelt. Dazu gehören u.a. das BSI-Gesetz, Umsetzungsvorschriften zur NIS-2-Richtlinie der Euroäischen Union, das KRITIS-Dachgesetz mit seiner Kritisverordnung und der BSI IT-Grundschutz-Standard.\nDie Lektion erläutert die wichtigsten Vorschriften.\nOb Ihre Behörde oder Einrichtung von einem der Gesetze etc. betroffen ist, wird hier nicht erörtert.\nGut zu wissen Der Datenschutz wird in der Lektion Vertrauliche Daten erläutert.\n",
+    "description": "",
+    "tags": null,
+    "title": "Überblick",
+    "uri": "/11-lektion-gesetzliche-grundlagen/01-ueberblick/"
   },
   {
     "breadcrumb": "KI",
@@ -174,6 +182,14 @@ var relearn_search_index = [
     "tags": null,
     "title": "Was ist KI?",
     "uri": "/10-lektion-kuenstliche-intelligenz/01-was-ist-ki/"
+  },
+  {
+    "breadcrumb": "",
+    "content": "Gesetze und BSI IT-Grundschutz Diese Bonus-Lektion erläutert,\nwelche Gesetze zur Informationssicherheit auf Bundesebene gelten, was deren wichtigsten Inhalte sind, und stellt den BSI IT-Grundschutz vor. ",
+    "description": "",
+    "tags": null,
+    "title": "Bonus: Gesetzliche Grundlagen",
+    "uri": "/11-lektion-gesetzliche-grundlagen/"
   },
   {
     "breadcrumb": "Passwörter",
@@ -224,7 +240,7 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/02-elektronische-datenverarbeitung/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "So schnell und einfach wie Sie im Internet auf Daten zugreifen können, so leicht können Sie sich auch in Gefahr begeben:\nSo können beim Surfen Schadprogramme auf Ihrem Computer unbemerkt ausgeführt werden. Auf diese Weise können Viren eingeschleust und Daten Ihres Rechners ausspioniert oder verändert werden. Sogar harmlos aussehende Bilder können schädliche Befehle enthalten. Zwar werden Web-Zugriffe schon am Netzknoten Ihrer Einrichtung auf Viren und schädliche Programme untersucht. Dennoch ist beim Surfen Vorsicht geboten: Sie können nie sicher sein, welche Inhalte oder Befehle auf Ihrem Computer ausgeführt werden, wenn eine Web-Seite von Ihrem Browser aufgerufen wird.\nDie nächsten Seiten zeigen Ihnen, worauf Sie beim Surfen achten sollten und wie Sie sich gegen Angriffe schützen können.\nAchtung In Ihrer Behörde oder Einrichtung werden die Sicherheitseinstellungen Ihres Browsers meist vorgegeben Ändern Sie diese dann nicht ab! ",
     "description": "",
     "tags": null,
@@ -236,7 +252,7 @@ var relearn_search_index = [
     "content": "Häufig wird der englische Oberbegriff „Malware“ („mal“ = „schädigend“) für alle Arten von Computerviren verwendet. Man unterscheidet unterschiedliche Typen von Malware. Klicken Sie weiter auf die jeweilige Virenart, um Genaueres zu erfahren.\nDatei-Viren Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.\nTrojanische Pferde „Trojanische Pferde“ oder „Trojaner“ werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z. B.\nDaten und Passwörter auszuspionieren, das System unbemerkt für Zugriffe von außen zu öffnen, Ihren Rechner für Angriffe auf andere Systeme zu verwenden oder Ihre Daten zu verschlüsseln und Sie dann zu erpressen. Würmer Die Virenart „Wurm“ ist ein selbständiges, selbstreproduzierendes Programm, das sich bevorzugt in Netzwerken ausbreitet und versucht, dessen Arbeit zu stören.\nBots Bots (als Abkürzung für „robots“) sind selbständig arbeitende Computerprogramme, die ohne Zutun der Nutzer*innen aktiv sind. Problematisch ist dies, wenn sie im Verborgenen agieren. Ein im PC „versteckter“ Bot wird Angriffe auf Webseiten durchführen oder Daten Ihres Computers „stehlen“.\nHoax Ein Hoax ist kein Virus, sondern eine Art „schlechter Scherz“, oft im Kettenbriefformat. Sie werden durch eine Textnachricht aufgefordert, diese an andere weiterzuleiten. Dadurch wird die beabsichtigte Wirkung eines Virus entfaltet, nämlich die massenhafte Verbreitung. Kettenbriefe findet man heute vornehmlich in Sozialen Medien.\n",
     "description": "",
     "tags": null,
-    "title": "Typen von Viren",
+    "title": "Arten von Computerviren",
     "uri": "/02-lektion-viren/02-typen-von-viren/"
   },
   {
@@ -256,6 +272,14 @@ var relearn_search_index = [
     "uri": "/mehr/weitere-informationen/"
   },
   {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Das BSI-Gesetz regelt die Aufgaben und Befugnisse des Bundesamts für Sicherheit in der Informationstechnik (BSI). Außerdem enthält es Pflichten für „Besonders wichtige Einrichtungen und wichtige Einrichtungen“ wie Betreiber kritischer Anlagen und öffentlicher Telekommunikationsnetze, aber auch für Vertrauensdiensteanbieter und die Bundesverwaltung. Die Rechtsform der Betreiberschaft ist dabei unbeachtlich. Die BSI-Kritisverordnung bestimmt, nach Sektoren wie Enegerie oder Gesundheit getrennt, welche Anlagearten vom BSI-Gesetz betroffen sind. Diese Verordnung soll durch die Kritisverordnung nach dem KRITIS-Dachgesetz ersetzt werden.\nZu den Pflichten der betroffenen Einrichtungen gehören u.a. ein umfassendes Risikomanagement sowie Registrierungs- und Meldepflichten. Für die Geschäftsleitungen gelten zudem explizite Schulungsverpflichtungen zu Kenntnissen und Fähigkeiten im Risikomanagement und Haftungsbestimmungen bezüglich der Sicherheit in der Informationstechnik.\nSchließlich erlaubt das BSI-Gesetz dem Bundesamt auch die Unterstützung der Länder und besonders wichtiger Einrichtungen bei der „Sicherung der Informationstechnik“.\nDas Gesetz wird in regelmäßigen Abständen aufgrund der sich stetig verändernden Lage im Bereich der IT-Sicherheit aktualisiert.\nGut zu wissen Das BSI-Gesetz regelt Aufgabe und Befugnisse des BSI selbst und macht Vorgaben für bestimmte Dritte einschließlich deren Geschäftsleitungen. ",
+    "description": "",
+    "tags": null,
+    "title": "BSI-Gesetz",
+    "uri": "/11-lektion-gesetzliche-grundlagen/02-bsi-gesetz/"
+  },
+  {
     "breadcrumb": "KI",
     "content": "Beim Einsatz von KI-Anwendungen besteht zunächst die Gefahr, dass sensible Informationen verarbeitet werden und die Verarbeitung unkontrolliert erfolgt.\nDavon betroffen sein können z. B. personenbezogene Daten oder sicherheitsrelevante Informationen wie interne Computer-Adressen, aber auch interne Finanzzahlen. Bei der Bedienung von Chat-Bots können Namen und Anschriften oder etwa Gesundheitsdaten mit Personenbezug in die KI-Anwendung eingegeben werden. Wo die Verarbeitung durch die KI-Anwendung erfolgt, ob die Daten bei der Verarbeitung sicher sind und nicht auch Dritten zugänglich gemacht werden, ist nicht immer garantiert. Kostenfreie Angebote, gelegentlich auch kostenpflichtige, verlangen in ihren Nutzungsbedingungen häufig, dass die eingebenen Informationen für Zwecke des Anbieters verwendet werden dürfen. Hier bestehen erhebliche Missbrauchsrisiken, die manchmal nur schwer zu beherrschen sind.\nDazu kommt die Gefahr, dass schon für das Trainieren der KI-Anwendung Informationen verwendet werden, die für diese Zwecke nicht zugelassen sind. Auch hier können personenbezogene Daten oder sicherheitssensible Informationen betroffen sein. Schließlich darf urheberrechtlich geschütztes Material nicht für Trainingszwecke der KI verwendet werden.\nAchtung Nicht alle KI-Anwendungen dürfen mit allen Informationen genutzt werden. KI-Anwendungen dürfen nicht mit beliebigen Daten „trainiert“ werden. ",
     "description": "",
@@ -273,7 +297,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
-    "content": "Der Computer an Ihrem Arbeitsplatz ist das Tor zu den auf diesem Rechner gespeicherten Daten, aber auch zu Daten auf anderen Computern Ihrer Behörde oder Einrichtung und oft auch zum Internet.\nWenn Sie Ihren Arbeitsplatz verlassen, sollten Sie immer den Zugang zum Computersystem sperren. Dies geschieht mit einem einfachen Handgriff und verhindert, dass Dritte Zugriff auf Daten haben oder in Ihrem Namen Nachrichten schreiben.\nEs reicht nicht aus, Ihr Zimmer abzuschließen. Ein geübter Dieb schafft es innerhalb von Sekunden, ein normales Schloss zu öffnen.\nUnter Microsoft Windows sperrt z. B. die Tastenkombination „Windows-Taste + L“ das System so, dass es nur durch Eingabe Ihres Passwortes oder durch eine Person mit Administratorrechten wieder benutzt werden kann.\nBitte achten Sie auch darauf, dass keine Familienangehörige oder Dritte im Home Office Zugang zum Computer oder Ihren Daten erhalten.\nAchtung Mit der Tastenkombination „Windows-Taste + L“ sichern Sie Ihr System schnell beim Verlassen Ihres Arbeitsplatzes Das Arbeitszimmer abzuschließen reicht nicht! ",
+    "content": "Der Computer an Ihrem Arbeitsplatz ist das Tor zu den auf diesem Rechner gespeicherten Daten, aber auch zu Daten auf anderen Computern Ihrer Behörde oder Einrichtung und oft auch zum Internet.\nWenn Sie Ihren Arbeitsplatz verlassen, sollten Sie immer den Zugang zum Computersystem sperren. Dies geschieht mit einem einfachen Handgriff und verhindert, dass Dritte Zugriff auf Daten haben oder in Ihrem Namen Nachrichten schreiben.\nEs reicht nicht aus, Ihr Zimmer abzuschließen. Ein geübter Dieb schafft es innerhalb von Sekunden, ein normales Schloss zu öffnen.\nUnter Microsoft Windows sperrt z. B. die Tastenkombination „Windows-Taste + L“ das System so, dass es nur durch Eingabe Ihres Passwortes oder durch eine Person mit Administratorrechten wieder benutzt werden kann.\nBitte achten Sie auch darauf, dass keine Familienangehörige oder Dritte im Homeoffice Zugang zum Computer oder Ihren Daten erhalten.\nAchtung Mit der Tastenkombination „Windows-Taste + L“ sichern Sie Ihr System schnell beim Verlassen Ihres Arbeitsplatzes Das Arbeitszimmer abzuschließen reicht nicht! ",
     "description": "",
     "tags": null,
     "title": "Zugang sichern",
@@ -305,14 +329,14 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Vertrauliche Daten",
-    "content": "Schlüsselfrage zur Bewertung: Sind die Daten durch gesetzliche oder behördliche Bestimmungen geschützt? Ihre Behörde oder Einrichtung unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u. a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.\nAber auch interne Regelungen, z. B. Verschlusssachenanweisungen, sind zu beachten!\nVertraulich? Intern? Geheim? Zunächst gilt es, die Regelungen des Datenschutzrechts und ggf. des Informationsfreiheitsrechts zu beachten.\nSchutzbedürftig sind alle personenbezogenen Daten. Darunter versteht man „alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen“ (Art. 4 Nr. 1 EU-Datenschutz-Grundverordnung). Hierzu zählen neben Name, Geburtsdatum und Anschrift auch Gesundheitsdaten und persönliche Vorlieben.\nDarüber hinaus ist es üblich, Informationen in Vertraulichkeitsklassen einzustufen. Die Zuordnung zu einer bestimmten Klasse kann dann zu bestimmten Verhaltensregeln führen. Sollte es keine internen Regelungen in Ihrer Behörde oder Einrichtung zum Datenschutz geben, können die Beispiele auf den nächsten Seiten zur Orientierung dienen.\n",
+    "content": "Schlüsselfrage zur Bewertung: Sind die Daten durch gesetzliche oder behördliche Bestimmungen geschützt? Ihre Behörde oder Einrichtung unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u. a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.\nAber auch interne Regelungen, z. B. Verschlusssachenanweisungen, sind zu beachten!\nVertraulich? Intern? Geheim? Zunächst gilt es, die Regelungen des Datenschutzrechts und ggf. des Informationsfreiheitsrechts zu beachten.\nSchutzbedürftig sind alle personenbezogenen Daten. Darunter versteht man „alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen“ (Art. 4 Nr. 1 EU-Datenschutz-Grundverordnung). Hierzu zählen neben Name, Geburtsdatum und Anschrift auch Gesundheitsdaten und persönliche Vorlieben.\nDarüber hinaus ist es üblich, Informationen in Vertraulichkeitsklassen einzustufen, je nach deren Schutzbedarf. Die Zuordnung zu einer bestimmten Klasse kann dann zu bestimmten Verhaltensregeln führen. Sollte es keine internen Regelungen in Ihrer Behörde oder Einrichtung zum Datenschutz geben, können die Beispiele auf den nächsten Seiten zur Orientierung dienen.\n",
     "description": "",
     "tags": null,
     "title": "Identifizierung vertraulicher Daten",
     "uri": "/05-lektion-vertrauliche-daten/03-identifizierung-vertraulicher-daten/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Haben Sie sich schon mal Gedanken darüber gemacht, wer eine Web-Seite veröffentlicht und wer für den Inhalt verantwortlich ist?\nDiese Fragen sind mit letzter Sicherheit oft nur schwer zu beantworten. Viele Informationen erscheinen im Internet anonym und ungeprüft. Die technisch leicht mögliche automatische Weiterleitung auf andere Web-Server macht es Ihnen zudem schwer, die Kontrolle zu behalten.\nStetig werden neue Technologien entwickelt, um Inhalte attraktiver, schneller und dynamischer zu präsentieren.\nDabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren. Unsichtbar laufen Programme ab, die Ihr Arbeiten im Internet beobachten, beeinflussen oder Sie sogar in die Irre führen sollen.\nAchtung So verhalten Sie sich richtig:\nRecherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegenüber Informationen, die Sie im Internet finden. Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können. Surfen Sie bewusst und bedenken Sie jeden „Klick“. Speichern Sie Informationen möglichst nur aus vertrauenswürdigen Quellen. Laden Sie auf Ihren dienstlichen Computer keine Programme aus dem Internet herunter. ",
     "description": "",
     "tags": null,
@@ -329,19 +353,11 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "E-Mails",
-    "content": "E-Mails kosten kein Porto. Das führt zu einem unschönen Problem:\nEs ist einfach, tausende von E-Mails zu verschicken. Das wird von Firmen für den Versand von Werbe-Mails ausgenutzt, die kostbare Ressourcen belegen und Ihr Postfach füllen. Diese Werbe-Mails werden auch als Spam-E-Mails, kurz „Spam“ oder Junk-Mails bezeichnet.\nCa. 60% der heute empfangenen E-Mails sind Spam. In vielen Behörden und Einrichtungen werden E-Mails beim Eingang automatisch zentral überprüft. Offensichtliche Spam-E-Mails werden dann entsprechend gekennzeichnet oder automatisch gelöscht.\nAchtung So verhalten Sie sich richtig:\nBeantworten Sie keine Spam-E-Mails Öffnen Sie keine Anhänge von unbekannten Absendern Laden Sie bei unerwünschten Mails keine Bilder nach, da Sie dadurch die Erreichbarkeit Ihrer E-Mail-Adresse bestätigen Löschen Sie Spam-E-Mails aus Ihrem Postfach Vermeiden Sie bei unbekannten E-Mails das Klicken auf Links innerhalb des Texts - diese können gefälscht sein Um zu erkennen, wohin der Link in einer E-Mail tatsächlich führt, fahren Sie mit dem Mauszeiger über den Link-Text - Ihr Browser zeigt meist unten im E-Mail-Programm oder in einem Ballon-Fenster das tatsächliche Ziel. Diese Funktion gibt es bei Smartphones normalerweise nicht! Geben Sie im Zweifelsfall Links lieber per Hand in die Adresszeile Ihres Browsers ein Gut zu wissen Manchmal enthalten Spam-E-Mails auch Angriffstechniken wie Phishing, Viren oder Würmer. Mehr dazu sogleich und in der Lektion Viren.\n",
+    "content": "E-Mails kosten kein Porto. Das führt zu einem unschönen Problem:\nEs ist einfach, tausende von E-Mails zu verschicken. Das wird von Firmen für den Versand von Werbe-Mails ausgenutzt, die kostbare Ressourcen belegen und Ihr Postfach füllen. Diese Werbe-Mails werden auch als Spam-E-Mails, kurz „Spam“ oder Junk-Mails bezeichnet.\nCa. 60% der heute empfangenen E-Mails sind Spam. In vielen Behörden und Einrichtungen werden E-Mails beim Eingang automatisch zentral überprüft. Offensichtliche Spam-E-Mails werden dann entsprechend gekennzeichnet oder automatisch gelöscht.\nAchtung So verhalten Sie sich richtig:\nBeantworten Sie keine Spam-E-Mails Öffnen Sie keine Anhänge von unbekannten Absendern Laden Sie bei unerwünschten Mails keine Bilder nach, da Sie dadurch die Erreichbarkeit Ihrer E-Mail-Adresse bestätigen Löschen Sie Spam-E-Mails aus Ihrem Postfach Vermeiden Sie bei unbekannten E-Mails das Klicken auf Links innerhalb des Texts - diese können gefälscht sein Um zu erkennen, wohin der Link in einer E-Mail tatsächlich führt, fahren Sie mit dem Mauszeiger über den Link-Text - Ihr Browser zeigt meist unten im E-Mail-Programm oder in einem Ballon-Fenster das tatsächliche Ziel. Bei Geräten mit Touchscreen kann das Ziel eventuell durch langes Drücken des Links angezeigt werden, achten Sie aber darauf, den Link nicht versehentlich aufzurufen - probieren Sie dies ggf. zunächst mit einer vertrauenswürdigen E-Mail aus. Geben Sie im Zweifelsfall Links lieber per Hand in die Adresszeile Ihres Browsers ein Gut zu wissen Manchmal enthalten Spam-E-Mails auch Angriffstechniken wie Phishing, Viren oder Würmer. Mehr dazu sogleich und in der Lektion Viren.\n",
     "description": "",
     "tags": null,
     "title": "Spam-E-Mails",
     "uri": "/01-lektion-e-mails/03-spam-e-mails/"
-  },
-  {
-    "breadcrumb": "",
-    "content": "TEST BITS wird herausgegeben von der Kommunal Agentur NRW GmbH und Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg, und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Urheber ist Dr. Lutz Gollan. Die technische Realisierung erfolgt durch Andreas Hösl von der Chr. Mayr GmbH + Co. KG.\nBITS ist kostenlos und steht unter der Lizenz Creative Commons BY-SA 4.0. Sie dürfen:\nTeilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an folgende Bedingungen halten:\nBedingungen:\nNamensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original - Creative Commons BY-SA 4.0 - verbreiten. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt. Das verwendete hugo-Framework steht unter der Apache-Lizenz, v2.0, das Relearn-Theme, die Technik des Quiz’ inkl. quizdown-js und die jQuery-Bibliothek unter der MIT-Lizenz. Die Icons stammen von Font Awsesome und stehen unter freier Lizenz.\n",
-    "description": "",
-    "tags": null,
-    "title": "Herausgeber \u0026 Lizenz",
-    "uri": "/mehr/herausgeber-und-lizenz/"
   },
   {
     "breadcrumb": "KI",
@@ -352,12 +368,28 @@ var relearn_search_index = [
     "uri": "/10-lektion-kuenstliche-intelligenz/03-gefahren-von-ki-ii/"
   },
   {
+    "breadcrumb": "",
+    "content": "TEST BITS wird herausgegeben von der Kommunal Agentur NRW GmbH und Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg, und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Urheber ist Dr. Lutz Gollan. Die technische Realisierung erfolgt durch Andreas Hösl von der Chr. Mayr GmbH + Co. KG.\nBITS ist kostenlos und steht unter der Lizenz Creative Commons BY-SA 4.0. Sie dürfen:\nTeilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an folgende Bedingungen halten:\nBedingungen:\nNamensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original - Creative Commons BY-SA 4.0 - verbreiten. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt. Das verwendete hugo-Framework steht unter der Apache-Lizenz, v2.0, das Relearn-Theme, die Technik des Quiz’ inkl. quizdown-js und die jQuery-Bibliothek unter der MIT-Lizenz. Die Icons stammen von Font Awsesome und stehen unter freier Lizenz.\n",
+    "description": "",
+    "tags": null,
+    "title": "Herausgeber \u0026 Lizenz",
+    "uri": "/mehr/herausgeber-und-lizenz/"
+  },
+  {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Die NIS-2-Richtlinie der Europäischen Union oder auch „zweite Richtlinie zur Sicherung von Netz- und Informationssystemen“ schafft den Rahmen für ein EU-weites einheitliches Niveau zur Informationssicherheit.\nDie Richtlinie ist eine Reaktion auf die zunehmende Bedrohungslage im Cyberbereich, die Risiken für Unternehmen und öffentliche Einrichtungen aller Größen erhöht. Sie ersetzt die ursprüngliche NIS-Richtlinie und erweitert den Kreis der betroffenen Unternehmen, Behörden und Einrichtungen von ca. 6.500 auf ca. 30.000. Sie ist am 16.01.2023 in Kraft getreten und am 06.12.2025 in deutsches (Bundes-)Recht durch das sogenannte Cybersicherheitsgesetz überführt worden.\nSie fordert von den Mitgliedsstaaten der EU eine nationale Cybersicherheitsstrategie zu verabschieden und Institutionen für den Umgang mit Sicherheitsvorfällen zu schaffen. Zudem macht sie strengere und einheitliche Vorgaben für die IT-Sicherheit in Unternehmen und Behörden, um die Resilienz und Reaktion auf Cybervorfälle zu verbessern sowie Störungen kritischer Infrastrukturen zu verhindern und die Funktionsfähigkeit des Binnenmarktes zu stärken. Betroffen von der NIS-2-Richtlinie sind öffentliche und private Einrichtungen in den kritischen Sektoren wie beispielsweise Energie, Wasser, Verkehr und Gesundheit, die festgelegte Schwellenwerte überschreiten.\nDie Umsetzung in Deutschland erfolgte durch das oben genannte „Cybersicherheitsgesetz“, ein Artikelgesetz, das eine Vielzahl verschiedener Gesetze an die Richtlinie anpasste, u.a. das BSI-Gesetz, aber auch z.B. die Personalausweisverordnung und das Atomgesetz. Die Richtlinie selbst hat keine unmittelbare Wirkung.\nDie Umsetzung der NIS-2-Richtlinie in den Ländern und Kommunen für die öffentlichen Einrichtungen wird dezentral vorgenommen; dies wird auf der nächsten Seite dargestellt.\nGut zu wissen Die NIS-2-Richtlinie soll ein einheitliches IT-Sicherheitsniveau in der EU schaffen. In Deutschland wurden zur Umsetzung der Richtlinie über 20 Gesetze angepasst. Die Umsetzung auf Landes- und kommunaler Ebene erfolgt durch Landesregelungen. ",
+    "description": "",
+    "tags": null,
+    "title": "NIS-2-Richtlinie / Cybersicherheitsgesetz",
+    "uri": "/11-lektion-gesetzliche-grundlagen/03-nis-2-richtlinie/"
+  },
+  {
     "breadcrumb": "Passwörter",
     "content": "Es gibt Werkzeuge für Passwörter, die Ihnen das Erzeugen und Merken erleichtern oder die Sicherheit erheblich erhöhen. Falls Ihre Behörde oder Einrichtung solche anbietet: nutzen Sie diese! Auch für den privaten Bereich gibt es solche Tools!\nPasswort-Manager Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Smartphones gibt, und die zum Erzeugen und Speichern von sicheren Passwörtern dienen. Voraussetzung ist, dass Sie ein sehr sicheres „Master-Passwort“ verwenden, das den Zugang zum Passwort-Manager selbst freigibt. Außerdem muss das Programm die in ihm gespeicherten weiteren Passwörter gut verschlüsseln.\nDer Vorteil eines Passwort-Managers ist, dass Sie sich nur das Master-Passwort merken müssen. Dies ist gleichzeitig der größte Nachteil. Wenn Sie es vergessen, haben Sie keinen Zugang zu den weiteren Passwörtern!\nZwei-Faktor-Authentisierung (2FA) / Multifaktor-Authentisierung (MFA) Bei einer Zwei-Faktor-Authentisierung (abgekürzt 2FA) oder einer Multifaktor-Authentisierung (MFA) wird neben dem Wissen (z. B. ein nur Ihnen bekanntes Passwort) noch ein weiteres Merkmal beim Einloggen in ein Programm oder zum Abrufen von Nachrichten verlangt. Dies kann ein Stück Hardware in Form eines kleinen Sticks („Token“) sein, der ggf. auf einem Display eine einmalige Nummer auf Knopfdruck anzeigt. Es gibt aber auch Smartphone-Apps, die bei 2FA genutzt werden können. Über die App oder den Token müssen Sie dann beim Einloggen diesen Vorgang zusätzlich bestätigen. Diese Form der 2FA kommt regelmäßig beim Online-Banking oder Finanzdienstleistungen im Internet vor.\nPasswortkarten Passwortkarten sind unveränderliche Tabellen mit Buchstaben, Zahlen und Sonderzeichen, die man ausdrucken kann. Durch eine gedachtes Master-Passwort können die einzelnen Zellen verknüpft und zu neuen Passwörtern zusammengesetzt werden. Hier einige Vorteile und Nutzungsmöglichkeiten von Passwortkarten:\nErzeugung von Passwörtern: Eine Passwortkarte kann zur Erstellung von starken, schwer zu erratenden Passwörtern verwendet werden, indem aus der Matrix zufällige Zeichenfolgen ausgewählt werden. physisches Sicherheitsmerkmal: Da es sich um ein physisches Objekt handelt, bietet die Passwortkarte einen zusätzlichen Sicherheitsfaktor – etwas, das man besitzt. Ohne die Karte kann das Passwort nicht reproduziert werden. vielseitige Anwendung: Passwortkarten können für mehrere Konten verwendet werden, indem für jedes Konto unterschiedliche Koordinaten oder Regeln zur Auswahl der Passwörter festgelegt werden. Passwortkarten erweisen sich als besonders nützlich in Umgebungen mit hohen Sicherheitsanforderungen, wo physische Hilfsmittel zur Authentifizierung genutzt werden dürfen. Auch wenn sie nicht so wie andere Passwortwerkzeuge verbreitet sind, bieten sie eine wertvolle Alternative zur Erhöhung der Zugangssicherheit.\nAchtung Nutzen Sie Passwort-Werkzeuge und die Zwei-Faktor-Authentisierung, wenn Ihnen diese angeboten werden. Beide erhöhen die Sicherheit!\n",
     "description": "",
     "tags": null,
-    "title": "Werkzeuge für Passwörter",
-    "uri": "/03-lektion-passwoerter/04-werkzeuge-fuer-passwoerter/"
+    "title": "Passwortmanager",
+    "uri": "/03-lektion-passwoerter/04-passwortmanager/"
   },
   {
     "breadcrumb": "",
@@ -369,7 +401,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Mein Arbeitsplatz",
-    "content": "Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern…“) berufen.\nHäufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.\nWie verhalten Sie sich, wenn Sie Zweifel haben?\nLassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen. Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren Ansprechpersonen, ob die anfragende Person vertrauenswürdig und „echt“ ist. Weitere Informationen gibt es in der Lektion Passwörter\nAchtung Geben Sie keine Zugangsdaten heraus Versichern Sie sich der Identität der abfragenden Person ",
+    "content": "Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern…“) berufen.\nHäufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.\nWie verhalten Sie sich, wenn Sie Zweifel haben?\nLassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen. Erkundigen Sie sich bei Vorgesetzten, Kollegi*nnen oder Ihren Ansprechpersonen, ob die anfragende Person vertrauenswürdig und „echt“ ist. Weitere Informationen gibt es in der Lektion Passwörter\nAchtung Geben Sie keine Zugangsdaten heraus Versichern Sie sich der Identität der abfragenden Person ",
     "description": "",
     "tags": null,
     "title": "Social-Engineering-Angriffe abwehren",
@@ -400,12 +432,12 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/04-betriebsgeheimnisse/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:\nCookies\nwaren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z. B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen. Ein Web-Server-Betreiber steuert über Cookies auch, welche Werbung Sie zu sehen bekommen. Das Akzeptieren von Cookies und damit das Schreiben in den Speicher Ihres Endgeräts können Sie in Ihren Browseroptionen erlauben oder verbieten.\nErweiterungen\nergänzen Internet-Browser um weitere Funktionen wie Werbeblocker oder Downloader. Dabei greifen einige Erweiterungen in die Seitenaufrufe ein und können Ihr Surfverhalten erkennen.\nJavaScript\nJavaScript ist eine Programmiersprache, die in eine Internetseite eingebettet werden kann und Funktionen und Inhalte erstellen und bereitstellen kann. Die meisten Angebote im Internet funktionieren nur mit aktiviertem JavaScript. Über bestimmte Browser-Erweiterungen können Sie die Nutzung steuern.\n",
     "description": "",
     "tags": null,
-    "title": "Technische Webinhalte",
-    "uri": "/04-lektion-internet/04-technische-webinhalte/"
+    "title": "Aktive Webinhalte",
+    "uri": "/04-lektion-internet/04-aktive-webinhalte/"
   },
   {
     "breadcrumb": "Viren",
@@ -422,6 +454,14 @@ var relearn_search_index = [
     "tags": null,
     "title": "Computerviren per E-Mail",
     "uri": "/01-lektion-e-mails/04-computerviren/"
+  },
+  {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Die Umsetzung der NIS-2-Richtlinie für die Landes- und Kommunalverwaltungen ist in Deutschland förderal unterschiedlich erfolgt. In Baden-Württemberg gibt es beispielsweise eine „Cybersicherheitsverordnung“, in NRW das „Informationssicherheitsgesetz Nordrhein-Westfalen“ mit Geltung für die jeweiligen Landesverwaltungen; Anforderungen an Kommunen werden dort nicht geregelt.\nDas Land Berlin hat für die Umsetzung der Richtlinie eine „Cybersicherheitsstrategie“ erlassen, in Bayern wurde das Bayerische Digitalisierungsgesetz ergänzt. Dieses etabliert die Pflicht, Informationssicherheitskonzepte zu erstellen, auch für Kommunen. Behörden, die an das Behördennetz angeschlossen sind, müssen Informationen zur Informationssicherheit melden. Ähnliches sieht das Sächsische Informationssicherheitsgesetz vor.\nJe nach Land, können also unterschiedliche Pflichten für Ihre Behörde oder Einrichtung gelten.\nGut zu wissen Die Umsetzung der NIS-2-Richtlinie in den Ländern erfolgt unterschiedlich. Der Anschluss an das Landesbehördennetz etabliert regelmäßig Pflichten, auch für die Kommunen. ",
+    "description": "",
+    "tags": null,
+    "title": "Umsetzung in den Ländern",
+    "uri": "/11-lektion-gesetzliche-grundlagen/04-umsetzung-laender/"
   },
   {
     "breadcrumb": "KI",
@@ -460,7 +500,7 @@ var relearn_search_index = [
     "content": "So verhalten Sie sich richtig Viele Behörden und Einrichtungen stellen ihren Beschäftigten Smartphones oder Notebooks (Laptops, Tablets etc.) zur Verfügung, die oft bereits besondere Sicherheitseinstellungen enthalten. Folgendes sollten Sie beachten:\nDas Notebook mindestens einmal pro Woche mit dem Dienstnetz verbinden, um Software-Updates und Virenschutz-Signaturen einzuspielen. Bei Fehlermeldungen des Virenscanners oder der Verschlüsselungssoftware sofort die Ansprechperson benachrichtigen Den Verlust des Endgeräts unverzüglich der Ansprechperson und den Vorgesetzten melden. Regelmäßig alle Daten sichern und gemäß ihrer Vertraulichkeitsklasse aufbewahren. Falls vorhanden, das Notebook nur über das Programm zum sicheren Verbinden mit dem Dienstnetz (Virtuelles Privates Netzwerks, VPN) im Internet verwenden. Gerät und Login-Informationen nicht an Dritte weitergeben oder von diesen nutzen lassen Die Konfiguration des Notebooks nicht selbständig verändern Nicht eigenmächtig Programme installieren ",
     "description": "",
     "tags": null,
-    "title": "Notebooks",
+    "title": "Notebooks und Tablets",
     "uri": "/08-lektion-mobile-geraete/05-notebooks/"
   },
   {
@@ -480,7 +520,7 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/05-interne-informationen/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": " In den meisten Behörden und Einrichtungen ist eine sichere Konfiguration des Browsers fest vorgegeben! Versuchen Sie nicht, diese zu ändern. Laden und starten Sie keine Programme von Webseiten, sofern Sie nicht dienstlich dazu angehalten werden. Damit Zugangsdaten und Seiteninhalte bei der Übertragung im offenen Internet nicht von Dritten mitgelesen werden können, wird für die Übertragung das technische Protokoll „TLS“ (Transport Layer Security) verwendet. Entsprechende Angebote erkennen Sie u. a. an der der Adresse vorangestellten Abkürzung „https“.\nZu allen Seiten, deren Adresse mit https:// beginnt, baut der Browser automatisch eine verschlüsselte Verbindung auf. So wird sichergestellt, dass bei der Übermittlung grundsätzlich keine Daten mitgelesen oder verändert werden können. Hierfür muss das Zertifikat der Internetseite (siehe unten stehender Tipp) der herausgebenden Stelle der Seite zugeordnet sein.\nGut zu wissen Ein Zertifikat ist eine „elektronische Bescheinigung“, mit der die Zuordnung einer Internetseite zu ihrer herausgebenden Stelle dokumentiert wird. Damit verbunden ist die Absicherung der Seitenaufrufe über eine Transportverschlüsselung (über HTTPS, siehe die Erläuterungen zum Technischen Aufbau des Internets). Das Zertifikat einer Internetseite können Sie aufrufen, in dem Sie in der Adresszeile Ihres Browsers auf das Schloss-Symbol klicken.\n",
     "description": "",
     "tags": null,
@@ -512,6 +552,14 @@ var relearn_search_index = [
     "uri": "/01-lektion-e-mails/05-phishing-und-pharming/"
   },
   {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Das KRITIS-Dachgesetz stellt Anforderungen zum Schutz kritischer Infrastrukturen. Es regelt (nur) die physische Sicherheit bestimmter Anlagen in Deutschland und gilt für Betreiber kritischer Anlagen in systemrelevanten Sektoren, die für die Versorgung der Allgemeinheit unverzichtbare Dienstleistungen für meist mindestens 500.000 Personen in Deutschland erbringen. Es setzt in Deutschland die EU-Richtlinie über die Resilienz kritischer Einrichtungen um.\nDabei schafft es eine bundesrechtliche Regelung, ergänzend zum BSI-Gesetz. Dadurch soll die Widerstandsfähigkeit kritischer Anlagen gegen Bedrohungen wie z.B. Naturkatastrophen, Sabotage, Terrorismus oder hybride Angriffe erhöht werden. Die Aufsichtsbehörde für das Gesetz und seine Pflichten ist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).\nDie Umsetzung erfolgt durch die (im Sommer 2026 noch nicht veröffentlichte) Kritisverordnung, die die BSI-Kritisverordnung ersetzen soll. Dann gelten ähnliche Pflichte wie die zur Registrierung und Durchführung von Risikoanalysen etc.\nAchtung Das KRITIS-Dachgesetz regelt zwar nur die physische Sicherheit bestimmter Anlagen, die im Sommer 2026 noch nicht verabschiedete ergänzende Kritisverordnung wird aber die bestehende BSI-Kritisverordnung ablösen und umfassende Pflichten auch aus dem BSI-Gesetz konkretisieren. ",
+    "description": "",
+    "tags": null,
+    "title": "KRITIS-Dachgesetz",
+    "uri": "/11-lektion-gesetzliche-grundlagen/05-kritis-dachgesetz/"
+  },
+  {
     "breadcrumb": "Mein Arbeitsplatz",
     "content": "Malware über Messenger-Apps Viele Behörden und Einrichtungen verwenden Messenger-Dienste wie MS Teams oder Teamwire, um den Beschäftigten eine mobile Anwendung für die schnelle Kommunikation bereit zu stellen. Diese Dienste stellen zunächst eine vertrauliche Umgebung für die interne Kommunikation dar.\nAber auch auf diesem Wege können Angreifer*innen Malware einschleusen. Nach einem erfolgreichen Eindringen in das Netzwerk versuchen diese z. B. Benutzerinformationen zu erbeuten, um unter Ihrem Namen schadhafte Links zu verteilen.\nAchtung Links und Dateianhängen auch in internen Foren oder Arbeitsbereichen nicht ungeprüft vertrauen Grundsätzlich keine unbekannten oder merkwürdig erscheinenden Links öffnen Keine Dokumente und Programme auch von bekannten Absender*innen öffnen, wenn sie Ihnen verdächtig oder überraschend erscheinen ",
     "description": "",
@@ -536,7 +584,7 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/06-entscheidungsrelevante-informationen/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Die meisten Webbrowser zeigen eine verschlüsselte Verbindung durch ein entsprechendes Symbol an, häufig durch ein kleines Vorhängeschloss in der Adresszeile.\nVerschlüsselte Verbindungen im Internet werden über Digitale Signaturen abgesichert. Die Ausstellung und Überprüfung Digitaler Signaturen sind technisch komplizierte Prozesse. Sie werden jedoch von den Web-Browsern automatisch erledigt, Sie können dies aber auch kontrollieren (siehe unten).\nKlicken Sie auf die folgenden Begriffe, wenn Sie weitere Informationen zu Digitalen Signaturen und den damit zusammenhängenden Gefahren wünschen:\nGefahren bei verschlüsseltem Zugriff HTTPS stellt zwar die verschlüsselte Übertragung sicher, bei kritischen Transaktionen, wie z. B. dem Online-Banking, muss man zusätzlich sicherstellen, dass der Webserver, dem man seine Zugangsdaten verschlüsselt übersendet, auch wirklich der Webserver der gewünschten Bank ist. Ein beliebter Hacker-Trick ist die sogenannte „Man-in-the-Middle-Attacke“. Dabei spielt der Hacker oder die Hackerin der surfenden Person vor, der verwendete Webserver sei der Server der Online-Bank. Nun baut man in gutem Glauben eine verschlüsselte Verbindung zu diesem Server auf und übermittelt die Zugangsdaten und Transaktionsnummern dem Hacker bzw. der Hackerin statt der Bank.\nDigitale Signaturen Jede HTTPS-Seite wird mit einer Digitalen Signatur versehen. Diese wirkt wie ein Echtheitssiegel. Sie stellt sicher, dass die Seite von einer zertifizierten Stelle erzeugt und nicht verändert wurde. Der Webbrowser überprüft automatisch, ob die Digitale Signatur gültig ist. Falls dies nicht der Fall ist, wird eine Warnmeldung angezeigt. Gründe können sein: die Webseite wurde bei der Übertragung verändert, die immer nur befristet gültige Digitale Signatur ist abgelaufen, die Digitale Signatur wurde von einer nicht vertrauenswürdigen Stelle erstellt oder die angezeigte Seite stammt nicht vom Signaturinhaber bzw. von der Signaturinhaberin.\nAchtung HTTPS-Verbindungen werden unter anderem im Online-Banking verwendet, um sicher auf Konto-Informationen zuzugreifen. Im Web-Browser können jederzeit die Zertifikatsinformationen der Internetseite angezeigt werden. Dies geschieht meist durch Anklicken des Schloss-Symbols in der Adresszeile Ihres Browsers. Wird ein Zertifikatsfehler angezeigt, ist es abgelaufen oder ist das Zertifikat auf eine Ihnen unbekannte Stelle als Seiteninhaber ausgestellt, sollten Sie der Seite nicht vertrauen. ",
     "description": "",
     "tags": null,
@@ -558,6 +606,14 @@ var relearn_search_index = [
     "tags": null,
     "title": "Datenschutz",
     "uri": "/mehr/datenschutz/"
+  },
+  {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat den Standard BSI IT-Grundschutz erarbeitet und stellt Dokumente zur Verfügung, um den Pflichten des BSI-Gesetzes gerecht zu werden. Die Dokumente „Grundschutzkompendium“ und die Einzelteile des BSI-Standards sind als Leitfaden zur Erreichung eines selbst festgelegten Sicherheitsniveaus nach den Standard-Kriterien „normal“, „hoch“ und „sehr hoch“ zu verstehen, die sich gegenseitig ergänzen:\nIT-Grundschutzkompendium (Stand 2023) Es dient als Leitfaden zur Realisierung eines strukturierten und praxisnahen Sicherheitsniveaus. Es bildet zusammen mit den BSI-Standards die Basis für die Informationssicherheit und ist eine Praxishilfe mit Anforderungen- und Maßnahmebeschreibungen. 200-1: Managementsysteme für Informationssicherheit Definiert die allgemeinen Anforderungen an ein Informationssicherheitsmanagement (ISMS). Liefert eine systematische Anleitung für Aufbau und Betrieb des ISMS. 200-2: IT-Grundschutz-Methodik Die operativen IT-Grundschutz-Methodiken zur Basis-Absicherung, Kernabsicherung sowie Standardabsicherung werden beschrieben. Ein Einstieg ist über die Methodik „Weg in die Basis-Absicherung“ möglich. 200-3: Risikomanagement Anerkanntes Verfahren zur systematischen Identifizierung und Bewertung von Informationssicherheitsrisiken und Festlegung von Maßnahmen zur Risikobehandlung. 200-4: Business Continuity Management Umfassende Anleitung zur Implementierung und kontinuierlichen Verbesserung eines Business Continuity Managements (BCMS; Geschäftsfortführungsmanagement). Dient als praxisnahe Anleitung zur Sicherstellung, dass zeitkritische Geschäftsprozesse auch in Krisensituationen aufrechterhalten oder wieder gestartet werden können. Grundschutz++ (kurz: GS++) ist die Weiterentwicklung des bisherigen Standards und wird diesen in den nächsten Jahren ablösen. Angestrebt werden eine Digitalisierung, Vereinfachung und Anpassung des Standards an moderne IT-Umgebungen. Ziel ist es, eine Methodik zu bieten, die mit den dynamischen Infrastrukturen Schritt halten kann und dennoch die Anforderungen an ein formalisiertes, standardisiertes ISMS erfüllt.\nHierzu wird Grundschutz++ u.a. anstelle von statischen PDF-Dokumenten mit Anforderungen und Maßnahmen ein maschinenlesbares Framework über den Anwenderkatalog-Grundschutz++ bereitstellen. Die GS++-Methodik bietet eine strukturierte und granularere Methode zur Umsetzung von Sicherheitsanforderungen.\n",
+    "description": "",
+    "tags": null,
+    "title": "BSI IT-Grundschutz",
+    "uri": "/11-lektion-gesetzliche-grundlagen/06-it-grundschutz/"
   },
   {
     "breadcrumb": "E-Mails",
@@ -592,12 +648,12 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/07-persoenlich-vertrauliche-informationen/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Einige Behörden und Einrichtungen stellen mit Hilfe von zentralen Filtersystemen sicher, dass Webseiten mit extremistischen, pornografischen und vergleichbaren Inhalten automatisch geblockt werden. Davon unabhängig sollten Sie von sich aus Internetangebote meiden,\ndie strafbare bzw. rechtswidrige Inhalte haben, die andere Personen am Arbeitsplatz belästigen oder - insbesondere minderjährige Kolleginnen und Kollegen - verstören können, die keinen dienstlichen Bezug haben, insbesondere wenn Ihnen die private Internetnutzung untersagt ist. ",
     "description": "",
     "tags": null,
-    "title": "Blocken unerwünschter Seiten",
-    "uri": "/04-lektion-internet/07-blocken-unerwuenschter-seiten/"
+    "title": "Sperren unerwünschter Webseiten",
+    "uri": "/04-lektion-internet/07-sperren-unerwuenschter-webseiten/"
   },
   {
     "breadcrumb": "Viren",
@@ -616,6 +672,14 @@ var relearn_search_index = [
     "uri": "/01-lektion-e-mails/07-erste-hilfe/"
   },
   {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "IT-Grundschutz-Profile IT-Grundschutz-Profile werden von verschiedenen Institutionen für bestimmte Branchen, die nicht zwingend zu den Kritischen Infrastrukturen gehören, als Anforderungsprofil mit einer Untermenge der Bausteine aus dem BSI IT-Grundschutz erstellt und vom BSI nach Prüfung veröffentlicht.\nSie dienen als Vorlage für vergleichbare Informationsverbünde und erleichtern so die Auswahl der relevanten Sicherheitsanforderungen und Maßnahmen.\nDas BSI hat unter anderem folgende IT-Grundschutz-Profile veröffentlicht:\nBasis-Absicherung Kommunalverwaltung Obere Bundesbehörden i-Kfz Leitstellen Hochschulen Handwerksbetriebe … Branchenspezifische Sicherheitsstandards (B3S) B3S sind vom BSI anerkannte branchenspezifische IT- und Informationssicherheitsstandards, die Unternehmen der Kritischen Infrastrukturen dabei unterstützen, gesetzliche Anforderungen des BSI- und IT-Sicherheitsgesetzes umzusetzen und kritische Infrastrukturen gezielt schützen. Sie werden bisher regelmäßig aktualisiert und behalten in der Regel für drei Jahre ihre Gültigkeit. Folgende B3S wurden vom BSI bislang anerkannt:\nEnergie Wasser Ernährung IT und Telekommunikation Gesundheit Finanz- und Versicherungswesen Transport und Verkehr Siedlungsabfallentsorgung ",
+    "description": "",
+    "tags": null,
+    "title": "IT-Grundschutz-Profile und B3S",
+    "uri": "/11-lektion-gesetzliche-grundlagen/07-grundschutz-profile-b3s/"
+  },
+  {
     "breadcrumb": "Mobile Geräte",
     "content": "Schnell und flexibel! Trotz Vernetzung, E-Mail und Internet kann es notwendig sein, Daten zwischen zwei nicht verbundenen Rechnern auszutauschen. Zu diesem Zweck werden gelegentlich mobile Datenträger in Form von USB-Sticks verwendet. Aber auch das eigene Smartphone kann zum Datenaustausch verwendet werden.\nDabei ist doppelte Vorsicht geboten:\nZum einen können durch den Verlust des mobilen Datenträgers interne und vertrauliche Informationen an Unbefugte geraten. Zum anderen können durch mobile Datenträger leicht Viren und andere schädliche Programme in das dienstliche Netz gelangen. Achtung Auf mobilen Datenträgern sollten, wenn möglich, keine geheimen oder vertraulichen Daten gespeichert werden Ist die Speicherung vertraulicher Daten notwendig, so sind diese zu verschlüsseln Darüber hinaus sollten alle mobilen Datenträger vor der Verwendung mit einem aktuellen Virenscanner auf Viren untersucht werden Mobile Datenträger müssen an einem sicheren Ort aufbewahrt werden Der Verlust eines Datenträgers mit vertraulichen Daten ist unverzüglich den Vorgesetzten und der Ansprechperson zu melden ",
     "description": "",
@@ -632,7 +696,7 @@ var relearn_search_index = [
     "uri": "/05-lektion-vertrauliche-daten/08-datenschutzbeauftragte/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Viele Behörden und Einrichtungen legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z. B.\ndie private Nutzung von Internet-Diensten, den Umgang mit schützenswerten und vertraulichen Daten, die Verantwortung der Beschäftigten für Datenschutz und Datensicherheit, Verbote der Installation von Software, Verbote von Einrichtung und Betrieb nicht-genehmigter Internet-Zugänge, die Protokollierung von E-Mail- und Internet-Nutzung. Gut zu wissen Zur Aufrechterhaltung des Betriebs oder zur Fehleranalyse muss der Internetverkehr in bestimmten Situationen protokolliert werden (grundsätzlich nicht die Inhalte, sondern die Umstände der Kommunikation). Bedenken Sie beim Surfen, dass Ihr Verhalten im Internet möglicherweise überwacht wird! Genauere Informationen erhalten Sie auch bei Ihrer Ansprechperson ",
     "description": "",
     "tags": null,
@@ -656,6 +720,14 @@ var relearn_search_index = [
     "uri": "/01-lektion-e-mails/08-vertrauliche-informationen/"
   },
   {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Mit mehreren, teilweise von der Europäischen Union aus gesteuerten, Gesetzen, Verordnungen und Standards soll ein einheitliches Niveau der Informationssicherheit geschaffen werden. In den letzten Jahren wurden diverse Vorschriften zu verschiedenen Regelungsbereichen erlassen, die nach und nach konsolidiert werden.\nDie Bestimmung, ob eine Behörde oder Einrichtung unter eines der Gesetze fällt, ist nicht immer einfach. Zum Teil gibt es im Internet Checklisten oder Frage-Antwort-Seiten, die hierbei helfen.\nUngeachtet dessen ist jede Behörde oder Einrichtung gut beraten, einen anerkannten Standard für die Informationssicherheit, z.B. den BSI IT-Grundschutz, über eine eigene Leitlinie zur Informationssicherheit auszuwählen und dessen Anwendung verbindlich vorzuschreiben.\n",
+    "description": "",
+    "tags": null,
+    "title": "Zusammenfassung",
+    "uri": "/11-lektion-gesetzliche-grundlagen/08-zusammenfassung/"
+  },
+  {
     "breadcrumb": "Mobile Geräte",
     "content": "Mobile Geräte stellen aufgrund ihrer Größe und Beweglichkeit ein besonderes Sicherheitsrisiko dar. Deshalb haben die meisten Behörden und Einrichtungen Regeln für den Umgang mit diesen Geräten aufgestellt, die hier sinngemäß zusammengefasst sind:\nPasswortschutz bzw. PIN-Abfrage aktivieren Mobile Datenträger immer zuerst auf Viren untersuchen Mobile Geräte und Datenträger sicher aufbewahren Für regelmäßige Software-Updates und Konfigurationsüberprüfungen sorgen Nicht benötigte drahtlose Kommunikationsmöglichkeiten möglichst deaktivieren Verlust von mobilen Geräten sofort der Ansprechperson und den Vorgesetzten melden Keine selbständigen Konfigurationsänderungen bei Dienstgeräten durchführen Keine vertraulichen oder geheimen Daten speichern, es sei denn sie sind verschlüsselt Dienstliche und private Daten nicht vermischen Achtung Falls in Ihrer Behörde oder Einrichtung eine Richtlinie zum Umgang mit Mobilen Geräten bzw. Datenträgern besteht, ist diese zu beachten.\n",
     "description": "",
@@ -665,14 +737,14 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Vertrauliche Daten",
-    "content": "Hier noch einmal die wichtigsten Regeln zur Vertraulichkeit von Daten: Gesetzliche und ethische Gründe erfordern einen aktiven Daten- und Informationsschutz - von allen! Beachten Sie die Regelungen und Vorschriften des Datenschutz- und Informationsfreiheitsrechts und interne Regelungen Vor der Weiterleitung von Informationen sind enthaltene Meta-Informationen, die Schutzwürdigkeit und die Empfängerliste zu prüfen Besondere Vorsicht gilt bei der Verarbeitung personenbezogener Daten Für Verschlusssachen (z. B. „VS-NfD“) gelten Spezialregelungen! Im Zweifel mit der Leitungsebene abstimmen! Etwaige interne Richtlinien sind nicht auf elektronisch gespeicherte Informationen beschränkt. Sie gelten genauso für den Umgang mit Papierdokumenten und sonstigen Akten.\nGut zu wissen Datenschutzerklärung\nIn den meisten Fällen muss man beim Eintritt in den Dienst eine Datenschutzerklärung unterschreiben. Sie ist die Grundlage für die hier vorgestellten Verhaltensregeln. Schützen Sie Ihre Kundinnen und Kunden, Ihre Einrichtung und Ihre Kollegenschaft durch den verantwortlichen Umgang mit vertraulichen Informationen. Die Leitung Ihrer Behörde oder Einrichtung verlässt sich auf Sie!\n",
+    "content": "Hier noch einmal die wichtigsten Regeln zur Vertraulichkeit von Daten: Gesetzliche und ethische Gründe erfordern einen aktiven Daten- und Informationsschutz - von allen! Beachten Sie die Regelungen und Vorschriften des Datenschutz- und Informationsfreiheitsrechts und interne Regelungen Vor der Weiterleitung von Informationen sind enthaltene Meta-Informationen, die Schutzwürdigkeit und die Empfängerliste zu prüfen Besondere Vorsicht gilt bei der Verarbeitung personenbezogener Daten Für Verschlusssachen (z. B. „VS-NfD“) gelten Spezialregelungen! Im Zweifel mit der Leitungsebene abstimmen! Etwaige interne Richtlinien sind nicht auf elektronisch gespeicherte Informationen beschränkt. Sie gelten genauso für den Umgang mit Papierdokumenten und sonstigen Akten.\nGut zu wissen In der Bonus-Lektion Gesetzliche Grundlagen werden weitere wichtige Vorschriften erläutert.\n",
     "description": "",
     "tags": null,
     "title": "Zusammenfassung",
     "uri": "/05-lektion-vertrauliche-daten/09-zusammenfassung/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.\nRecherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden. Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können. Surfen Sie bewusst und bedenken Sie jeden „Klick“. Speichern Sie Informationen möglichst nur aus vertrauenswürdigen Quellen. Laden Sie keine Programme auf Ihren dienstlichen Computer aus dem Internet herunter. Überprüfen Sie im Zweifelsfall über das Schloss-Symbol in der Adresszeile Ihres Browsers das Zertifikat der Web-Seite. ",
     "description": "",
     "tags": null,
@@ -712,7 +784,7 @@ var relearn_search_index = [
     "uri": "/07-lektion-cloud/90-quiz-cloud/"
   },
   {
-    "breadcrumb": "Surfen im Internet",
+    "breadcrumb": "Sicherim Internet",
     "content": "Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.\nAnleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: '#1C90F3' title_color: black shuffle_questions: false shuffle_answers: true --- ## Was sind aktive Webinhalte? \u003e Aktive Webinhalte reichern Internetseiten um grafische oder tönende Inhalte an und sollen das Nutzungserlebnis verbessern. 1. [ ] Aktive Webinhalte sind Webseiten, auf denen der Benutzer aktiv Felder anklicken muss, um weiterzukommen. \u003eLeider falsch! Technische Webinhalte werden verwendet, um Aktionen auf Internetseiten ohne Ihre Mitwirkung automatisch auszuführen. 2. [x] Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Aktive Webinhalte wie JavaScript helfen dabei. \u003e**Richtige Antwort** 3. [ ] Aktive Webinhalte sind Webseiten, auf denen IT-Nerds ihre Computer aktiv zeigen. \u003eLeider falsch! Aktive Webinhalte werden verwendet, um Aktionen auf Internetseiten ohne Ihre Mitwirkung automatisch auszuführen. ## Wie kann man sich vor schädlichen aktiven Webinhalten schützen? \u003e Ihre Behörde oder Einrichtung richtet Ihren Browser sicher ein. 1. [ ] Warnhinweise des Browsers immer wegklicken. \u003eLeider nicht richtig. Web-Browser sind oft so eingestellt, dass sie vor der Verwendung aktiver Webinhalte eine Sicherheitswarnung ausgeben. Sie sollten diese Warnung aufmerksam lesen und sich für die sicherste Option entscheiden. 2. [ ] Man sollte nur aktiven Webinhalten mit gültigem Zertifikat vertrauen. \u003eLeider nicht richtig. Ein Zertifikat stellt nur sicher, dass das Programm oder die Internetseite von einem bestimmten Herausgeber stammt und unverändert ist. Entscheidend ist aber, ob man dem Besitzer oder der Besitzerin des Zertifikats auch vertrauen kann. Dies sollte stets geprüft werden. 3. [X] Aktive Webinhalte können immer schädlich sein. Deshalb: nicht die Sicherheitseinstellungen des dienstlichen Browsers verändern. \u003e**Richtige Antwort** 4. [ ] Ich ändere die Sicherheitseinstellungen des Browsers so ab, dass keine Sicherheitshinweise mehr angezeigt werden. \u003eLeider nicht richtig. Web-Browser sind oft so eingestellt, dass sie vor der Verwendung kritischer Webinhalte eine Sicherheitswarnung ausgeben. Sie sollten diese Warnung aufmerksam lesen und sich für die sicherste Option entscheiden. ## Welches Verhalten stellt dienstrechtlich kein Problem dar? \u003e „Selbst ist der Mann!“ - keine gute Idee bei der Nutzung der dienstlichen Infrastruktur! 1. [ ] Beschaffung und Installation von Software aus dem Internet. \u003eLeider nicht richtig. Die Beschaffung und Installation von Software aus dem Internet ohne ausdrückliche Erlaubnis der IT-Abteilung oder Ihrer Vorgesetzen ist nicht erlaubt. Denn das könnte zu großen Schäden im IT-System führen, z. B. durch das Eindringen von Viren. 2. [x] Nutzung des Internets zu dienstlichen Zwecken. \u003e**Richtige Antwort** 3. [ ] Herunterladen und Nutzen nicht lizenzierter Software. \u003eLeider nicht richtig. Die Beschaffung und Weitergabe von nicht lizenzierter Software ist nicht erlaubt. Es handelt sich dabei um ein Verhalten, das gegen geltende gesetzliche Bestimmungen verstößt. 4. [ ] Einrichtung eines eigenen Internet-Zugangs am Arbeitsplatz. \u003eLeider nicht richtig. Die Einrichtung und der Betrieb eines ungenehmigten Internet-Zugangs ist nicht erlaubt. ## Was ist in Dienstvereinbarungen, nicht gesetzlich geregelt? \u003e Die private Nutzung in der Behörde oder Einrichtung kann für die dienstlichen Daten gefährlich sein! 1. [ ] Speichern und Weiterleiten von strafbaren Inhalten. \u003eLeider nicht richtig. Das Speichern bzw. Weiterleiten von strafbaren Inhalten ist bereits gesetzlich verboten und kann strafrechtlich verfolgt werden. 2. [x] Private Nutzung des Internets am Arbeitsplatz. \u003e**Richtige Antwort** 3. [ ] Kopieren von Kino-Filmen. \u003eDas Kopieren von Kino-Filmen und anderem urheberrechtlich geschütztem Material ist durch das Urheberrechtsgesetz geregelt. ",
     "description": "",
     "tags": null,
@@ -774,6 +846,14 @@ var relearn_search_index = [
     "tags": null,
     "title": "Quiz - Viren",
     "uri": "/02-lektion-viren/90-quiz-viren/"
+  },
+  {
+    "breadcrumb": "Bonus: Gesetzliche Grundlagen",
+    "content": "Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.\nAnleitung für das Quiz (hier klicken) Wählen Sie eine Antwort durch Anklicken aus mit dem Pfeil nach rechts gehen Sie sich zur nächsten Frage mit dem Pfeil nach links können Sie zur vorherigen Frage zurückkehren am Ende kommen Sie durch einen Klick auf den Doppelhaken zur Auswertung die Glühbirne blendet einen Tipp zur aktuellen Frage ein mit dem kreisförmigen Pfeil starten Sie das Quiz neu --- primary_color: '#1C90F3' title_color: black shuffle_questions: false shuffle_answers: true --- ## Welche Behörde ist für die Aufsicht nach dem BSI-Gesetz zuständig? 1. [ ] Das jeweilige Landesamt für Informationssicherheit \u003eNein, die Aufgabe obliegt dem BSI selbst. 2. [ ] Die Branchenverbände der betroffenen Sektoren \u003eNein. Es handelt sich um eine gesetzliche und staatliche Aufgab des BSI selbst. 3. [ ] Die jeweilige Datenschutzaufsichtsbehörde \u003eNein, denn das BSI-Gesetz regelt nicht den Datenschutz. Zuständig ist das BSI selbst. 4. [X] Das Bundesamt für Sicherheit in der Informationstechnik \u003e**Richtige Antwort** ## Für wen gilt das BSI-Gesetz? 1. [ ] Nur für das Bundesamt für Sicherheit in der Informationtechnik \u003eNein, auch Unternehmen, Länder und Kommunen und anderen Bundeseinrichtungen können betroffen sein. 2. [ ] Nur für die Bundesverwaltung. \u003eNein, auch Unternehmen, Länder und Kommunen können betroffen sein. 4. [X] Potenziell für alle Behörden und Unternehmen in Deutschland \u003e**Richtige Antwort** ## Was ist der BSI IT-Grundschutz? \u003e Auch Standards wie ISO 27001 oder CISIS12 können genutzt werden. 1. [ ] Eine gesetzliche Vorgabe zur Stärkung der Resilienz von Unternehmen \u003eLeider falsch. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens. 2. [X] Ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens \u003e**Richtige Antwort** 3. [ ] Ein Sicherheitskennzeichen, das die IT-Sicherheit eines Produktes belegt \u003eNein. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens. 4. [ ] Eine Dienstleistung des Bundesamts für Sicherheit in der Informationstechnik \u003eDas stimmt nicht. Den IT-Grundschutz als Standard muss man selber umsetzen. ## Wer haftet bei der Nicht-Umsetzung der gesetzlichen Vorgaben des BSI-Gesetzes? 1. [ ] Der/die Informationssicherheitsbeauftragte \u003eNein, die Leitungsebene, § 38 Absatz 2 BSI-Gesetz. 2. [X] Die Leitungsebene der betroffenen Einrichtung \u003e**Richtige Antwort** - Das ergibt sich aus § 38 Absatz 2 BSI-Gesetz. 3. [ ] Das Bundesamt für Sicherheit in der Informationstechnik. \u003eNein, leider falsch. Die Leitungsebene der betroffenen Einrichtung haftet, § 38 Absatz 2 BSI-Gesetz. ",
+    "description": "",
+    "tags": null,
+    "title": "Quiz: Gesetzliche Grundlagen",
+    "uri": "/11-lektion-gesetzliche-grundlagen/90-quiz-gesetzliche-grundlagen/"
   },
   {
     "breadcrumb": "",
