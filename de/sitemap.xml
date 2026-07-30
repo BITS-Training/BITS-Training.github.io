@@ -9,7 +9,7 @@
     <lastmod>2021-03-06T09:10:07+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/</loc>
     <lastmod>2021-03-06T09:14:35+00:00</lastmod>
   </url>
   <url>
@@ -73,7 +73,7 @@
     <lastmod>2021-03-09T10:12:52+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/01-was-sind-computerviren/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/01-was-sind-computerviren/</loc>
     <lastmod>2021-03-06T09:15:44+00:00</lastmod>
   </url>
   <url>
@@ -125,7 +125,7 @@
     <lastmod>2021-03-09T10:13:05+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/02-typen-von-viren/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/02-typen-von-viren/</loc>
     <lastmod>2021-03-06T09:17:03+00:00</lastmod>
   </url>
   <url>
@@ -170,7 +170,7 @@
     <lastmod>2021-03-09T10:13:12+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/03-moegliche-schaeden-durch-virenbefall/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/03-moegliche-schaeden-durch-virenbefall/</loc>
     <lastmod>2021-03-06T09:28:25+00:00</lastmod>
   </url>
   <url>
@@ -215,11 +215,12 @@
     <lastmod>2021-03-09T10:13:25+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/04-infektionswege/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/04-infektionswege/</loc>
     <lastmod>2021-03-06T09:20:10+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/04-computerviren/</loc>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/04-phishing-und-pharming/</loc>
+    <lastmod>2020-07-21T15:25:02+02:00</lastmod>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/04-umsetzung-laender/</loc>
@@ -256,16 +257,14 @@
     <lastmod>2021-03-09T10:13:31+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/05-risiken-und-schaeden/</loc>
-    <lastmod>2021-03-06T09:19:53+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://bits-training.github.io/training/mehr/impressum/</loc>
     <lastmod>2020-07-21T15:32:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/05-phishing-und-pharming/</loc>
-    <lastmod>2020-07-21T15:25:02+02:00</lastmod>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/05-viren-per-e-mail/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/05-fehlgeleitete-informationen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/05-kritis-dachgesetz/</loc>
@@ -287,8 +286,8 @@
     <lastmod>2021-03-09T10:13:49+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/06-vorbeugung/</loc>
-    <lastmod>2021-03-06T09:23:56+00:00</lastmod>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/06-risiken-und-schaeden/</loc>
+    <lastmod>2021-03-06T09:19:53+00:00</lastmod>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/mehr/datenschutz/</loc>
@@ -298,7 +297,7 @@
     <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/06-it-grundschutz/</loc>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/06-fehlgeleitete-informationen/</loc>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/06-erste-hilfe/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/09-lektion-mein-arbeitsplatz/07-verhalten-im-schadensfall/</loc>
@@ -317,14 +316,14 @@
     <lastmod>2021-03-09T10:14:03+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/07-virenbefall-was-tun/</loc>
-    <lastmod>2021-03-06T09:27:50+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/07-erste-hilfe/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/07-vorbeugung/</loc>
+    <lastmod>2021-03-06T09:23:56+00:00</lastmod>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/07-grundschutz-profile-b3s/</loc>
+  </url>
+  <url>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/07-vertrauliche-informationen/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/08-lektion-mobile-geraete/08-mobile-datentraeger/</loc>
@@ -339,14 +338,14 @@
     <lastmod>2021-03-09T10:14:08+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/08-zusammenfassung/</loc>
-    <lastmod>2021-03-06T09:25:50+00:00</lastmod>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/08-virenbefall-was-tun/</loc>
+    <lastmod>2021-03-06T09:27:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/08-vertrauliche-informationen/</loc>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/08-dienstliche-und-private-nutzung/</loc>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/08-zusammenfassung/</loc>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/08-ki-verordnung/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/08-lektion-mobile-geraete/09-zusammenfassung/</loc>
@@ -357,14 +356,18 @@
     <lastmod>2021-03-09T10:19:22+00:00</lastmod>
   </url>
   <url>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/09-zusammenfassung/</loc>
+    <lastmod>2021-03-06T09:25:50+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://bits-training.github.io/training/04-lektion-internet/09-zusammenfassung/</loc>
     <lastmod>2021-03-06T09:25:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/09-dienstliche-und-private-nutzung/</loc>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/09-netiquette/</loc>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/10-netiquette/</loc>
+    <loc>https://bits-training.github.io/training/11-lektion-gesetzliche-grundlagen/09-zusammenfassung/</loc>
   </url>
   <url>
     <loc>https://bits-training.github.io/training/01-lektion-e-mails/11-zusammenfassung/</loc>
@@ -398,11 +401,11 @@
     <lastmod>2021-04-18T14:18:09+02:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/01-lektion-e-mails/90-quiz-e-mails/</loc>
+    <loc>https://bits-training.github.io/training/02-lektion-computerviren/90-quiz-computerviren/</loc>
     <lastmod>2021-03-13T04:15:44+00:00</lastmod>
   </url>
   <url>
-    <loc>https://bits-training.github.io/training/02-lektion-viren/90-quiz-viren/</loc>
+    <loc>https://bits-training.github.io/training/01-lektion-e-mails/90-quiz-e-mails/</loc>
     <lastmod>2021-03-13T04:15:44+00:00</lastmod>
   </url>
   <url>
