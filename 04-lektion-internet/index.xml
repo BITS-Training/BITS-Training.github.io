@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surfen im Internet on TEST BITS | Behörden-IT-Sicherheitstraining</title>
+    <title>Sicher im Internet on TEST BITS | Behörden-IT-Sicherheitstraining</title>
     <link>https://bits-training.github.io/training/04-lektion-internet/</link>
-    <description>Recent content in Surfen im Internet on TEST BITS | Behörden-IT-Sicherheitstraining</description>
+    <description>Recent content in Sicher im Internet on TEST BITS | Behörden-IT-Sicherheitstraining</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sun, 18 Apr 2021 14:18:09 +0200</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://bits-training.github.io/training/04-lektion-internet/01-was-ist-das-internet/</link>
       <pubDate>Tue, 09 Mar 2021 10:12:52 +0000</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/01-was-ist-das-internet/</guid>
-      <description>Das Internet ist ein weltumspannendes Netz von Millionen von Rechnersystemen. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.&#xA;Eine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.</description>
+      <description>Das Internet ist ein weltweites Netzwerk, über das Computer und andere Geräte miteinander kommunizieren. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.&#xA;Eine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.</description>
     </item>
     <item>
       <title>Gefahren im Internet</title>
@@ -30,11 +30,11 @@
       <description>Haben Sie sich schon mal Gedanken darüber gemacht, wer eine Web-Seite veröffentlicht und wer für den Inhalt verantwortlich ist?&#xA;Diese Fragen sind mit letzter Sicherheit oft nur schwer zu beantworten. Viele Informationen erscheinen im Internet anonym und ungeprüft. Die technisch leicht mögliche automatische Weiterleitung auf andere Web-Server macht es Ihnen zudem schwer, die Kontrolle zu behalten.&#xA;Stetig werden neue Technologien entwickelt, um Inhalte attraktiver, schneller und dynamischer zu präsentieren.&#xA;Dabei werden auch Methoden entwickelt, um Ihr Surf-Verhalten zu analysieren.</description>
     </item>
     <item>
-      <title>Technische Webinhalte</title>
-      <link>https://bits-training.github.io/training/04-lektion-internet/04-technische-webinhalte/</link>
+      <title>Aktive Webinhalte</title>
+      <link>https://bits-training.github.io/training/04-lektion-internet/04-aktive-webinhalte/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:25 +0000</pubDate>
-      <guid>https://bits-training.github.io/training/04-lektion-internet/04-technische-webinhalte/</guid>
-      <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:&#xA;Cookies&#xA;waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z. B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen.</description>
+      <guid>https://bits-training.github.io/training/04-lektion-internet/04-aktive-webinhalte/</guid>
+      <description>Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt zur häufigen Verwendung so genannter dynamischer oder aktiver Inhalte, die auf bestimmte Internet-Technologien zurückgreifen:&#xA;Cookies&#xA;waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z. B. zur Identifizierung in einem Online-Shop oder zur Erstellung von Nutzerprofilen.</description>
     </item>
     <item>
       <title>Schutz vor technischen Webinhalten</title>
@@ -48,13 +48,13 @@
       <link>https://bits-training.github.io/training/04-lektion-internet/06-verschluesselter-zugriff-auf-webseiten/</link>
       <pubDate>Tue, 09 Mar 2021 10:13:49 +0000</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/06-verschluesselter-zugriff-auf-webseiten/</guid>
-      <description>Die meisten Webbrowser zeigen eine verschlüsselte Verbindung durch ein entsprechendes Symbol an, häufig durch ein kleines Vorhängeschloss in der Adresszeile.&#xA;Verschlüsselte Verbindungen im Internet werden über Digitale Signaturen abgesichert. Die Ausstellung und Überprüfung Digitaler Signaturen sind technisch komplizierte Prozesse. Sie werden jedoch von den Web-Browsern automatisch erledigt, Sie können dies aber auch kontrollieren (siehe unten).&#xA;Klicken Sie auf die folgenden Begriffe, wenn Sie weitere Informationen zu Digitalen Signaturen und den damit zusammenhängenden Gefahren wünschen:</description>
+      <description>Die meisten Webbrowser zeigen eine verschlüsselte Verbindung durch ein entsprechendes Symbol an, häufig durch ein kleines Vorhängeschloss in der Adresszeile.&#xA;Verschlüsselte Verbindungen im Internet werden über „Digitale Signaturen“ abgesichert. Die Ausstellung und Überprüfung „Digitaler Signaturen“ sind technisch komplizierte Prozesse. Sie werden jedoch von den Web-Browsern automatisch erledigt, Sie können dies aber auch kontrollieren (siehe unten).&#xA;Klicken Sie auf die folgenden Begriffe, wenn Sie weitere Informationen zu „Digitalen Signaturen“ und den damit zusammenhängenden Gefahren wünschen:</description>
     </item>
     <item>
-      <title>Blocken unerwünschter Seiten</title>
-      <link>https://bits-training.github.io/training/04-lektion-internet/07-blocken-unerwuenschter-seiten/</link>
+      <title>Sperren unerwünschter Webseiten</title>
+      <link>https://bits-training.github.io/training/04-lektion-internet/07-sperren-unerwuenschter-webseiten/</link>
       <pubDate>Tue, 09 Mar 2021 10:14:03 +0000</pubDate>
-      <guid>https://bits-training.github.io/training/04-lektion-internet/07-blocken-unerwuenschter-seiten/</guid>
+      <guid>https://bits-training.github.io/training/04-lektion-internet/07-sperren-unerwuenschter-webseiten/</guid>
       <description>Einige Behörden und Einrichtungen stellen mit Hilfe von zentralen Filtersystemen sicher, dass Webseiten mit extremistischen, pornografischen und vergleichbaren Inhalten automatisch geblockt werden. Davon unabhängig sollten Sie von sich aus Internetangebote meiden,&#xA;die strafbare bzw. rechtswidrige Inhalte haben, die andere Personen am Arbeitsplatz belästigen oder - insbesondere minderjährige Kolleginnen und Kollegen - verstören können, die keinen dienstlichen Bezug haben, insbesondere wenn Ihnen die private Internetnutzung untersagt ist. </description>
     </item>
     <item>
@@ -69,7 +69,7 @@
       <link>https://bits-training.github.io/training/04-lektion-internet/09-zusammenfassung/</link>
       <pubDate>Sat, 06 Mar 2021 09:25:50 +0000</pubDate>
       <guid>https://bits-training.github.io/training/04-lektion-internet/09-zusammenfassung/</guid>
-      <description>Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.&#xA;Recherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden. Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können. Surfen Sie bewusst und bedenken Sie jeden „Klick“.</description>
+      <description>Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen technische Maßnahmen wie Firewalls und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.&#xA;Recherchieren Sie nur in vertrauenswürdigen Quellen. Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden. Fragen Sie sich immer, wer für den Inhalt verantwortlich ist und ob Sie dieser Person vertrauen können. Surfen Sie bewusst und bedenken Sie jeden „Klick“.</description>
     </item>
     <item>
       <title>Quiz - Internet</title>
